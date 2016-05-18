@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De nieuwe geschiedenis van Klein Duimpje De nieuwe geschiedenis van Roodkapje</title>
+        <author>Charles Perrault; 1628-1703</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0117</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Datering gebaseerd op jaren van werkzaamheid van de uitgever/drukker Prentnr. 27 De naam van de wederverkoper staat onderaan de prent gedrukt Te Amsterdam, bij D. Lijsen Bevat een tweede titel halverwege de prent De nieuwe geschiedenis van Roodkapje</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>De nieuwe geschiedenis van Klein Duimpje De nieuwe geschiedenis van Roodkapje</title>
+            <author>Charles Perrault; 1628-1703</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Unknown</publisher>
+            <date>[tussen 1818-1849]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>De nieuwe geschiedenis van Roodkapje</p>
+        <p>Ga zien, zegt moeder, beste kind,
+Hoe uw Grootmoeder zich bevind,
+Zij heeft in lang u niet gezien,
+Uw komst zal haar genoegen bien,
+Terwijl de Moeder Wafels bakt,
+Roodkapje die in 't mandje pakt.</p>
+        <p>Roodkapje gaat op Moeders last,
+Zoo als 't  een goede dochter past,
+Naar 't dorp, dat gij in 't verschiet,
+Hier, kind'ren! afgeteekend ziet.
+Spoed, zegt Moeder, op weg u voort,
+Opdat geen onheil u verstoort.</p>
+        <p>Een wolf, die haar in 't Bosch begroet,
+Vraagt listig waar zij henen moet,
+'k Ga naar mijn Grootemoeder zien,
+Zegt zij, en haar deez' Wafels bien,
+Den gindschen Molen pas voorbij.
+In 't eerste huis van 't Dorp woont zij.</p>
+        <p>Kom binnen! binnen riep de Vrouw,
+Onwetend wat haar nad'ren zou;
+De Wolf stapt in, en ongestoord,
+Wordt Grootmoeder hier vermoord,
+Hij zelf legt toen op het bed zich neer
+En wacht nu naar Roodkapje weer.</p>
+        <p>Het Meisje van geen kwaad bewust,
+Komt aan de Hut en klopt gerust,
+Wie daar? -- Roodkapje! -- kom mijn kind,
+Bij Grootmoeder die u bemind.
+Roodkapje stapt nu vrolijk binnen,
+Is blij en zeer verrukt van zinnen.</p>
+        <p>Zet uw Wafeltjes maar op zij,
+En komt wat in het bed bij mij;
+Roodkapje die geen kwaad vermoed,
+Doet dit ook gaarne met spoed.
+Maar de Wolf grijpt haar dadelijk aan,
+En met Roodkapje is 't gedaan.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

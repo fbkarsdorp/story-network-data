@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Eer Klaas Vaak komt sprookjesalbum bij mooie plaatjes</title>
+        <author>Pieter Louwerse; 1840-1908</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0386</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Litho's gedrukt door Emrik &amp; Binger, Haarlem</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Eer Klaas Vaak komt sprookjesalbum bij mooie plaatjes</title>
+            <author>Pieter Louwerse; 1840-1908</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam L.J. Veen</publisher>
+            <date>[1900]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>ROODVROUWTJE</p>
+        <p>Ge weet het hoe Roodkapje en hare goede Grootmoeder door een' wolf opgeslokt waren. Maar dood waren ze niet. Ze waren allebei in den buik van den wolf in het leven gebleven en toen Roodkapjes Vader dien wolf zag, doodde hij hem met zijne bijl. Hij wilde nu den wolf de huid afnemen, doch Grootmoeder riep uit den buik van den wolf: "Lieve Jan, pas op, dat je mij en Roodkapje niet raakt. Wij zitten allebei in den buik van den wolf." Eerst verschrok Vader, maar toen nam hij zijn mes, maakte den buik van den wolf open en allebei stapten ze er uit levend en wel. Dat Roodkapje alleen door onderweg te loopen spelen bijna het leven verloren had, vergat ze nooit. Toen ze het volgende jaar weer een mandje met wafels naar Grootmoeder moest brengen, liep ze het vuur uit hare schoentjes, maar toen ze aan het touwtje trok om de deur open te doen, was ze toch wel wat bang, dat er weer een wolf op Grootmoeders bed zou liggen. Gelukkig was dat niet waar. Grootmoeder lag zelfs niet op bed, maar zat te spinnen, en omdat ze nu zoo goed opgepast had, kreeg ze van Grootmoeder er nog een rood jurkje bij en toen noemden alle menschen haar niet meer "Roodkapje" maar "Roodvrouwtje".</p>
+      </div>
+    </body>
+  </text>
+</TEI>

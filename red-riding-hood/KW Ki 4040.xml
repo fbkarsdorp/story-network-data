@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje een sprookje</title>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <author>Jan Frederik Rinke; 1863-1922</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0260</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje een sprookje</title>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+            <author>Jan Frederik Rinke; 1863-1922</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam " Vennootschap Letteren en Kunst "</publisher>
+            <date>[1909]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Er woonde in een dorpje een lief klein meisje, Roosje geheeten. Vader en Moeder en ook Grootmoeder hielden veel van haar. Eens had Roosje voor haar verjaardag een rood kapje gekregen, dat haar heel lief stond. Ieder noemde haar daarna altijd "Roodkapje".</p>
+        <p>Toen Grootmoeder erg ziek werd, zei Moeder: "Roodkapje, ik heb hier in een mandje wafelen, eieren en een flesch wijn, breng dat naar Grootmoeder, maar blijf onderweg niet spelen!"</p>
+        <p>Roodkapje beloofde dat, en ging vroolijk op weg. 't Was prachtig weer; de vogeltjes zongen in de boomen en langs den weg bloeiden mooie bloemen.</p>
+        <p>Toen Roodkapje een haal eind doorgeloopen had, zag zij een grooten wolf aankomen. "Goeden dag Roodkapje", zei de wolf, en Roodkapje zei: "Dag wolf", -- want zei wist niet dat de wolf een boos dier was --, "Waar ga je zoo vroeg heen," vroeg de wolf. Naar mijn zieke grootmoeder met wafelen en eieren. En waar woont je grootmoeder? In het kleine witte huisje midden in het bosch. De wolf was erg blij, dat hij wist waar grootmoeder woonde en zei: "Nu dan zullen wij eens zien, wie er het eerst is, want ik moet ook dien weg uit."</p>
+        <p>Roodkapje vergat wat zij haar moeder beloofd had en plukte mooie bloempjes tot een ruiker. De wolf liep intusschen hard verder en was in een oogenblik bij het huisje van grootmoeder.</p>
+        <p>"Klop, klop," deed de wolf. "Wie is daar?" riep grootmoeder. "Ik ben het, Roodkapje, ik breng u lekker wafelen en versche eieren." "Trek maar aan het touwtje, dan gaat de deur vanzelf open," riep grootmoeder. En de wolf trok de deur open, liep dadelijk op Grootmoeder toe en hapte haar op. Toen trok de wolf de kleeren van Grootmoeder aan en ging in bed liggen.</p>
+        <p>Een poosje daarna hoorde hij aan de deur: "Klop, klop!" "Wie is daar?" riep de wolf met een fijn stemmetje. "Ik ben het Roodkapje, ik heb wafelen en eieren voor u meegebracht." "Trek maar aan het touwtje," riep de wolf, "dan gaat de deur van zelf open." Toen de deur open ging, liep Roodkapje naar het bed en zei: "Kijk eens Grootmoeder wat ik voor u heb meegebracht, heerlijke wafelen en versche eieren van onze eigen kippen, nu zult ge wel spoedig weer gezond worden." "Dat is heel lief van je, Roodkapje, maar kom bij mij in bed zitten; ik ben een beetje doof, en kan dan ook je lieve gezichtje beter zien." Roodkapje kleedde zich uit en ging bij den wolf in het bed zitten, maar wat schrok zij toen haar grootmoeder haar aanzag.</p>
+        <p>"Grootmoeder," riep ze, "wat heeft u groote oogen!" 
+"Dat is om des te beter te kunnen zien!" 
+"En wat heeft u groote ooren!" 
+"Dat is om des te beter te kunnen hooren!" 
+"En wat heeft u groote handen!" 
+"Dat is om je beter te kunnen pakken!" 
+"En wat heeft u een grooten mond!" 
+"Dat is om je des te beter te kunnen opeten," riep de wolf, en wilde nu ook Roodkapje opslokken.</p>
+        <p>Zij begon nu uit alle macht te schreeuwen. Dit hoorde een houthakker, die in het bosch aan het werk was. Hij liep zoo hard hij naar het eenige huisje, dat in het bosch stond, en gooide de deur open. De wolf wilde door de achterdeur weg sluipen, maar de houthakker sloeg met zijn bijl op zijn kop, zoodat de wolf dood neerviel. Toen sneed hij den wolf de buik open, en gelukkig leefde grootmoeder ook nog.</p>
+        <p>Toen Roodkapje weer thuis was beloofde zij haar moeder, dat zij nooit meer onderweg zou treuzelen als zij een boodschap moest doen.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

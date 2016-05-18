@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje ; De toovergodin</title>
+        <author>Charles Perrault; 1628-1703</author>
+        <author>Louis Auguste Gustave Doré; 1832-1883</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0275</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje ; De toovergodin</title>
+            <author>Charles Perrault; 1628-1703</author>
+            <author>Louis Auguste Gustave Doré; 1832-1883</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam : Gebrs. E. en M. Cohen</publisher>
+            <date>ca. 1905</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Lieve meisjes! blijft niet staan,
+Zoo een onbekende gast,
+Met zijn praatjes u verrast
+Als gij ergens heen wilt gaan,
+Schoon gij nergens wolven ziet,
+O! 't ontbreekt aan wolven niet.</p>
+        <p>'k Ken er die in schapenvacht,
+Loeren op uw rust en vreugd:
+Rept u voort en loopt niet zacht,
+Want zij kennen eer noch deugd.
+Vraagt aan wijze lieden raad:
+Wolven nemen list te baat.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Hetty van den Heuvel</author>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0434</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Hetty van den Heuvel</author>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Aartselaar ; Harderwijk] Deltas</publisher>
+            <date>cop. 1983</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje mocht naar oma een mandje lekkers brengen. Oma was een beetje ziek. "Pas op voor de boze wolf!” zei mama.</p>
+        <p>Maar de boze wolf was heel aardig. Met zijn liefste stem vroeg hij Roodkapje waar ze heen ging. "Naar oma," zei ze.</p>
+        <p>Even later klopte de wolf op oma's deur. "Ik ben Roodkapje," riep hij. "Kom maar binnen," zei oma. In één hap at de wolf haar op. Toen kroop hij in bed. Hij wachtte op Roodkapje.</p>
+        <p>"Oma, wat hebt u grote tanden!” schrok ze. "Daar kan ik je goed mee opeten!” brulde de wolf, en hij slokte haar gulzig op. Toen viel de wolf in slaap.</p>
+        <p>De jager hoorde hem snurken. Hij schoot de wolf dood. Toen haalde hij oma uit de buik. Wat waren ze allemaal heel blij.</p>
+        <p>Samen smulden ze van het lekkers uit Roodkapjes mandje. Ze leefden lang en gelukkig.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

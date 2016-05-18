@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje een flap-uit boek</title>
+        <author>Katinka Kessels</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0136</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje een flap-uit boek</title>
+            <author>Katinka Kessels</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Weesp Unieboek / Van Reemst</publisher>
+            <date>cop. 1983</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Er was eens een klein meisje, dat in een schattig huisje woonde aan de rand van het bos. Iedere dag droeg ze haar rode kapje en manteltje, dat haar grootmoeder speciaal voor haar had gemaakt. De mensen in het dorp noemden haar daarom ook Roodkapje. Op 'n dag gaf haar moeder haar een mand vol lekkere dingen. 'Hier, breng dit maar naar grootmoeder' zei ze, 'het zal haar goed doen, zeker nu ze zo ziek is!' Roodkapje knikte. Ze hield heel veel van haar grootmoeder en ze vond het al lang leuk dat ze mocht gaan. 'Wees voorzichtig in het bos en blijf op de paden!' riep haar moeder haar zwaaiend achterna.</p>
+        <p>Even later ontmoette het meisje een wolf... 'Goeiemorgen!' glimlachte het dier vriendelijk, 'waar ga jij op zo'n mooie dag naar toe?' 'Grootmoeder is ziek!' antwoordde Roodkapje, 'ik breng haar wat lekkers.' De wolf dacht even na. Die grootmoeder leek hem een best maaltje, maar het meisje...? Mmmmm! Hij likte zijn lippen al af. Toen kreeg hij een goed idee. 'Zeg, waarom pluk je niet wat van die bloemen daar, voor je oma?' opperde hij. Ja! Dat was een goed idee. Meteen ging Roodkapje van het pad af, het bos in waar de bloemen stonden. De wolf rende intussen zo snel hij kon naar Grootmoeders huisje...</p>
+        <p>Bij de voordeur klopte hij zachtjes aan. 'Wie is daar?' vroeg Grootmoeder. De wolf antwoordde met hoge stem: 'Roodkapje!' 'Kom toch binnen!' riep het oude vrouwtje, blij dat haar kleinkind haar kwam bezoeken. De wolf deed de deur open en sloop naar binnen... Toen, met één sprong landde hij op het bed en slokte de arme grootmoeder op... "Het is maar goed, dat niet iedereen zo slim is als ik!' lachte de wolf tevreden, terwijl hij de nachtpon en het slaapmutsje van Roodkapjes Grootmoeder opzette. Gauw dook hij onder de dekens. Net op tijd, want Roodkapje stond al op de stoep...</p>
+        <p>Wat was dat raar... De voordeur stond zo maar open! 'Grootmoeder?' riep het meisje. 'Kom binnen!' antwoordde de wolf met verdraaide stem. Een beetje aarzelend liep Roodkapje naar Grootmoeder's bed. Ze vond dat het oude vrouwtje er inderdaad vreemd uitzag. 'Oh, Grootmoeder, wat hebt u grote oren?' fluisterde ze verbaasd. 'Daar kan ik beter mee horen!' zei de gemene wolf. 'En wat hebt u grote ogen?' 'Daar kan ik je beter mee zien!' 'En... en grootmoeder, wat zijn dat voor grote tanden?' 'Daar kan ik je beter mee ETEN!!' schreeuwde de wolf, terwijl hij uit het bed naar haar toe sprong. Maar Roodkapje was al weg... Help, hèlp…’ gilde ze.</p>
+        <p>Een jager die haar met de wolf had zien praten en die haar naar het huisje was gevolgd, rende naar binnen. Met één schot doodde hij de boze wolf en toen hij de slokop opensneed kwam Grootmoeder er veilig en wel weer uit. Wat was Roodkapje blij! Eerst bedankte ze de jager die haar en Grootmoeder het leven had gered en toen kreeg Oma een flinke pakkerd, het mandje met eten en de bos bloemen. Eén ding wist Roodkapje zeker: voortaan zou ze naar haar moeder luisteren en niet meer van het pad afgaan!</p>
+      </div>
+    </body>
+  </text>
+</TEI>

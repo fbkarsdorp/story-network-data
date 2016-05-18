@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Het huisje van Roodkapje</title>
+        <author>Sabrina Orlando</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0021</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Het huisje van Roodkapje</title>
+            <author>Sabrina Orlando</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam Mulder</publisher>
+            <date>[1996]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>"Hier is een mandje met lekkers voor Oma" zegt moeder tegen Roodkapje. "Ga maar gauw en blijf op de paden!" "Goed, moeder! Dag!" roept het meisje.</p>
+        <p>Maar Roodkapje gaat bloemen plukken in het bos en dan komt ze de boze wolf tegen! "Laten we doen wie er het eerste bij Oma's huisje is!" zegt hij.</p>
+        <p>In een wip is de wolf bij Oma's huis. Hij gaat naar binnen en hap! In één keer slokt hij Oma op. Hij trekt haar nachtpon aan en gaat in bed liggen...</p>
+        <p>"Oma, wat heb je grote tanden!" zegt Roodkapje. "Om je beter te kunnen opeten!” brult de wolf. En in één hap eet hij Roodkapje helemaal op! </p>
+      </div>
+    </body>
+  </text>
+</TEI>

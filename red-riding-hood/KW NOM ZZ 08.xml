@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Het klokboek voor de jeugd</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0276</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Het klokboek voor de jeugd</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Tiel H.C.A. Campagne &amp; Zoon</publisher>
+            <date>[185-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje.</p>
+        <p>Roodkapje's moeder geeft haar koekjes en boter, om aan grootmoeder te brengen.</p>
+        <p>Roodkapje plukt bloemen in het bosch.</p>
+        <p>De wolf wacht op Roodkapje, om haar te vragen, waarheen ze gaat.</p>
+        <p>Roodkapje tikt aan grootmoeder's deur: de wolf roept: "Kom binnen!"</p>
+        <p>O grootmoeder! wat hebt u groote oogen.
+Dat is om u beter te zien, mijn kind, zegt de wolf.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

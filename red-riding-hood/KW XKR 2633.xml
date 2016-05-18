@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sprookjes</title>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0327</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Omslagtitel K-nummer op de achterkant K 390 Datering op basis K-nummer tussen 1941 en 1948 Ook verschenen zonder K-nummer In dezelfde uitvoering is verschenen 'Sprookjes naar Andersen' Bevat De wolf en de zeven geitjes, Sneeuwwitje, Vrouw Holle, Asschepoester, Repelsteeltje (tweemaal afgedrukt), Roodkapje, Hans en Grietje</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Sprookjes</title>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l. s.n. ]</publisher>
+            <date>[ca. 1943]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Er was eens een klein lief meisje, dat Roodkapje genoemd werd. Dat kwam omdat zij altijd een snoezig rood mutsje droeg, dat haar Grootmoeder voor haar had gemaakt.</p>
+        <p>Op zekeren dag zei de moeder van Roodkapje: “Kindjelief, Grootmoeder is ziek. Ga jij nu eens naar haar toe en breng haar dan iets lekkers". En zij gaf Roodkapje een mandje mee, waarin allerlei heerlijke, zaken waren. Nu woonde Grootmoeder een heel eind buiten het dorp en om naar haar huisje te komen moest Roodkapje door een groot bosch. Daar ontmoette Roodkapje de wolf.
+Het meisje wist heelemaal niet, hoe 'n leelijk beest die wolf eigenlijk wel was en vertelde met een stralend gezichtje over grootmoeder en het bezoek dat zij haar brengen ging. En ondertusschen plukte zij een prachtige ruiker.</p>
+        <p>De wolf maakte zich uit de voeten, naar het huis van Grootmoeder. Daar hapte hij het arme oude vrouwtje met één slok op, trok Grootmoeders kleeren aan en ging in haar bed liggen. Toen Roodkapje binnen kwam, trok hij de dekens flink over zich heen, zoodat alleen zijn leelijke snuit er boven uit keek. Roodkapje vond dat Grootmoeder er echt vreemd uit zag. “Grootmoeder wat heb je een groote ooren, zei ze. “Dan kan ik je beter hooren", antwoordde de wolf. “Zeg, Grootmoeder, wat heb je een groote handen!” “Dan kan ik je beter pakken!" “Grootmoeder wat heb je een groote mond!’ “Dan kan ik je beter opeten", schreeuwde de wolf en hij sprong uit het bed en at Roodkapje ook op.</p>
+        <p>En nu ging de wolf naar het bosch om eens lekker uit te slapen en hij snurkte zoo luid dat de jager het hoorde. Nou, die vond het maar wat verdacht dat die wolf zoo'n dikke buik had en hij nam zijn mes en sneed den wolf open. Roodkapje en Grootmoeder sprongen er dadelijk uit, zij waren er nog goed vanaf gekomen. En de jager stroopte den wolf het vel af en nam het mee om er een bont van te maken.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

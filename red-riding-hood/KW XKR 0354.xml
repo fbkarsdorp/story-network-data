@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Margit Sillaber</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0307</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Margit Sillaber</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam Mulder &amp; Zoon</publisher>
+            <date>cop. 1989</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>"Roodkapje," zei de moeder, "hier heb je een mandje met wijn en koek, breng dat naar je zieke grootmoeder. Die dingen zullen haar beter maken. Blijf op de paden lopen en pas op voor de boze wolf!" Roodkapje beloofde goed op te letten. Al gauw kwam de wolf haar tegemoet en hij zei vriendelijk: "Neem je voor je grootmoeder geen bloemen mee?" Daarna vroeg hij nog, waar grootmoeder woonde, groette en liep verder.</p>
+        <p>Roodkapje dacht: "Grootmoeder zal blij zijn met bloemen. En ze plukte voor haar een flinke bos. De boze wolf liep ondertussen naar het huisje van de grootmoeder en at haar op met huid en haar. Daarna ging hij in bed liggen. Toen Roodkapje binnenkwam, vroeg ze verbaasd: "Grootmoeder, wat heb je een grote mond?" - "Dan kan ik je beter opeten!" zei de wolf, sprong uit bed en at ook Roodkapje op.</p>
+        <p>Toen ging hij weer in bed liggen en snurkte zo, dat de muren ervan schudden. Dat hoorde de jager, die juist voorbij liep. "Hé," dacht hij, "de oude vrouw snurkt anders toch niet zo!" Toen hij de wolf in bed zag, wist hij, wat er gebeurd was.</p>
+        <p>De jager sneed de buik van de wolf open. Wat was hij verbaasd, toen niet alleen de grootmoeder eruit kwam, maar ook Roodkapje. Al gauw waren ze van de schrik bekomen en gingen gezellig om de koffietafel zitten.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

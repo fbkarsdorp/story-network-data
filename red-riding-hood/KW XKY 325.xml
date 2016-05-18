@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <author>E. Mauritius</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0381</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Gebroeders Grimm zijn Jacob en Wilhelm Grimm</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+            <author>E. Mauritius</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l] Omnium-Holland</publisher>
+            <date>1977</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Aan de rand van het bos, vlak bij een klein stadje, woont een klein lief meisje. Ze wordt Roodkapje genoemd. Want ze draagt van 's morgens vroeg tot 's avonds laat een kapje van rood fluweel. Dat heeft grootmoeder gemaakt voor haar verjaardag.</p>
+        <p>"Roodkapje," roept moeder, "kom eens hier! Doe deze fles wijn, het vlees, de koek en de boter eens in de mand, en breng alles vlug naar grootmoeder. Die is ziek en daarom moet ze flink eten. Denk er om, dat je onderweg niet treuzelt, en vergeet niet, haar de groeten te doen!" Roodkapje zegt: "Ik zal goed opletten en nergens blijven staan. Dat beloof ik je." "Goed zo," zegt moeder, "Tot straks dan."</p>
+        <p>Onder de bomen van het bos is het heerlijk koel. Roodkapje stapt onbezorgd voort. Daar komt de wolf uit de struiken te voorschijn. "Goeden morgen," zegt het meisje vriendelijk. De wolf heeft vandaag nog niets gegeten en kijkt nieuwsgierig in de mand. "Aan wie breng je dat lekkere eten, die koek en die fles wijn?" "Dat is allemaal voor grootmoeder, want die is erg ziek en ook al oud." "En waar woont je grootmoeder?" "Bij de drie eiken, diep in het bos." Meer hoeft de boze wolf niet te weten. "Eerst eet ik de oude vrouw op en dan Roodkapje," denkt de sluwe wolf! "Zou je niet een paar bloemetjes voor je grootmoeder plukken?" vraagt hij listig. "Daar zal ze vast heel blij mee zijn." "Ja, dat doe ik," denkt Roodkapje en ze vergeet helemaal, wat ze moeder heeft beloofd. IJverig begint ze bloemetjes te plukken en de wolf rent naar het huis bij de eiken.</p>
+        <p>Hij klopt netjes aan en zegt met een piepstem: "Ik ben het, Roodkapje!" Grootmoeder roept: "Kom naar binnen!" Met één sprong is de wolf bij het bed en slokt de vrouw op met huid en haar. Dan trekt hij snel een jurk aan, trekt het gordijn dicht en begint luid te snurken.</p>
+        <p>Daar komt Roodkapje. "Dag!" roept Roodkapje, "Kijk eens, wat ik hier heb. Bloemetjes en een mand vol heerlijke dingen. Oef, wat is die mand zwaar!" Maar het blijft doodstil in huis. Roodkapje kijkt eens achter het bedgordijn om grootmoeder te wekken. Maaaar ... wat is dat? Is dat grootmoeder? Roodkapje staat stokstijf van de schrik. "Grootmoeder, wat heb je grote oren," stamelt ze. "Dan kan ik je beter horen, lief kind. Kom eens een beetje dichter bij." "En wat heb je grote ogen!" "Dan kan ik je beter zien." "En wat heb je grote handen!" "Dan kan ik je beter pakken!" "En wat heb je een vreselijk grote mond!" Dan kan Roodkapje niets meer zeggen, want ze zit al in de maag van de wolf.</p>
+        <p>Even later loopt de jager langs het huisje. Geschrokken blijft hij opeens staan. "Wie snurkt daar zo? Zou er wat gebeurd zijn?" Hij gaat naar binnen en ziet de wolf in bed liggen. "Ha!" roept hij, "Eindelijk heb ik je te pakken. Nu krijg je je verdiende loon!" Hij grijpt al naar zijn geweer, maar opeens denkt hij: "Hé, waar is de oude vrouw? Zou de wolf haar opgegeten hebben?" Dan pakt hij snel een schaar en knipt de buik van de wolf open. En.... daar komen Roodkapje en grootmoeder springlevend te voorschijn! "Haal gauw een paar stenen uit de beek," zegt de jager. "Die stoppen wij in de buik van de wolf en naaien hem dicht. Dan is het gauw met hem gedaan en wij eindelijk rust!"</p>
+        <p>Grootmoeder bedankt de jager hartelijk en nodigt hem uit voor het feestmaal van vlees, koek en wijn. Roodkapje springt vrolijk in het rond. "Nu kan de wolf ons niets meer doen! En ik zal voortaan goed onthouden wat moeder zegt."</p>
+      </div>
+    </body>
+  </text>
+</TEI>

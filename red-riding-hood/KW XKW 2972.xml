@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0375</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Uitgever vermoedelijk B. Jacobs. - Op omslag W. Boekhov(e?), Middelharnis, Westdijk Met lichtblauwe kaders op voor en achterkant omslag. - Op de omslag ontmoeting Roodkapje (witte bloes, blauw schort) met de wolf Op middenpagina's 2 paginagrote illustraties Datering uitgever werkzaam van 1856-1930 (Van haneboek tot Hoeksema / S.J. Stevan); schatting</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Groningen B. Jacobs ]</publisher>
+            <date>[191-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Er was eens een klein aardig meisje, dat van haar grootmoeder een rood kapje ten geschenke had gekregen. Dat stond haar zoo goed, dat de menschen haar altijd Roodkapje noemden.</p>
+        <p>Haar moeder zei eens: Roodkapje, grootmoeder is van nacht ziek geworden, ga naar haar toe en breng haar een flesch wijn en versche wafels. Roodkapje deed wat haar moeder verlangde en begaf zich op weg.</p>
+        <p>Toen zij een poosje geloopen had, ontmoette haar de booze wolf. Dag Roodkapje, waar gaat dat zoo vroeg naar toe? Ik ga mijn grootmoeder bezoeken. Zoo, zoo, en waar woont die? Dicht bij, in het witte huisje, waar de drie groote dennen voor staan. Ja dat is waar ook! zei de wolf, en liep haastig van Roodkapje weg, die weer aan het bloemen plukken en vlinders vangen ging.</p>
+        <p>De wolf klopte aan het huis der grootmoeder. Wie is daar? vroeg deze. Ik ben Roodkapje riep de wolf met eene gemaakte stem., "ik kom u wijn en wafels brengen." De grootmoeder trok aan een koord, de deur ging open en de wolf trad binnen. Aanstonds sprong hij op het bed en verslond de zieke vrouw met huid en haar. Toen trok hij grootmoeders kleeren aan, zette haar bril op, trok haar muts over het hoofd en legde zich zoo onder de dekens.</p>
+        <p>Eindelijk kwam Roodkapje binnen; zij ging bij het bed staan en verstrikte zeer. "Grootmoeder," zei ze, "waarom hebt ge van zulke groote oogen?" "Om je beter te kunnen zien," bromde de wolf. "Grootmoeder, waarom hebt ge zulke groote handen?" vroeg Roodkapje verder. "Om je beter te kunnen pakken." "Grootmoeder, waarom hebt ge zulk een grooten mond?" vroeg Roodkapje nog eens. "Om je beter te kunnen opeten," brulde de wolf, en meteen verslond hij ook Roodkapje geheel en al. Roodkapje en de grootmoeder waren niet dood, want de wolf had ze zoo gulzig naar binnen geslikt, dat hij zich den tijd niet gegund had ze eerst goed te kauwen.</p>
+        <p>Maar nu kreeg hij het benauwd. Hij ging dus om een beetje te bekomen een poosje slapen. Juist kwam er een jager voorbij, die het huis vond openstaan en binnen trad. Toen hij den wolf bemerkte, sloeg hij hem dadelijk dood. Nu hoorde hij de grootmoeder en Roodkapje steunen en kermen. De jager nam nu een groote schaar, knipte den buik van den wolf open en verloste zoo Roodkapje en de grootmoeder die spoedig van den schrik bekwamen.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

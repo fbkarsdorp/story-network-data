@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Het reuze sprookjesboek van Grimm, Andersen en Perrault</title>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Nardini</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0091</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Gebroeders Grimm zijn Jacob en Wilhelm Grimm. - Rugtitel Het reuze sprookjesboek Twee illustraties zijn gesigneerd met 'Nardini'</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Het reuze sprookjesboek van Grimm, Andersen en Perrault</title>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Nardini</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Aartselaar ; [Oosterhout] Deltas</publisher>
+            <date>cop. 2005</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Er was eens een klein meisje van wie de naam Marietje, Mathilda of Kitty kan zijn geweest. Want niemand noemde haar ooit anders dan Roodkapje, vanwege de rode capuchon die ze zo vaak ophad.</p>
+        <p>Roodkapje was een aardig meisje. Ze had maar zelden last van boze buien. Vaak was ze zo hulpvaardig en ijverig als je je maar kon wensen. Nu gebeurde het op een dag dat Roodkapje en haar moeder aan de ontbijttafel zaten, toen er een groot wit konijn uit de bossen kwam gehuppeld. "Goedemorgen, dames", groette het konijn een beetje hijgend. "Goedendag, konijn", antwoordden Roodkapje en haar moeder. "Wat breng je voor nieuws van grootmoeder, die aan de andere kant van het bos woont?" Het konijn trok in diep gepeins zijn neusje een paar maal omhoog. "Grootmoeder? Ik geloof dat ik die naam al eens eerder heb gehoord, maar al slaat u me dood, ik zou absoluut niet weten wat dat eigenlijk voor een beest is." "Grootmoeder is helemaal geen beest, maar een lieve oude dame met een hoedje met lintjes op en een klein brilletje met dikke glazen. Je kent haar best, konijn." "Oh, is dat die mevrouw die elke morgen een bord met verse slablaadjes voor me neerzet? Ik wist toch niet dat zij een grootmoeder was", zei het konijn verbaasd. "Wat dom van me! Maar zie je, m'n geheugen is niet meer wat het geweest is. Ik vergeet af en toe gewoonweg om adem te halen!" "Maar hoe is het nu met grootmoeder? Want je hebt toch een boodschap van haar, konijn?" zei Roodkapjes moeder al een klein beetje ongeduldig. "Ja, precies, natuurlijk", antwoordde het konijn terwijl het nadacht. "Een boodschap, zei u? Juist, ja, ja, ja, een boodschap! Oh, maar natuurlijk! Vanmorgen was het bord met slablaadjes er niet en toen dacht ik: zou ze ziek zijn? En toen krabbelde ik aan de deur en toen riep die oude dame dat ik Roodkapje moest waarschuwen. Ja, allicht, daarom ben ik hier!" Het konijn klaarde er helemaal van op nu het zich alles weer wist te herinneren.</p>
+        <p>"Zie je wel, alles heeft een reden, zeg ik maar altijd! En als ik nu een ogenblikje op dat koolveld daar mag uitrusten… een paar sappige blaadjes na zo'n vermoeiende reis doen een konijn goed, zeg ik altijd maar..." En het konijn wipte weg, nog steeds in een druk gesprek met zichzelf gewikkeld.</p>
+        <p>"Arme grootmoeder!" riep Roodkapje uit. "Ik moet er onmiddellijk heen. Ik zal wat eten meenemen. Dan zal ze gauw weer beter zijn." "Maar het bos is heel gevaarlijk", zei haar moeder angstig. "De grote, boze wolf loopt rond en hij loert op de mensen die langskomen om ze op te eten." "Ik ben niet bang voor de grote, boze wolf", zei Roodkapje, "en grootmoeder verwacht me. Wees maar niet bang, mams, ik kom wel heelhuids door het bos." "Wees toch maar heel voorzichtig en kom gauw terug," zei haar moeder, "want ik heb geen ogenblik rust voor ik je weer terugzie."</p>
+        <p>Een ogenblik later ging Roodkapje op weg met een mandje met eten. Het konijn wipte vooruit om haar de weg te wijzen. Ze was al dicht bij het huisje van haar grootmoeder toen ze twee vogeltjes zag. Die zaten op een tak boven haar hoofd en ze groetten Roodkapje heel lief. Ook waarschuwden zij haar: "Pas op, Roodkapje! De grote, boze wolf is zojuist hierlangs gekomen!" "Ik ben niet bang voor de grote, boze wolf", antwoordde Roodkapje, precies zoals ze dat tegen haar moeder had gedaan. "Mij zal hij niets doen!" Terwijl ze die woorden sprak, vlogen de vogeltjes verschrikt omhoog, want uit de dichte struiken sprong nu de wolf in eigen persoon naar voren, precies langs de weg die Roodkapje moest gaan. "Tot ziens!" zei het konijn, en het wipte het eerste beste holletje binnen dat het kon vinden. "Ik ben niet bang voor de grote, boze wolf", herhaalde Roodkapje, maar nu met heel wat minder moed dan een minuutje eerder, want pas nu zag ze wat een grote, scherpe tanden de wolf had.</p>
+        <p>"Bang voor een goeie, ouwe wolf zoals ik? Natuurlijk ben je dat niet", gromde de wolf. Hij probeerde te glimlachen en liet zijn tanden als messen nog meer zien. "Vooral meisjes met rode kapjes op hun hoofd doe ik niets! Wat heb je daar in je mandje? Vertel het eens aan die goeie, ouwe oom Wolf." Roodkapje probeerde dapper verder te spreken. Het ging niet zo best, want haar tandjes klapperden bibberend tegen elkaar. "Ik breng honing en vers brood en bessenwijn naar het huisje van mijn grootmoeder daarginds", legde Roodkapje uit. "Ze zegt altijd dat niets zo goed is als bessenwijn om weer beter te worden als je een beetje ziek bent." "Wat aardig", zei de wolf. "Ik ben door je goedhartigheid diep getroffen. Ga maar gauw verder, lief kind." Roodkapje, die nauwelijks kon geloven dat ze er zo goed afkwam, stapte snel door. Maar nauwelijks liep ze verder, of de valse glimlach verdween van het gezicht van de boze wolf. Met een paar sprongen ging hij het bos in en langs een weggetje dat Roodkapje niet kende en dat veel korter was, kwam hij binnen een paar minuten bij het huisje van grootmoeder aan.</p>
+        <p>Grootmoeder moet heel vast hebben geslapen, anders kan ik niet verklaren dat ze ongemerkt werd verslonden, in één enorme hap van het grote dier. Hoe het ook zij, ze verdween zonder een woord te zeggen in de maag van de wolf, waar het opeens wel erg donker voor haar moet zijn geworden... De wolf, die tevreden over zijn buikje aaide, zag door het raam hoe Roodkapje naderde over het pad voor het huis met haar mandje vol lekkernijen. Haastig trok hij de gordijnen dicht, zodat de kamer nog maar schemerachtig werd verlicht. Met dezelfde moed zette hij het mutsje van grootmoeder op zijn kop, haar brilletje op zijn neus, en floep! sprong hij in bed.</p>
+        <p>Toen Roodkapje om de hoek van de deur keek, kon ze niet al te goed onderscheiden wat er binnen was. Maar ze dacht natuurlijk dat het grootmoeder was die daar in bed lag, met haar mutsje en haar brilletje op. "Mag ik binnenkomen, grootmoeder?" vroeg Roodkapje. "Kijk, hier is wat te eten en wat te drinken, dan ben je gauw weer beter!" "Maar natuurlijk, Roodkapje. Ik ben blij je te zien!" zei de wolf met een piepstemmetje. Roodkapje kwam dichter bij het bed. "Wat heb je grote ogen, oma", zei ze. "Ik heb nooit eerder gezien dat ze zo konden schitteren." "Dat is om je beter te kunnen zien, liefje", piepte de boze wolf. "En vergeef me dat ik het zeg, maar wat zijn je oren groot", vervolgde Roodkapje, die haar verbazing niet kon verbergen. "Dat is om je beter te kunnen horen, meisje", verzekerde de wolf. "Ik wil niet onbeleefd zijn, oma," waagde Roodkapje verder te zeggen, "maar zijn je armen altijd zo lang geweest?" "Dat is om je beter te kunnen omhelzen, schat!" "Neem het me alsjeblieft niet kwalijk, lieve oma, maar het lijkt alsof je tanden wel drie keer zo groot en scherp zijn", stamelde Roodkapje, nu helemaal van haar stuk door die vreemde grootmoeder. "Dat is om jou beter te kunnen opeten!" brulde de wolf nu. Met één zwaai van zijn poot haalde hij Roodkapje naar zich toe en hij schrokte haar op, net als de grootmoeder, in één geweldige hap.</p>
+        <p>Binnenin de wolf vond Roodkapje haar slapende grootmoeder. "Word wakker, grootmoeder. We zijn allebei opgegeten door de grote, boze wolf", fluisterde Roodkapje. "Goeie genade, kind, dit is niet het ogenblik voor zulke flauwe spelletjes", mompelde de lieve, oude dame slaapdronken. "Laat me nog even met rust, dan ben je een lieve meid." Omdat er voor het ogenblik niet veel aan te doen was, besloot Roodkapje om dan zelf ook maar een tukje te gaan doen en ze sloot haar oogjes.</p>
+        <p>De wolf, die de dubbele maaltijd een beetje zwaar op z'n maag lag, besloot nog een ogenblikje in bed te blijven liggen en daar een dutje te doen. Algauw was er in de kamer niets anders te horen dan het zware gesnurk van het dier en héél zachtjes het zuchten van Roodkapje en grootmoeder binnenin.</p>
+        <p>Nu had toevallig een jager de hele dag de sporen van de wolf gevolgd, en tenslotte kwam hij bij het huisje van grootmoeder aan, waar de pootafdrukken nog kersvers waren. Toen hij naar binnen ging, dacht hij eerst, net als Roodkapje, dat het grootmoeder was die daar in bed lag, maar toen bij de gordijnen openschoof, zag hij algauw dat het niemand anders was dan de grote, boze wolf aangekleed als grootmoeder. Zonder hem te wekken ging de jager op zijn tenen weer naar buiten en daar wachtte hij zijn kans af. Kort daarna werd de wolf wakker en slaapdronken waggelde hij naar de deur. Toen de wolf naar buiten kwam, wierp de jager handig een lasso. De lus gleed door tot over de poten van de wolf. De jager gooide het andere eind van het touw over een boomtak en trok het daarna strak. Voor de wolf wist wat er gebeurde, bungelde hij in de lucht met zijn kop naar beneden. Hij loeide van kwaadheid en van angst. Hoe groot was de verbazing van de jager toen plotseling Roodkapje en haar grootmoeder uit de muil van de wolf kwamen gekropen en ongedeerd op de grond sprongen!</p>
+        <p>"Wel heb ik van mijn leven, ik moet uit bed gevallen zijn!" riep de oude dame uit. Het kostte Roodkapje grote moeite om uit te leggen wat er in werkelijkheid was gebeurd. Grootmoeder en de jager lachten zo, dat hun kaken er pijn van deden. Het was haast niet om te geloven. Maar wie niet meelachte, was de grote, boze wolf, die op zijn kop aan de tak bleef hangen.</p>
+        <p>"Hè, ik ben er helemaal van opgeknapt, is dat lachen!" riep grootmoeder terwijl ze de tranen uit haar ogen wreef. En werkelijk, ze was weer helemaal beter. Maar of dat nu kwam door het avontuur dat ze zojuist had beleefd of door het slaapje in de maag van de wolf, daar kon ze niet meer achter komen. Maar als je het mij vraagt, dan denk ik dat het kwam doordat Roodkapje haar kwam opzoeken.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

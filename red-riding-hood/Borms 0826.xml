@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje wijst den wolf haar weg</title>
+        <author>Charles Perrault; 1628-1703</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0121</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Titel ontleend aan onderschrift eerste afbeelding Datering gebaseerd op jaren van werkzaamheid van de uitgever/drukker Prentnr. 109 Sterk verkorte bewerking van de sprookjes van Charles Perrault</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje wijst den wolf haar weg</title>
+            <author>Charles Perrault; 1628-1703</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Unknown</publisher>
+            <date>[tussen 1848-1881]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje wijst den wolf haar weg,
+Voort snelt hij, over struik en heg.</p>
+        <p>Zij klopt aan Grootjes woning aan,
+Waar reeds de wolf is ingegaan.</p>
+        <p>Roodkapje, zegt de slimme guit,
+Kom hier, en trek uw kousen uit.</p>
+        <p>Dra grijpt de wolf het arm kind,
+Dat hij, als Grootje, dra verslindt.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

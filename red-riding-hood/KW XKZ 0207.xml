@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sint Nicolaas in sprookjesland</title>
+        <author>Ruth Rooijackers</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0388</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Op achterplat G.D. f 1,40 en een tekeningetje van een paard en huifkar met de voerman ernaast Datering moderne spelling, schatting</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Sint Nicolaas in sprookjesland</title>
+            <author>Ruth Rooijackers</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l. s.n. ]</publisher>
+            <date>[195-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Wie rijdt daar op zijn witte paard,</p>
+        <p>Met rode mantel lange baard?</p>
+        <p>En achter hem die zwarte vent ....</p>
+        <p>Ik wed, dat iedereen hen kent!</p>
+        <p>Waar gaan zij heen? - Naar sprookjesland.</p>
+        <p>Roodkapje schuchter aan de kant,</p>
+        <p>Noodt Sint als eerste van de schaar</p>
+        <p>Op zijn verjaardag eind van 't jaar.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

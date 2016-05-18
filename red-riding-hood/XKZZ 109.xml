@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sprookjes van Moeder de Gans</title>
+        <author>Charles Perrault; 1628-1703</author>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <author>Eugen von Baumgarten; 1865-1919</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0440</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Illustratie op p. 35 gesigneerd met E. v. B. (= Eugen von Baumgarten) Jaartal 1919 op de voorkant en (bijna onleesbaar) nummer 2510 Bevat: Roodkapje ; Hans en Grietje ; Doornroosje ; De zeven Zwaben ; Klein Duimpje ; Vrouw Holle ; Sneeuwwitje ; De gelaarsde kat ; Tafeltje dek je ; Assepoester</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Sprookjes van Moeder de Gans</title>
+            <author>Charles Perrault; 1628-1703</author>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+            <author>Eugen von Baumgarten; 1865-1919</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam : J. Vlieger</publisher>
+            <date>1919</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Er was eens een klein meisje, dat door iedereen erg lief werd gevonden, maar haar grootmoeder hield het allermeest van haar. Zij gaf haar een rood kapje. En daar haar dat kapertje zoo lief stond, werd het meisje door iedereen "Roodkapje" genoemd.</p>
+        <p>Op zekeren dag zei moeder: "Roodkapje, neem dit mandje met koek en een flesch wijn en breng dat bij grootmoeder. Zij is ziek en heeft versterking noodig. Maar volg den gewonen weg, want anders zou je allicht verdwalen en door den wolf opgegeten worden." Roodkapje nam het mandje en ging op weg.</p>
+        <p>Daar grootmoeder ver weg woonde, moest zij door een groot bosch gaan. Toen zij door het bosch liep, ontmoette zij den wolf. "Dag Roodkapje," zei de wolf "hoe gaat het met je?" Roodkapje kende den wolf niet en gaf hem vriendelijke antwoord. Zij zei: "Ik ga naar grootmoeder koek en wijn brengen." "Waar woont je grootmoeder?" vroeg de wolf toen, en Roodkapje vertelde precies, waar haar grootmoeder woonde. Toen zei de wolf: "Maar zou je dan voor je grootmoeder niet wat mooie bloemen plukken?" Toen bemerkte het meisje pas, dat er prachtige bloemen langs den weg bloeiden en al plukkende, dwaalde zij van den weg af.</p>
+        <p>De wolf ging intusschen, zoo hard als hij maar loopen kon, naar grootmoeders huis en klopte daar aan de deur. "Wie is daar?" vroeg de oude vrouw. "Roodkapje met koek en wijn," zei de wolf met nagemaakte stem. "Til de klink maar op" zei nu grootmoeder. Toen de wolf binnen was, sprong hij naar de grootmoeder toe en at haar met huid en haar op. Toen trok hij haar kleeren aan, zette haar muts op, kroop in bed en deed de gordijnen dicht.</p>
+        <p>Op het laatst had Roodkapje genoeg bloemen en ging naar grootmoeder. Tot haar verwondering stond de deur van het hutje open. Zij ging naar het bed en schoof de gordijnen open. Wat zag grootmoeder er vreemd uit vandaag.</p>
+        <p>"Grootmoeder wat heeft U groote oogen." 
+"Daarmede kan ik beter zien." 
+"Grootmoeder, wat heeft U groote ooren." 
+"Daarmede kan ik beter hooren." 
+"Grootmoeder, wat heeft U groote handen." 
+"Daarmede kan ik je des te beter pakken." 
+"Maar grootmoeder, wat heeft U toch een grooten mond." 
+"Daarmede kan ik je des te beter opeten."</p>
+        <p>En pas had de wolf dat gezegd, of hij sprong uit het bed en verslond het arme Roodkapje. Daar de wolf nu erg dik was, ging hij weer in bed om eens goed uit te slapen en weldra snurkte hij dan ook verschrikkelijk.</p>
+        <p>De jager ging juist voorbij het huis en dacht: "Wat snurkt de oude vrouw hard, ik zal eens gaan zien, of haar wat scheelt." Hij trad het hutje binnen en zag den wolf. Eerst wilde hij hem met zijn buks doodschieten, maar toen dacht hij, misschien heeft de wolf de grootmoeder wel opgegeten. Toen nam hij een schaar en knipte voorzichtig den buik open van het slapende dier. Het eerst zag hij Roodkapje, die dadelijk uit den buik sprong en uitriep: "Ach, wat was het donker in dien naren wolf zijn buik." Toen kroop ook de grootmoeder uit den wolf.</p>
+        <p>Roodkapje haalde nu vlug groote steenen en vulde daarmede zijn buik en toen hij wakker werd, wilde de wolf uit bed springen, maar viel door de zware steenen op den grond en was dood.</p>
+        <p>Nu waren alle drie verheugd. De jager nam de huid van den wolf en de grootmoeder at den koek op en dronk van den wijn. Roodkapje dacht: "Een volgenden keer volg ik den raad van mijn lieve moeder en ga niet meer van den weg af, maar loop, zooals zij mij gezegd heeft."</p>
+      </div>
+    </body>
+  </text>
+</TEI>

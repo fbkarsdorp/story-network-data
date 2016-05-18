@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0157</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l. : s.n.]</publisher>
+            <date>2e helft 19e eeuw</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje.</p>
+        <p>Er was een een klein lief meisje, dat Roodkapje geheeten werd, omdat zij altijd een rood mutsje droeg.</p>
+        <p>Zekeren dag werd Roodkapje door hare moeder gezonden om koekjes te dragen naar grootmoeder die nogal ver van daar woonde.</p>
+        <p>Vlug en welgezind zette het kind zich op weg, nadat zijne moeder haar gezegd had niet onderweg te blijven spelen.</p>
+        <p>Aan het bosch gekomen ontmoette Roodkapje een wolf aan wie zij vertelde dat zij naar hare grootmoeder ging.</p>
+        <p>En terwijl het meisje bloempjes plukte en vlinders achterna liep was de listige wolf haar reeds vooruitgegaan.</p>
+        <p>Weldra was hij aan de woning der grootmoeder gekomen en klopte heel voorzichtig op de deur.</p>
+        <p>De oude vrouw die te bed lag, meende dat Roodkapje daar was en riep dat zij mocht binnenkomen.</p>
+        <p>De wolf was nauwelijks in de kamer getreden, toen hij op het bed sprong en de arme vrouw verslond.</p>
+        <p>Dan legde hij zich in de plaats der grootmoeder en wachtte totdat Roodkapje komen zou.</p>
+        <p>Wanneer het meisje voor de deur kwam, riep de wolf haar binnen te komen, terwijl hij de stem der grootmoeder nabootste.</p>
+        <p>-- Hier ben ik, grootmoeder, zegde Roodkapje; ik breng u koekjes, van moeder gezonden.</p>
+        <p>-- Goed mijn kind, antwoordde de wolf, zet het mandje in de keuken en kom in mijn bed met mij rusten.</p>
+        <p>De kleine, die geen kwaad vermoedde, deed dan ook zooals de wolf haar bevolen had.</p>
+        <p>Wanneer zij in het bed was gegaan, vond Roodkapje dat hare grootmoeder toch maar leelijk was.</p>
+        <p>-- Wat hebt gij groote oogen, grootmoeder, zegde zij verwonderd -- Dat is om u beter te zien, mijn kind. -- Wat hebt gij groote tanden, grootmoeder! -- Dat is om u beter te kunnen opeten, antwoordde de wolf, en hij sprong op het arme kind en verslond het.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

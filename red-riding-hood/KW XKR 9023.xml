@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>A.M. Lefèvre</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0357</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Omslagtitel</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>A.M. Lefèvre</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Houten] Unieboek / KITT</publisher>
+            <date>[200-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje bracht wat eten naar oma, die in een huisje aan de andere kant van het bos woonde. Ze mocht van haar moeder niet met vreemden praten. Plotseling hoorde Roodkapje een geluid en ze keek op. Vlak voor haar stond een wolf. Hij was zo aardig dat Roodkapje hem vertelde waar ze heen ging. De wolf daagde Roodkapje uit voor een wedstrijd: "Wie het eerst bij je oma's huis is!" Dat leek Roodkapje wel leuk, dus ze stemde toe.</p>
+        <p>De wolf rende zo snel hij kon en kwam als eerste bij het huisje aan. Hij ging naar binnen, waar oma in bed lag te slapen. Met een grote hap slokte hij haar helemaal op. De wolf had nog steeds honger en hij lustte Roodkapje ook nog wel! Hij zette oma's slaapmuts op, kroop in bed en trok de dekens tot zijn kin omhoog. Hij bleef rustig liggen wachten tot Roodkapje zou komen.</p>
+        <p>Daar kwam Roodkapje aan, met bloemen voor haar oma. Ze staarde naar de wolf. "Wat hebt u grote oren," zei Roodkapje. "Dan kan ik je beter horen," antwoordde de wolf met een hoge stem. "En wat hebt u grote ogen," zei Roodkapje, die dichterbij kwam. "Dan kan ik je beter zien," antwoordde de wolf. "En wat zijn uw tanden groot," fluisterde het meisje. "Dan kan ik je beter opeten!" brulde de wolf en hij greep haar.</p>
+        <p>Arme Roodkapje! De wolf wilde even een dutje doen na zo veel eten en hij waggelde naar de stal. De eekhoorntjes en de muizen waren van plan oma en Roodkapje te redden. De dieren lieten een hooivork op de kop van de wolf vallen en trokken hem daarna aan zijn staart omhoog. Daar hing hij in de lucht!</p>
+        <p>De bek van de wolf viel open en oma en Roodkapje tuimelden eruit, ongedeerd. De dieren juichten toen het meisje en haar oma gingen zitten. De twee konden nauwelijks geloven dat ze gered waren! De dieren lieten de wolf vrij en hij sloop stilletjes weg, met zijn staart tussen zijn poten. Hij zwoer dat hij nooit meer mensen zou eten.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

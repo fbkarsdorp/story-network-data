@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje een pop-up boek</title>
+        <author>Jan Lewis; 1956-</author>
+        <author>Mathew Price</author>
+        <author>Ann Elisabeth Jansen</author>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0081</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Bewerking naar het sprookje van de gebroeders Grimm</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje een pop-up boek</title>
+            <author>Jan Lewis; 1956-</author>
+            <author>Mathew Price</author>
+            <author>Ann Elisabeth Jansen</author>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Doornik ; Dronten] Casterman</publisher>
+            <date>cop. 1996</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Drrring, drrring! 'Dag Oma, met Roodkapje.' 'Ik heb lekkere koekjes voor je gebakken en kom ze je zo brengen. Tot zo!'</p>
+        <p>Maar Roodkapje ziet niet dat de boze wolf meeluistert. En hij heeft net zin in een lekker hapje. Roodkapje is blij dat zij bij Oma op bezoek gaat. Ze huppelt snel door het bos. De wolf kan haar niet eens bijhouden. Gaat het lekkere hapje zijn neus voorbij? Opeens slaat de wolf zich voor het hoofd. Hij kent een korter weggetje naar Oma's huis. En dus besluit hij Roodkapje voor te zijn. Dan kan hij eerst Oma opeten en daarna Roodkapje.</p>
+        <p>De wolf rent naar Oma's huis en schrokt haar in één hap op. Zelfs het breiwerk gaat mee naar binnen. Oma heeft nog niet eens de tijd gehad om hallo te zeggen. 'Wat was dat smullen,' mompelt de wolf, 'nu Roodkapje nog als toetje!'</p>
+        <p>De boze wolf gaat in bed liggen. Hij probeert er uit te zien als een oud omaatje. Roodkapje schrikt als ze binnenkomt. 'Maar Oma, wat heb je een grote ogen!' 'Om jou beter te kunnen zien,' antwoordt de wolf. 'Maar Oma,' zegt Roodkapje. 'Wat heb je een grote oren!''Om jou beter te kunnen horen,' antwoordt de wolf. ‘Maar Oma, zegt Roodkapje. 'Wat heb je een grote tanden!' 'Om jou beter te kunnen opeten,' roept de wolf. En hij stort zich op Roodkapje. Roodkapje gilt van schrik.</p>
+        <p>Maar de wolf heeft net niet genoeg tijd voor zijn toetje. Want wie komt er zijn huisje binnengestormd? Een dappere houthakker die Roodkapje's geroep heeft gehoord. Hij snijdt de wolf open met zijn hakmes. En daar springt Oma uit de buik van de wolf. Ze is nog steeds druk aan het breien. 'Dat is net op tijd,' roept ze blij uit, 'Ik kreeg net zin in een kopje thee.' 'Goed idee!' vindt Roodkapje.
+En ze maken er samen nog een gezellige middag van.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

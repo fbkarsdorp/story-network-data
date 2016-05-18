@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Caroline Ellerbeck</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0005</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Caroline Ellerbeck</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Rotterdam Ellerbeck ]</publisher>
+            <date>[2013]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Luister goed naar je moeder!</p>
+        <p>Loop door en blijf op het pad!</p>
+        <p>Je hebt echt geen tijd om bloemen te plukken. </p>
+        <p>O nee, dit gaat mis…..</p>
+        <p>Pas op! Je kent het verhaal toch?</p>
+        <p>Doe iets! Je ziet toch dat die wolf je oma heeft opgegeten? Schreeuw om hulp!</p>
+        <p>Eindelijk. Daar komt de jager!</p>
+        <p>Goed gedaan jager. Bind hem vast en snijd hem open!</p>
+        <p>Fijn, loopt het toch nog goed af.</p>
+        <p>En ze leefden nog lang en…………….</p>
+        <p>gelukkig!</p>
+      </div>
+    </body>
+  </text>
+</TEI>

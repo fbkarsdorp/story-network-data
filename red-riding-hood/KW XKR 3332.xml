@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Luce Andrée Lagarde</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0333</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Illustraties gesigneerd met Luce-Andrée Lagarde Datering niet in Brinkman, schatting Op achterkant 14.83.1015 Op binnenkant omslag Gedrukt in België</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Luce Andrée Lagarde</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Amsterdam] Hema</publisher>
+            <date>[198-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>“Kijk eens, daar komt Roodkapje”, mompelt de wolf. Iedereen kent het kleine meisje met haar rode mutsje en iedereen noemt haar Roodkapje. De wolf heeft vreselijke honger, het liefst had hij Roodkapje meteen opgegeten, maar hij is bang dat Roodkapje dan om hulp zal roepen en dat er iemand zal komen! Daarom vraagt hij vriendelijk: “Waar ga je naar toe Roodkapje?” “Ik ga naar grootmoeder”, antwoordt Roodkapje, “ze is ziek en ik ga haar wat koekjes en soep brengen.” “Waar woont je grootmoeder ook alweer?” vraagt de wolf. “Diep in het bos, bij de drie eiken”, zegt Roodkapje. “Ach ja, dat is waar ook. Zeg luister eens, zou het niet leuk zijn als je wat mooie bloemen voor je grootmoeder meebracht?” “Dat is een goed idee”, vindt Roodkapje. “Er zijn hier zoveel mooie bloemen!” Ze weet niet dat de wolf een boos plan heeft. Al gauw heeft Roodkapje een grote bos bloemen geplukt.</p>
+        <p>Maar waar is de wolf nu? Die is gauw naar het huisje van grootmoeder gelopen en daar klopt hij aan de deur. “Wie is daar?” vraagt grootmoeder. “Roodkapje!” zegt de wolf met een hoog stemmetje. Grootmoeder doet de deur open. De wolf was van plan haar op te eten  maar hij denkt: “Zo’n oude vrouw smaakt vast niet lekker meer, ik wacht wel tot Roodkapje komt, die smaakt veel lekkerder.” Hij sluit grootmoeder op in een kast en zet dan haar bril en haar mutsje op. De wolf gaat in het bed van grootmoeder liggen wachten tot Roodkapje komt.</p>
+        <p>Het duurt lang, vindt de wolf, die nu erge honger heeft gekregen. Eindelijk hoort hij voetstapjes en er wordt aan de deur geklopt. "Ben jij het, Roodkapje?” roept de wolf met een lief stemmetje. “Kom maar binnen, de deur is niet op slot. Zet je mandje maar op de tafel en geef grootmoeder een kus.” Roodkapje komt naar het bed en zegt verbaasd: “Wat ziet U er anders uit! U had toch geen harige bruine huid!” De wolf moet gapen. Roodkapje ziet de grote tanden en ze roept geschrokken: “Grootmoeder, hoe komt U aan zulke grote tanden?!!”</p>
+        <p>De echte grootmoeder, die in de kast zit opgesloten, hoort alles. Ze roept: “Het is de wolf Roodkapje, hij wil je opeten! Vlug, ren weg zo hard als je kan!” Roodkapje holt de deur uit en de wolf rent haar na. Maar buiten is juist de jager, die eens naar grootmoeder komt kijken. “Kijk daar eens, dat is de wolf. Wou jij Roodkapje opeten?!” roept de jager. De wolf rent gauw de struiken in, want hij is bang voor de jager! Roodkapje en de jager maken de kast open, waar grootmoeder in zit. Met z'n drietjes gaan ze nu lekker eten om van de schrik te bekomen. En 's avonds brengt de jager Roodkapje door het bos naar huis, zodat ze weer veilig bij haar moeder komt.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

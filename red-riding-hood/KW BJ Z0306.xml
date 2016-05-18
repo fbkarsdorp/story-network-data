@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Les contes de Perrault ; Sprookjes verhalen</title>
+        <author>Charles Perrault; 1628-1703</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0227</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Plaatjesalbum met sprookjes in Nederlands en Frans Datering oude Nederlandse spelling; geschat</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Les contes de Perrault ; Sprookjes verhalen</title>
+            <author>Charles Perrault; 1628-1703</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Bruxelles Victoria</publisher>
+            <date>[193-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Er was eens een klein meisje: je hebt zeker nog nooit zoo’n mooi gezien. En het was moeilijk te zeggen wie het meest van haar hield: haar moeder of haar grootmoeder. Van haar grootmoeder kreeg ze eens een klein rood mutsje, en het stond haar zoo lief, dat ze na een tijdje overal Roodkapje genoemd werd.</p>
+        <p>Op een goeien dag had haar moeder wafels gebakken. Ze riep Roodkapje en zei: “Je moest eens gaan kijken hoe het met grootmoeder gaat, want ik heb gehoord dat ze ziek is, en neem dit voor haar mee: een lekkere wafel en dit potje boter”.</p>
+        <p>En Roodkapje ging dadelijk op weg naar grootmoeder, die in een ander dorp woonde.  Toen ze door het bosch ging, kwam ze den wolf tegen, die erg veel zin had om haar op te eten, maar hij durfde niet, want er waren houthakkers in de buurt. Hij vroeg dien naar waar ze heen ging. Roodkapje die nog niet wist hoe gevaarlijk het is om te staan praten met een wolf, antwoordde:  Ik ga dit naar grootmoeder brengen met de groeten van moeder”.</p>
+        <p>-- Woont ze heel ver? vroeg de wolf.
+-- O ja, zei Roodkapje, 't is nog een heel eind achter dien molen daar, bij het eerste huis van het dorp.
+-- Nu, zei de wolf, dan ga ik ook eens kijken, ik zal dezen weg nemen, en jij dien anderen, en dan zullen we eens zien wie er het eerst is.</p>
+        <p>Toen liep de wolf zoo vlug als hij kon langs den kortsten weg. Het kleine meisje had den langsten weg genomen, en onderweg raapte ze nootjes, liep ze de vlinders achterna, en maakte ze ruikers van de bloemen die ze vond. De wolf was al dadelijk bij het huisje van de grootmoeder, hij klopte op de deur.</p>
+        <p>-- Wie is daar? 
+-- 't Is Roodkapje, zei de wolf, en hij maakte zijn stem zoo zacht mogelijk, Roodkapje die U met de groeten van moeder een wafel brengt en een potje boter.</p>
+        <p>Grootmoeder, die in bed lag omdat ze een beetje ziek was, riep: -- Trek het boutje maar uit, de klink zal wel los gaan. De wolf trok het boutje uit en de deur ging open. Hij sprong naar het bed, en in een ommezien was de goede vrouw verslonden, want de wolf had in drie dagen niets meer gegeten.</p>
+        <p>Daarna deed hij de deur dicht, en ging hij in 't bed van grootmoeder liggen om te wachten op Roodkapje, die een tijdetje later op de deur klopte.</p>
+        <p>-- Wie is daar ?</p>
+        <p>Roodkapje schrok want ze hoorde de stem van den wolf, maar toen dacht ze dat grootmoeder misschien erg verkouden was en ze antwoordde :</p>
+        <p>-- 't Is Roodkapje, die u met de groeten van moeder een wafel brengt en een potje boter.</p>
+        <p>Toen riep de wolf, en hij maakte zijn stem zoo recht mogelijk: “Trek het boutje maar uit, de klink zal wel los gaan.” En Roodkapje trok het boutje uit en de deur ging open.
+De wolf verstopte zich zoo ver mogelijk onder de dekens.</p>
+        <p>-- Zet alles maar op de kist zei hij, en kom een beetje bij mij liggen.</p>
+        <p>Maar toen Roodkapje zich uitgekleed had, en in het bed wou komen, toen zag ze pas hoe vreemd grootmoeder eruit zag in haar nachtkleeren.</p>
+        <p>-- Maar grootmoeder, riep ze, u hebt zoo n lange armen!
+-- Dat is om je eens goed te kunnen pakken. kleintje!
+-- Maar grootmoeder, u hebt zoo’n lange beenen! 
+-- Om beter te kunnen loopen, mijn kind!
+-- Maar grootmoeder, u hebt zoo'n lange ooren!
+-- Daarmee kan ik alles goed hooren, mijn kind!
+-- En u hebt zoo'n groote oogen, grootmoeder!
+-- Dat is om beter te kunnen zien, mijn kind! 
+-- Maar grootmoeder, en zoo'n groote tanden!
+-- Dat is om je lekker op te eten!</p>
+        <p>Maar toen Roodkapje zag, dat het den wolf was, begon ze zoo hard te gillen, dat de houthakkers het hoorden. Ze liepen gauw binnen en sloegen den boozen wolf dood.</p>
+        <p>Roodkapje ging terug naar huis, en ze moest haar moeder beloven nooit meer ongehoorzaam te zijn. En als ze nog eens boodschappen moest doen, mocht ze nooit meer blijven praten met iemand dien ze niet heel goed kende.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

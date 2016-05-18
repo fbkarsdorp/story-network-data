@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Histoire du petit Chaperon Rouge = Historie van Roodkapje Historie van Roodkapje</title>
+        <author>Charles Perrault; 1628-1703</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0119</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Bewerking van het sprookje van Charles Perrault Datering gebaseerd op jaren van werkzaamheid van de uitgever/drukker Prentnr. 65</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Histoire du petit Chaperon Rouge = Historie van Roodkapje Historie van Roodkapje</title>
+            <author>Charles Perrault; 1628-1703</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Unknown</publisher>
+            <date>[tussen 1827-1894]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Historie van Roodkapje.</p>
+        <p>Roodkapje, zegt haer moeder, ga groot-moeder, die krank is, bezoeken.</p>
+        <p>De moeder bakt waefels die Roodkapje in haer mandje pakt, voor aen groot-moeder te draegen.</p>
+        <p>Roodkapje ontvangt het mandje van haer moeder.</p>
+        <p>Roodkapje zet haer op weg voor het dorp.</p>
+        <p>Eenen wolf die zy tegen komt in de bosch, vraegt haer waer zy henen gaet.</p>
+        <p>By myne zieke groot-moeder: wel, zegt den wolf, gy alhier, ik aldaer, wy zullen zien wie het? ten regten zal zyn.</p>
+        <p>En terwyl dat het onnozel kind achter pepels loopt, klopt den wolf aen de deur van de groot-moeder.</p>
+        <p>Trekt aen het klinkje, riep de vrouw. Den wolf stapt in en vermoordt de groot-moeder.</p>
+        <p>Kort daarna komt Roodkapje aen de deur kloppen.</p>
+        <p>Den wolf, in het bed gestapt, riep: komt in en warmt u by my myn kind.</p>
+        <p>Verschrikt van dit wreed gezigt, wat groote tanden hebt gy groot-moeder zegt Roodkapje.</p>
+        <p>Die zyn voor u te verscheuren antwoordt den wolf die haer terstond het leven afnam.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

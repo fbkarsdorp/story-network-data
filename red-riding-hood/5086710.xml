@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De sprookjesschatkist</title>
+        <author>Annie-Claude Martin</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0079</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Vert. van een keuze uit Grand contes merveilleux. - Paris Nathan, 1990</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>De sprookjesschatkist</title>
+            <author>Annie-Claude Martin</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Alphen aan de Rijn ICOB</publisher>
+            <date>cop. 1996</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Er was eens een beeldschoon meisje en zij woonde in een klein dorpje. Haar moeder hield heel veel van haar en haar grootmoeder ook. Zij had een rood mutsje voor het meisje gemaakt en dat stond haar zó leuk, dat zij door iedereen Roodkapje genoemd werd.</p>
+        <p>Op zekere dag zei haar moeder: "Roodkapje, je grootmoeder is ziek. Ga eens kijken hoe zij het maakt en neem dan wat koekjes en een potje zelfgemaakte jam voor haar mee."</p>
+        <p>Roodkapje ging meteen op weg naar haar grootmoeder, die in een ander dorp woonde. Toen Roodkapje door het bos liep, ontmoette zij een wolf. De wolf wilde haar eigenlijk wel opeten, maar durfde het niet goed, omdat hij wist dat er houthakkers in het bos waren. Hij deed heel vriendelijk tegen haar en vroeg: "Roodkapje, waar ga jij naar toe?" Roodkapje wist niet dat het heel gevaarlijk was om met een wolf te praten en antwoordde: "Ik ga naar mijn grootmoeder toe om haar koekjes en een potje jam, die mijn moeder zelf gemaakt heeft, te brengen." "Woont je grootmoeder ver weg?" vroeg de wolf. "Jazeker," antwoordde Roodkapje. "Haar huisje is voorbij de molen en staat dicht bij het eerste huis in het dorp." "Ik wil je grootmoeder ook graag zien," zei de wolf. "Als jij nou doorloopt op deze weg, zal ik een ander paadje nemen en dan kijken we wie er het eerste is."</p>
+        <p>De wolf koos natuurlijk de kortste weg en rende zo snel hij kon, terwijl hij Roodkapje de langste weg had aangewezen. Roodkapje schoot niet op, want zij liep ondertussen ook nootjes te zoeken, vlinders te vangen en bloemen te plukken. Het duurde niet lang, voordat de wolf bij het huisje van haar grootmoeder aankwam.</p>
+        <p>Hij rekte zich uit en klopte op de deur. Klop, klop. "Wie klopt daar?" werd er van binnen geroepen. "Ik ben het, je kleindochter Roodkapje," zei de wolf met een verdraaide stem. "Ik heb koekjes en een potje jam, die mijn moeder zelf gemaakt heeft, meegenomen.” De lieve grootmoeder, die in bed lag, riep: "Licht de klink van de deur maar op en kom naar binnen." De wolf lichtte de klink op, opende de deur en nam een grote sprong boven op haar bed en at de arme vrouw in één hap op. Toen deed hij de deur dicht, ging in grootmoeders bed liggen en wachtte op Roodkapje.</p>
+        <p>Enkele ogenblikken later klopte zij al aan de deur. Klop, klop. "Wie klopt daar?" antwoordde de wolf met een barse stem. Toen Roodkapje dat hoorde, werd ze wel een beetje bang, maar ze herinnerde zich dat haar grootmoeder ziek was en zei: "Ik ben het, Roodkapje, je kleindochter. Ik heb koekjes en een potje jam, die mijn moeder zelf gemaakt heeft, meegenomen." De wolf zei toen met een zachte stem: "Licht de klink van de deur maar op en kom naar binnen." Toen Roodkapje de klink oplichtte, ging de deur open. De wolf verborg zich onder de dekens en zei: "Zet de koekjes en het potje jam maar op de tafel en kom dan bij mij op bed zitten." Roodkapje klom op het bed en staarde naar haar grootmoeder. "Grootmoeder, wat heeft u lange armen!" riep ze. "Daarmee kan ik je beter omhelzen," antwoordde de wolf. "Maar grootmoeder, wat heeft u grote oren!" "Daarmee kan ik je beter horen." "Maar grootmoeder, wat heeft u grote ogen!" "Daarmee kan ik je beter zien, mijn lieve kind." "Maar grootmoeder, wat heeft u grote tanden!" "Daarmee kan ik je beter opeten," schreeuwde de wolf, terwijl hij de dekens van zich afsloeg en op de grond sprong.</p>
+        <p>Maar toen hij het meisje wilde opeten, kwam er een houthakker voorbij die in het bos gewerkt had. Hij sloeg in één klap met zijn bijl de kop van de wolf af en daarna werd niemand meer door de boze wolf lastig gevallen.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

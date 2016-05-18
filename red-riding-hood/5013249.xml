@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Oma vertelt</title>
+        <author>Christine Wensch-Van Sompel</author>
+        <author>Ronald Embleton; 1930-1988</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0067</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Oma vertelt</title>
+            <author>Christine Wensch-Van Sompel</author>
+            <author>Ronald Embleton; 1930-1988</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Utrecht] Hemma</publisher>
+            <date>[1984]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Er was eens een meisje, dat aan de rand van een groot bos woonde. Haar vader was houthakker en haar moeder naaide mooie kleertjes. Op een dag, had ze voor haar dochtertje een rood schoudermanteltje met een rood kapje genaaid. Het meisje was er erg blij mee en wilde niets anders meer aan. Zo kwam het dat de mensen haar Roodkapje gingen noemen.</p>
+        <p>Op een dag, toen de grootmoeder van Roodkapje een beetje ziek was, zei haar moeder : “Roodkapje, hier heb je een mandje met lekkere koekjes, een fles bessenwijn en een potje honing. Wil jij dat even naar oma brengen ?” “Pas goed op, meisje, blijf niet naar de vogeltjes luisteren en dwaal niet van de weg af om bloemen te plukken, want er loopt een boze wolf rond in het bos”, zei haar moeder bezorgd. “Ik ben niet bang van de boze wolf, maar ik zal goed op het mandje letten en nergens onderweg blijven staan”, beloofde het meisje. Ze gaf mama een zoen en ging zingend op weg.</p>
+        <p>Maar helaas, toen Roodkapje over de paddestoelen sprong en de vogeltjes hoorde zingen, vergat ze wat ze beloofd had. Ze besloot om bloempjes voor grootmoeder te plukken, steeds ging ze een stapje verder van het pad af. Plotseling hoorde ze een luid gekraak in het kreupelhout. Roodkapje schrok toch wel even, toen ze de boze wolf voor haar zag staan. “Dag lief meisje, waar ga jij naar toe ?” vroeg de wolf vriendelijk. "Ik ga naar grootmoeder”, vertelde Roodkapje, "ze is een beetje ziek en nu mag ik haar lekkere koekjes brengen”. "Wat ben jij een lief meisje. Waar woont die oma van je?" "Daar, aan de rand van het bos", zei Roodkapje, "maar ik moet nu vlug verder lopen". Zodra Roodkapje weg was, rende de wolf recht naar het huisje van grootmoeder en klopte op de deur. Toen grootmoeder de wolf zag, sprong ze vlug uit bed en verstopte zich in de kleerkast. De wolf vond het wel jammer, maar hij dacht dat Roodkapje een malser hapje was en hij bedacht een ander plannetje. Hij zette grootmoeders muts op zijn kop en deed haar ronde brilletje aan. Toen stapte hij in bed en trok de lakens hoog op.</p>
+        <p>Nauwelijks lag de wolf in bed, of daar verscheen Roodkapje in het deurgat. "Dag oma, ik heb koekjes voor je mee en ik heb ook bloempjes geplukt". Roodkapje kwam nu wat dichter bij het bed. Ze keek heel verwonderd. "Wat heb je grote ogen, oma”, zei ze een beetje geschrokken. "Dat is om je beter te kunnen zien, lief meisje", piepte de wolf. "Maar oma, wat heb je grote oren." "Dat is om je beter te kunnen horen, schatje”. "Oh, oma, wat heb jij grote tanden." "Dat is om jou te kunnen opeten!" brulde de wolf nu en wipte met één sprong uit bed. "Help, help”, riep Roodkapje luid en ze liep vlug naar buiten.</p>
+        <p>Daar kwam net een jager langs, hij richtte zijn geweer : pief-poef-paf. De wolf viel op de grond en was dood. "Waar is oma, zou de wolf haar hebben opgegeten ?" vroeg Roodkapje angstig. Maar daar kwam grootmoeder voorzichtig uit de kleerkast. Ze omhelsden elkaar en dansten van vreugde. Oma zette een grote pot thee en ze smulden van de lekkere koekjes. Toen bracht de jager het meisje veilig en wel, door het donkere bos, naar huis en er was geen boze wolf meer die op de loer lag.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

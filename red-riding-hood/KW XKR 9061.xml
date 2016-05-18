@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>A. Van Gool</author>
+        <author>A.M. Lefèvre</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0358</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Klittenbandsluiting d.m.v. Roodkapje figuurtje aan bandje</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>A. Van Gool</author>
+            <author>A.M. Lefèvre</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Nazareth] Creations for children international</publisher>
+            <date>2003</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje is op weg naar haar oma, die aan de andere kant van het bos woont. "Kijk uit: voor de wolf," waarschuwen de konijnen. "Hij eet; kleine kinderen op."</p>
+        <p>Daar is de wolf al, maar hij ziet er helemaal niet gemeen uit! "Zal ik je de kortste weg naar oma wijzen?" zegt hij.</p>
+        <p>Roodkapje loopt verder.</p>
+        <p>De wolf rent door het bos en komt als eerste bij oma's huisje aan. De wolf sluit oma in de kast op, trekt haar kleren aan en gaat in haar bed liggen.</p>
+        <p>Roodkapje is bij het huisje aangekomen. Ze vindt dat oma erg is veranderd. Wat zijn haar tanden en haar voeten groot! Opeens snapt Roodkapje het: de wolf ligt in oma's bed! Het uitgehongerde beest wil Roodkapje met huid en haar verslinden.</p>
+        <p>De konijnen komen net op tijd. Als de wolf hun griezelige maskers ziet, slaat hij op de vlucht. Roodkapje bedankt haar vrienden: "Jullie hebben mijn leven gered!"</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Een vrolijk kindertroepje in gezelschap met Roodkapje, Klein Duimpje en de Aardmannetjes een aardig verhaal voor de lieve jeugd</title>
+        <author>oom Arnold [pseud.]</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0246</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Een vrolijk kindertroepje in gezelschap met Roodkapje, Klein Duimpje en de Aardmannetjes een aardig verhaal voor de lieve jeugd</title>
+            <author>oom Arnold [pseud.]</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Delft J.J. van Gessel</publisher>
+            <date>[1859]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Vertelling over een groep kinderen die langs het huisje van Roodkapjes oma komen. Geen hervertelling van Roodkapje.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

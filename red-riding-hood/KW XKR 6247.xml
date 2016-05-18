@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0347</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Oegstgeest Book Specials Nederland</publisher>
+            <date>cop. 2000</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Aan de rand van een bos woonde een meisje. Voor haar verjaardag had ze van haar oma een rood jasje met een rode capuchon gekregen. Omdat ze dit rode jasje vaak droeg, werd ze Roodkapje genoemd. Op een mooie dag zei haar moeder: "Hier heb je wat brood en honing en breng dit even naar oma." Oma was namelijk een beetje ziek. Roodkapje ging meteen naar oma toe.</p>
+        <p>Onder een boom zag Roodkapje mooie bloemen staan en besloot ze te plukken voor Oma. Plotseling hoorde ze een geluid achter zich. Ze draaide zich om en zag een grote, enge wolf. "Waar ga jij naar toe, klein meisje?" vroeg de wolf erg vriendelijk. "Ik breng wat eten naar mijn oma, die ziek is", antwoordde Roodkapje. "En waar woont jouw oma?" vroeg de wolf. "Aan de andere kant van het bos", antwoordde Roodkapje. "Wens haar beterschap", zei de wolf en hij verdween.</p>
+        <p>De wolf nam een kortere weg door het bos en bij het huisje van oma klopte hij op de deur. "Wie is daar?" vroeg oma. De wolf antwoordde: "Ik ben het, Roodkapje." "Trek maar aan het touwtje dan gaat de deur vanzelf open", zei oma tegen de wolf. De wolf kwam binnen en at oma op. Daarna trok hij een nachthemd van oma aan en ging in bed liggen. Hij lag in oma's bed te wachten op Roodkapje.</p>
+        <p>Na een tijdje klopte Roodkapje op de deur en de wolf zei met een verdraaide stem: "Trek maar aan het touwtje, dan gaat de deur vanzelf open." Roodkapje liep naar het bed en keek een beetje raar naar oma.</p>
+        <p>"Oma, wat heeft u lange armen", zei Roodkapje. "Dan kan ik je beter vasthouden", antwoordde de wolf. "Wat heeft u grote oren", zei Roodkapje. "Dan kan ik je beter verstaan", zei de wolf. "Wat heeft u grote tanden", zei Roodkapje. "Dat kan ik je beter opeten", antwoordde de wolf en sprong uit het bed en at Roodkapje op.</p>
+        <p>Volgegeten ging de wolf slapen. Hij was zo hard aan het snurken dat een jager, die vlak langs het huisje liep, hem buiten kon horen. De jager keek door het raam en zag de wolf slapen in het bed van oma.</p>
+        <p>De jager schoot met zijn geweer langs de buik en deze klapte open als een ballon. De wolf was dood en Roodkapje en haar oma leefden gelukkig nog. De jager werd bedankt door oma en Roodkapje. Alle dieren in het bos waren blij dat de wolf niemand meer bang kon maken.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

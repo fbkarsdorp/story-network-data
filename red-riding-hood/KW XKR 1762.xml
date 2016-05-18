@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Truus Vinger; 1903-1961</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0320</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>No. 270 A Mulder fondscatalogus 1952/53</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Truus Vinger; 1903-1961</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam Mulder &amp; Zoon</publisher>
+            <date>[1952]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Er was eens een meisje, dat altijd een rood mutsje droeg. Daarom werd ze dan ook altijd Roodkapje genoemd. Op een dag mocht ze van haar moeder een mandje met wafels en een fles wijn naar haar grootmoeder brengen. Maar onderweg zag ze bloemen, die ze wilde plukken.</p>
+        <p>Ze had juist een mooi bouquet geplukt, toen er een grote wolf aankwam. Het was een boze wolf, maar dat wist Roodkapje niet. Daarom vertelde ze, dat ze naar haar zieke grootmoeder ging. De wolf spitste zijn oren en maakte gauw, dat hij weg kwam.</p>
+        <p>Vlug holde hij naar het huisje van de oude vrouw. Hij maakte de deur open en sprong meteen in het bed bij grootmoeder. In een grote hap verslond hij haar. Toen even later Roodkapje binnenkwam, slokte de boze wolf het arme meisje ook op.</p>
+        <p>Daarna ging hij in het bed liggen slapen. De houthakker, die juist langs kwam, hoorde hem snurken. De man vertrouwde het niet en ging naar binnen. Daar sneed hij de buik van de wolf open. Gelukkig leefden Roodkapje en haar Grootmoeder nog.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uit de sprookjeswereld beweegbaar prentenboek</title>
+        <author>Corrie (fl 1900)</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0161</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Bevat Roodkapje ; Ali Baba ; Asschepoes De schoone slaapster</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Uit de sprookjeswereld beweegbaar prentenboek</title>
+            <author>Corrie (fl 1900)</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam E.L.E.van Dantzig</publisher>
+            <date>[1900]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>ROODKAPJE</p>
+        <p>Wie was ook weer dat kleine ding,
+Met in haar korfje 'n lekker hapje.
+Dat zij aan Grootje brengen ging?
+Wel - niemand anders dan Roodkapje!</p>
+        <p>De booze wolf kwam aangestapt,
+Hij is heel hard vooruit geloopen,
+Heeft fluks arm Grootje opgehapt,
+En is toen in haar bed gekropen.</p>
+        <p>Daar kwam Roodkapje: klingeling! - 
+Ja kom maar binnen, hartediefje;
+Breng jij me een versnapering?
+Wel, dat is aardig van je, liefje! -</p>
+        <p>Maar Grootje, wat zijn er uw oogen groot!
+Dat is om goed te kijken, schatje! - 
+Maar Grootje, wat zijn er uw ooren groot! - 
+Dat is om goed te hooren, vat je? - 
+Maar Grootjelief, wat groote mond! - 
+Daar slok ik jou mee op terstond. -</p>
+        <p>En bijna had de wolf Roodkapje opgehapt,
+Daar kwam nog net bijtijds haar vader aangestapt.
+Die sloeg den boozen wolf nu dood.
+Zoo was Roodkapje uit den nood.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

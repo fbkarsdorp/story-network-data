@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sprookjesboek</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0317</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Op voorplat No. K. 2 Datering oude spelling, schatting</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Sprookjesboek</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l.] [ s.n. ]</publisher>
+            <date>[192-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Je kent natuurlijk het sprookje van Roodkapje, die voor haar moeder lekkernijen en voedsel naar haar zieke grootmoeder moest brengen en in het bosch den booze wolf tegenkwam. De booze wolf, die grootmoeder toen inslikte en in haar kleeren in haar bed ging liggen, nadat hij langs een kortere weg gauw naar grootmoeders huisje geloopen was. Hier komt Roodkapje juist aan het huisje. De wolf ziet het en gaat vlug in grootmoeders bed liggen.</p>
+        <p>Toen Roodkapje binnenkwam zei ze: "Grootmoeder, wat heeft U groote ooren!" De wolf, die deed, alsof hij grootmoeder was, antwoordde: "Dat is, om je beter te kunnen hooren". "En wat een groote mond!" "Dat is om je beter te kunnen opeten". En hij wou uit bed springen, maar toen begreep Roodkapje, dat het de booze wolf was en ze holde vlug weg.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

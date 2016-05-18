@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje op nieuw verteld</title>
+        <author>Alice Becht-Dentz (1900-1921 fl.)</author>
+        <author>Marie Hohneck (fl. 1900-1920)</author>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0261</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>De illustraties zijn gesigneerd met MH, dat is Marie Hohneck. Dezelfde afbeeldingen staan in groter formaat in 'De sprookjes van Moeder de Gans' uit 1907 Brinkman meldt 16o. m.afb.in klrndr. f 0.06; uitg. in gr. 8o. 1909. f 0.35</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje op nieuw verteld</title>
+            <author>Alice Becht-Dentz (1900-1921 fl.)</author>
+            <author>Marie Hohneck (fl. 1900-1920)</author>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam H.J.W. Becht</publisher>
+            <date>[1908]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje.</p>
+        <p>Er was eens een allerliefst klein meisje waarvan elkeen evenveel hield; vooral van haar grootmoeder was zij de lieveling. Deze had haar eens een rood kapje gegeven, en daar dit haar zoo aardig stond, noemde men haar altijd Roodkapje.</p>
+        <p>Eens zei haar moeder: "Kijk eens, breng dien koek en dien wijn aan je grootmoeder; zij is ziek en zal het zeker aardig vinden als je komt. Loop flink door en groet Grootje van mij." Roodkapje beloofde dit en ging op weg.</p>
+        <p>Haar grootmoeder woonde midden in het bosch. Toen zijn een poosje geloopen had kwam zij een wolf tegen, maar daar ze niet wist dat dit een gevaarlijk beest was, was zij volstrekt niet bang voor hem. "Dag Roodkapje," zei de wolf, "waar ga je naar toe?" "Naar grootmoeder." "Wat heb je daar in dat mandje?" "Koek en wijn, voor mijn zieke grootje." "Waar woont je grootmoeder?" "Nog een kwartiertje loopen, in het huisje onder de drie groote eikeboomen." De wolf dacht bij zichzelf: "Dat lieve meisje zou een lekker malsch hapje voor mij zijn. Maar hoe kan ik haar krijgen?" Hij stapte een kwartiertje naast haar voort en zei: "Kijk eens, Roodkapje, wat daar mooie bloemen staan, je moet eens goed om je heen zien!" Roodkapje zag nu pas hoe vriendelijk de zon door de boomen scheen en hoe het heele bosch bezaaid was met mooie bloemen. Ze sprong vroolijk in het rond en dacht: "Ik zal voor Grootje een mooien ruiker maken, dat zal zij zeker heerlijk vinden." Zoo gezegd, zoo gedaan! Telkens als zij een bloem geplukt had, dacht zij dat er een eind verder een stond, die veel mooier was, en zoo kwam zij hoe langer hoe dieper het bosch in.</p>
+        <p>De wolf was in dien tijd rechtdoor naar Grootmoeders huisje gegaan en klopte op de deur. "Wie is daar?" "Roodkapje, die koek en wijn voor u brengt." "Druk maar op de klink, dan zal de deur wel opengaan, ik ben te zwak en kan niet opstaan." De wolf drukte op de klink, stapte naar binnen en at het arme Grootje op. Toen trok hij haar kleeren aan, zette haar muts op en ging in bed liggen.</p>
+        <p>Met haar grooten ruiker kwam Roodkapje bij het huisje. Ze verwonderde zich, dat de deur openstond. Toen zij binnenkwam, was zij angstig, ze wist zelf niet waarom, want ze was altijd graag bij haar Grootmoeder. Ze ging naar het bed en schoof de gordijnen weg; -- daar lag Grootje, met de nachtmuts ver over het gezicht getrokken, en ze zag er zoo vreemd uit.</p>
+        <p>"Grootmoeder, wat heb je groote ooren!"
+"Dat is om goed te kunnen hooren."
+"Grootmoeder, wat heb je groote oogen!"
+"Dat is om goed te kunnen zien."
+"Grootmoeder, wat heb je groote handen!"
+"Dat is om je goed mee te kunnen pakken."
+"Maar Grootmoeder, wat heb je een grooten mond!"
+"Daarmee kan ik jou goed opeten."</p>
+        <p>Juist op het oogenblik dat de wolf uit bed sprong, ging er een jager voorbij, hij hoorde leven in het huisje en kwam eens kijken wat er gebeurde. Toen hij het gevaar zag, waarin Roodkapje verkeerde legde hij zijn geweer aan op den wolf en schoot hem dood. Wat was Roodkapje blij dat ze er zoo goed afgekomen was! Ze dankte den jager vriendelijk en ging gauw naar moeder, aan wie ze alles vertelde. Ze beloofde vast voortaan gehoorzaam te zijn, want eigenlijk was door haar schuld het arme Grootje door den wolf opgegeten.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

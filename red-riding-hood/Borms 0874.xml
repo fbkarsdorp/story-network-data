@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De vertelling van Roodkapje</title>
+        <author>Charles Perrault; 1628-1703</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0123</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Prentnr. 2 Gesigneerd G.O is Gerard Oortman Bewerking van het sprookje van Charles Perrault Onderaan de prent is de naam van de uitgever gedrukt Te Amsterdam, by de Erve H. Rynders in de Tweede Tuin-Dwarsstraat Datering gebaseerd op jaren van werkzaamheid van de uitgever/drukker</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>De vertelling van Roodkapje</title>
+            <author>Charles Perrault; 1628-1703</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Unknown</publisher>
+            <date>[tussen 1781-1854]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>De vertelling van Roodkapje.</p>
+        <p>Een moeder had een bevallig meisje, welke men Roodkapje noemde, omdat zy altyd een rood kapje droeg. De moeder zegt: "kind, gy moet eens naar uwe grootmoeder gaan."</p>
+        <p>"Ik zal wat wafeltjes bakken, en die moet gy met dat potje boter uwe grootmoeder brengen, maar vertoef niet op den weg."</p>
+        <p>De moeder zendt Roodkapje met de wafeltjes en het potje boter, en zegt: "zie hoe uwe grootmoeder vaart;" want zy was ziek.</p>
+        <p>Roodkapje gaat op weg, en ziet reeds het Dorp in de verschiet, waar hare grootmoeder woonde.</p>
+        <p>Zy ontmoette op den weg een' wolf, die haar vroeg: "waar gaat gy henen?" Zy antwoordde: "naar myne grootmoeder, om deze wafeltjes en het potje boter te brengen."</p>
+        <p>"Woont zy ver van hier?" vroeg de wolf. "Het is voorby den molen, dien gy ginds ziet," (zeide Roodkapje,) "het eerste huis in het Dorp."</p>
+        <p>Zy houdt zich op den weg bezig om kapelletjes te vangen; de wolf had intusschen den kortsten weg genomen en klopt by de grootmoeder aan.</p>
+        <p>De wolf heeft de deur opengedaan, loopt naar het bed en verscheurt de grootmoeder, die ziek lag.</p>
+        <p>Roodkapje komt en klopt aan. De wolf roept: "wie klopt daar?" Zy zegt: "ik ben het, grootmoeder!" "Trek maar aan het riempje van de klink en kom binnen," zegt de wolf.</p>
+        <p>De wolf was in het bed gaan liggen; Roodkapje had aangeklopt en kwam binnen. De wolf zegt: "kindlief zet uwe wafeltjes en boter op de tafel neder en kom by grootmoeder in het bed."</p>
+        <p>Roodkapje wist niet dat de wolf in het bed lag, meende dat het hare grootmoeder was. Zy zegt: "grootmoeder! wat hebt gy groote tanden!"</p>
+        <p>"Dat is, om u dest te beter te kunnen opeten, zeide de wolf; en met eens verscheurde hij Roodkapje.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

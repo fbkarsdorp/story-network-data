@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Muziek en Zang</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0293</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Omslag vermeldt 23 Bevat het verhaal Roodkapje, drie gedichtjes, het alfabet en de cijfers Zw. ill. en tekst gedrukt in blauw, gekl. ill. groen, bruin en rood</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Muziek en Zang</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l. s.n. ]</publisher>
+            <date>[192-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Wel honderd jaar geleden, leefde er een klein meisje, dat Rosa heette. Iedereen hield evenveel van haar, omdat zij zulk een lief karakter had, en altijd vroolijk en blij was. Zelfs haar oude Grootmoeder begon verheugd te lachen, als zij Rosa maar zag. Eens verraste de oude vrouw haar kleindochter met een mantel en mutsje van mooie roode wol, die zij zelf gemaakt had. "Wat zeg je nu wel," zei Grootmoeder, toen Rosa de nieuwe kleedingstukken had aangepast, en Rosa uitgelaten blij, vloog Grootmoeder om den hals en gaf haar wel honderd kusjes. Van dien dag af, zag men Rosa altijd met het roode manteltje en de daarbij behoorende muts, en noemden de buren haar weldra nooit anders als "Roodkapje".</p>
+        <p>Fik, Rosa's trouwe vriend volgde haar overal en als men dit dartele tweetal door weiden en bosschen zag draven, of daarna op een steenen muurtje wat uitrusten, dan zou men niet denken, dat ook 't aanvallige Roodkapje haar gebreken had. En toch was achteloosheid een groote fout van haar. Zoo luisterde zij dikwijls maar half, als Moeder haar 't een of ander opdroeg of verbood.</p>
+        <p>"Rosa", zei haar moeder eens, "Grootmoe is ziek en kan niet bij ons komen, ga jij haar nu eens een kruikje room brengen en wat versche eieren. Ga recht door, en spreek onderweg niemand die je niet kent en zorg dat je vóór donker weer thuis bent hoor!" Rosa, die maar half luisterde, trok haar manteltje aan, nam het mandje met de room en de eieren aan de arm en verliet het huis in gezelschap van Fik, die vroolijk blaffend haar een eindweegs vergezelde. Het was een heerlijke lentedag, en Rosa niet denkende aan Moeder's raad plukte weldra de mooiste bloemen, en maakte ruikers en kransen.</p>
+        <p>Toen ze vermoeid was van 't heen en weer drentelen, zette zij zich neer op een boomstam en zag tot haar ontsteltenis een Wolf naderbij komen. Er waren echter houthakkers in de nabijheid, zoodat de Wolf Roodkapje zeer vriendelijk toesprak. Rosa vertelde alles wat 't verscheurende dier wilde weten, totdat dit ten laatste vroeg waar Grootmoeder woonde. "In dat huisje met 't roode dak", antwoordde Roodkapje, terwijl zij argeloos met haar handje in de richting wees waar zich het huis bevond. Laten wij dan eens een wedloop aangaan hernam de Wolf, en zien wie er 't eerste is. Gij gaat deze weg en ik door het bosch." Roodkapje stemde lachend toe, en haastte zich niet eens, omdat naar zij dacht de Wolf een veel langeren weg moest afleggen.</p>
+        <p>Deze zette 't echter op een loopen, zoodra Roodkapje hem niet meer zien kon, en klopte weldra bij Grootmoeder aan. "Wie is daar?" vroeg de oude vrouw. "Ik ben 't Grootmoe", zei de Wolf met veranderde stem. "Trek maar aan 't touwtje, liefje" antwoordde Grootmoeder, denkende haar kleindochtertje te hooren, dan gaat de deur wel open!" De wolf liet zich dat geen tweemaal zeggen, maar stormde de kamer binnen en op 't bed toe waarin de arme zieke Grootmoeder lag, die hij in een oogwenk verslond. Daarop trok 't monster grootmoeder's nachtgewaad aan en begaf zich te bed.</p>
+        <p>Kort daarop klopte Roodkapje aan de deur, en nu herhaalde de Wolf grootmoeders woorden, waarop Roodkapje vroolijk binnentrad, "Arme zieke Grootmoe, ik kom u wat lekkere room brengen" zei 't lieve kind, en deed de versnapering op een bord, dat zij naar 't bed droeg. "Maar Grootmoe, wat hebt u groote oogen!" riep zij uit. "Zooveel te beter kan ik je zien, mijn kind," antwoordde de Wolf. "En Grootmoe wat zijn uw tanden groot", hernam weer 't kind, "Zooveel te beter kan ik je opeten!" brulde de Wolf thans, terwijl hij zich op 't verschrikte Roodkapje wierp.</p>
+        <p>Juist op dat oogenblik ging echter de deur open, en rende Fik, gevolgd door de houthakkers 't huis in, waar zij met hun drieën de kleine Rosa bevrijdden, en daarop den Wolf doodden. Roodkapje was meer verschrikt dan bezeerd, ze had echter een lesje gehad, dat ze nooit meer vergat, en vertelde ook toen zij al groot was aan een ieder die 't hooren wilde de geschiedenis van Roodkapje en de Wolf.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

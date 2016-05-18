@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0216</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam ; Brussel Deltos Elsevier</publisher>
+            <date>[1970]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Op een dag vroeg moeder aan Roodkapje of ze een mandje met eieren naar grootmoeder wilde brengen. Die woonde midden in het bos.</p>
+        <p>Haar oude grootmoeder zette net haar mooiste blauwe muts op.</p>
+        <p>De boze wolf zag grootmoeder. Ze werd erg bang. Hij pakte grootmoeders muts en sloot haar op in de kast. Toen sprong hij in haar bed.</p>
+        <p>'Wat heb je grote ogen, grootmoeder,' zei Roodkapje, 'en wat 'n grote tanden.'
+De boze wolf gromde. 'Oh Help, help!' riep Roodkapje.</p>
+        <p>Een dappere houthakker hoorde haar roepen. Hij nam zijn grote bijl en rende naar het huis.</p>
+        <p>De boze wolf rende weg en kwam nooit meer terug. 'Dank u wel,' zei Roodkapje.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

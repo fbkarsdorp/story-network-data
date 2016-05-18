@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mijn eerste Sprookjes puzzelboek</title>
+        <author>Tony Hutchings</author>
+        <author>Stijn Laagland</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0243</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Met vijf 12 delige puzzels Bevat de sprookjes Goudlokje en de drie beren ;De drie kleine biggetjes ; Assepoester ; Roodkapje ; Sneeuwwitje en de zeven dwergen Vert. van My first fairytales. - The Five Mile Press</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Mijn eerste Sprookjes puzzelboek</title>
+            <author>Tony Hutchings</author>
+            <author>Stijn Laagland</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Lisse Rebo Productions</publisher>
+            <date>cop. 2006</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Op een dag vroeg de moeder van Roodkapje of ze een mandje eten naar haar oma wilde brengen, want oma was een beetje ziek.</p>
+        <p>Roodkapje ging op pad en ze kwam een wolf tegen. De wolf vroeg waar ze heen ging. "Ik ga een mandje eten brengen naar mijn oma, die aan de andere kant van het bos woont," zei Roodkapje. "Wat aardig!" zei de sluwe wolf. Hij wist een kortere weg naar het huisje van oma en rende snel weg.</p>
+        <p>Bij het huis van oma aangekomen stopte hij Roodkapjes oma in een kast, deed haar muts op en ging in bed liggen.</p>
+        <p>Toen Roodkapje bij het huisje aankwam trok de wolf de dekens tot over zijn kin. Roodkapje kwam binnen en zei: "wat heeft u een grote tanden oma!” “Daar kan ik jou beter mee opeten!" riep de wolf, en sprong uit bed.</p>
+        <p>Gelukkig was de vader van Roodkapje in de buurt. Vader zag de wolf en jaagde hem weg. Roodkapje praatte daarna nooit meer met vreemden.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

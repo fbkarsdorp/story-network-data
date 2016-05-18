@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Sietske Chardon-Postel</author>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0022</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Naar de Gebroeders Grimm = Jacob en Wilhelm Grimm</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Sietske Chardon-Postel</author>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Chevron Hemma</publisher>
+            <date>[1996]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Roodkapje is vanochtend vroeg opgestaan, want ze gaat op bezoek bij oma diep diep in het bos woont.</p>
+        <p>- Dag mam! roept ze en ze zwaait naar haar moeder.</p>
+        <p>Roodkapjes moeder heeft gezegd, dat ze onderweg niet mag treuzelen in het bos. Maar Roodkapje ziet zoveel prachtige bloemen langs het pad, dat ze toch even stopt om er een grote bos te plukken. Ineens heeft ze het gevoel dat er achter haar staat. Ze kijkt om en ziet de wolf.</p>
+        <p>- Hé, waarom kijk je zo naar me? vraagt ze.
+- Oh... zomaar, zegt de wolf met een raadselachtig lachje. Zeg, ik ga die kant op; waar ga jij naartoe?
+- Naar oma, ze wacht op me. zegt Roodkapje.</p>
+        <p>- Aha. denkt de wolf. ze gaat dus naar haar oma. Dat is mooi.., eens denken.., als ik de kortere weg neem, ben ik er eerder dan Roodkapje. Dan eet ik eerst dat oude omaatje op, en als Roodkapje dan komt... Mmm. wat heb ik een trek! De wolf rent dwars door het bos en blijft hijgend voor oma's huis staan. Hij klopt op de deur...</p>
+        <p>- Wie is daar? vraagt een zachte, beverige stem.
+- Ik ben het, Roodkapje.
+- Kom binnen, mijn kind!</p>
+        <p>Pas op, oma! Het is geen meisje dat de deur binnengaat, maar een wolf! Maar het is te laat... De wolf doet de deur open en zonder Iets te zeggen springt hij op oma af en eet haar in één hap op. De wolf heeft nog net tijd om onder de dekens te kruipen. Dan wordt er op de deur geklopt.</p>
+        <p>- Wie is daar? vraagt de wolf met een beverige stem.
+- Ik ben het, Roodkapje, zegt Roodkapje.
+- Kom maar binnen, mijn kind, zegt de wolf schor.
+- Dag oma, zegt Roodkapje vrolijk als ze binnenkomt. Maar oma, wat hebt u grote ogen!
+- Dat, mijn kind, is om je beter te kunnen zien.
+- En wat hebt u een grote oren!
+- Dat, mijn kind, is om je beter te kunnen horen.
+- En wat hebt u grote tanden...
+- Dat is om je beter te kunnen opeten! grauwt de wolf en vliegensvlug springt hij met een enorme sprong uit het bed.</p>
+        <p>Met ontblote tanden rent hij achter het meisje aan. Ze probeert te vluchten… Maar de wolf is veel sneller! Hij wil haar grijpen en haar met huid en haar verslinden! Maar gelukkig ziet iemand wat er gebeurt… Dat is de jager. Hij heeft alles door het raam gezien. Zo snel hij kan rent hij naar binnen en nog net op tijd houdt hij de wolf tegen. De wolf smeekt om genade, maar de jager pakt zijn mes, snijdt de grote wolvenbuik open en bevrijdt oma.</p>
+        <p>- Jongeman, je hebt me gered! roept de oude dame. Kan ik je ooit bedanken?
+- Kom, we gaan eten, zegt oma. Ik heb trek. Ik heb honger als een wolf.</p>
+        <p>En wat doet de wolf?. Die kijkt toe en zucht Hij had ook wel graag iets te eten.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

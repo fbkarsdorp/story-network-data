@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>A.M. Lefèvre</author>
+        <author>A. Van Gool</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0310</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Op rug Van Gool Datering schatting</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>A.M. Lefèvre</author>
+            <author>A. Van Gool</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Oegstgeest Boek Specials Nederland</publisher>
+            <date>[ca. 2002]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Op een dag ging Roodkapje haar grootmoeder bezoeken. Onderweg kwam ze haar vriendjes tegen. 'Hallo, vogel, hallo, eekhoorn', zei ze.</p>
+        <p>Opeens kwam er een wolf uit de struiken. 'Hallo', zei hij. "Waar ga jij heen?' 'Ik ga naar Grootmoeder', zei Roodkapje. 'Zullen we een wedstrijd doen wie er het eerste is?' vroeg de wolf. 'Jij gaat hierlangs. Ik ga daarlangs.'</p>
+        <p>Onderweg stopte Roodkapje om bloemen te plukken. De wolf stopte niet. Hij liep zo hard hij kon. Al snel was hij bij Grootmoeders huisje. Hij klopte op de deur. 'Kom maar binnen', zei Grootmoeder. De wolf sprong naar binnen en at haar op.</p>
+        <p>Snel trok hij Grootmoeders kleren aan, en kroop in haar bed. Toen kwam Roodkapje. Ze klopte op de deur. 'Kom maar binnen', zei de wolf. 'Grootmoeder, wat heb je een zware stem!' zei het meisje. 'Kom maar wat dichterbij', zei de wolf. Roodkapje stapte naar het bed. De wolf greep haar vast en schrokte haar op.</p>
+        <p>Nu zijn buik gevuld was, viel de wolf in slaap. Gelukkig had de eekhoorn alles gezien. Hij had een plan... Hij bond een touw aan de staart van de wolf. De eekhoorn en zijn vriendjes trokken uit alle macht. De wolf hing ondersteboven. Zijn mond viel open en Grootmoeder en Roodkapje tuimelden eruit. Ze waren gered! 'Maak dat je wegkomt!' riepen Roodkapje en Grootmoeder. Iedereen moest lachen om de wolf. De wolf liep weg en kwam nooit meer terug.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

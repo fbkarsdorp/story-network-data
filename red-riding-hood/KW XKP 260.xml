@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0300</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Op voorplat 661.0160</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l.] [ s.n. ]</publisher>
+            <date>1980</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Grootmoeder woont diep in het bos. Op een dag gaat Roodkapje haar een mandje met eten brengen. Als ze weggaat zegt moeder: “Denk om de boze wolf hoor!"</p>
+        <p>Roodkapje gaat van het bospad af en komt de wolf tegen. Ze kent hem niet goed en vertelt hem precies waar ze naar toe gaat. “Ik breng grootmoeder wat lekkers", zegt Roodkapje. “Ze is de laatste tijd een beetje ziek". “Zou je ook niet wat bloemen voor haar plukken?" zegt de wolf snel. Dat is een leuk idee.</p>
+        <p>Ondertussen gaat de wolf snel naar grootmoeders huisje. Hij eet grootmoeder op en gaat in haar bed liggen.</p>
+        <p>Vlak daarna komt Roodkapje. “Wat heeft u een grote mond, grootmoeder," zegt Roodkapje. Vlug springt de wolf uit het bed en eet ook Roodkapje op. Na de maaltijd snurkt de wolf in zijn slaap.</p>
+        <p>De jager die voorbij komt, denkt: “dat is grootmoeder niet". Met een groot mes snijdt hij de buik open. En wie komen eruit? Roodkapje en grootmoeder.</p>
+        <p>Gauw dekt grootmoeder de tafel en ze eten dolgelukkig de koeken en drinken de wijn. En in het vervolg is Roodkapje heel voorzichtig!</p>
+      </div>
+    </body>
+  </text>
+</TEI>

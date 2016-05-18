@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Er was eens...</title>
+        <author>Benjamin Lacombe; 1981-</author>
+        <author>Geert De Kockere; 1962-</author>
+        <author>José Pons</author>
+        <author>Marjolein Noé</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0109</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Vert. van Il était une fois... - Paris Éditions du Seuil, cop. 2010</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Er was eens...</title>
+            <author>Benjamin Lacombe; 1981-</author>
+            <author>Geert De Kockere; 1962-</author>
+            <author>José Pons</author>
+            <author>Marjolein Noé</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Sint-Niklaas] Abimo [Alkmaar] Kluitman</publisher>
+            <date>cop. 2011</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Een meisje lief en knap, 
+trok met een mand vol lekkers door het bos, op haar hoofd een rode kap. 
+Ze ging naar grootmoe die in 't bos een hutje had 
+en haar moeder had gezegd: Blijf netjes op het pad! 
+Maar ach, het lieve kind zag bloemen en toen ze zich wou bukken, 
+riep een wolf: Verder zijn ze mooier, ga daar maar plukken! 
+De wolf rende halsoverkop 
+naar grootmoeders hut en at haar op. 
+Hij deed haar kleren aan en ging liggen in haar bed. 
+Kom maar binnen, ik heb de koekjes voor je klaargezet. 
+Dat zei hij met een valse mond 
+toen Roodkapje voor het huisje stond. 
+Maar oma toch, zei 't lieve kind, wat zijn je armen groot. 
+Kan ik je beter pakken op mijn schoot. 
+Maar oma toch, wat heb je grote oren. 
+Om je lieve stem te horen. 
+Maar oma toch, je mond werd een grote bek. 
+Grauw! zei de wolf. En deed toen smikkelsmakkelsmek... 
+Te slapen lag die schurk, 
+maar een jager hoorde het gesnurk. 
+Hij sneed het beest heel snel open, 
+grootmoe en Roodkapje kwamen uit de wolf gekropen. 
+Ze deden stenen in zijn buik en toen hij wilde drinken, buiten naast de hut, 
+viel hij in een diepe waterput...</p>
+      </div>
+    </body>
+  </text>
+</TEI>

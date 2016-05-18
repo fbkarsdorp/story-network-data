@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Egor houdt van roodkapje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0006</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Omslagtitel</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Egor houdt van roodkapje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Roermond Polka Design</publisher>
+            <date>[2014]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Egor ziet iets roods huppelen door het bos.</p>
+        <p>Het is een tof meisje met een rood hoofddoekje. Ze staat nu stil en plukt bloemetjes. Hallo stoer meisje, wie ben en wat ga je doen?', zegt Egor een beetje ruiger dan hij is.</p>
+        <p>'Ik ben Roodkapje. Mijn oma is verslaafd aan de spacekoekjes en ik ga weer naar haar toe om nieuwe te brengen', zegt ze terwijl ze haar goed gevulde mandje laat zien.</p>
+        <p>'Cool, zo'n oma lust ik ook wel, euh, koekje bedoel ik natuurlijk', zegt Egor. Hij praat nog even gezellig met haar en zegt stoer: 'Je oma zal zeker en vast blij zijn met zo'n vet bloemenboeket'.</p>
+        <p>Egor weet waar oma woont en kent de kortste weg naar haar huisje. Hij rent zo hard als hij kan. Hij denkt steeds aan die super lekkere koekjes, maar ook een beetje aan Roodkapje.</p>
+        <p>Egor verkleedt zich als agent en liegt tegen oma dat ze net een bon heeft gekregen voor fout parkeren aan de rand van het bos. Oma schrikt, pakt gauw haar looprekje en gaat op weg naar haar auto.</p>
+        <p>Egor wacht tot oma weg is en glipt het huisje binnen. Hij zoekt, voordat Roodkapje komt, snel wat spulletjes van oma en vindt een slaapmutsje in de la van de kast.</p>
+        <p>Egor heeft zich net verkleed als Roodkapje met de koekjes binnen komt. 'Geef maar gauw', zegt Egor met een lief stemmetje. 'Wat is er met uw stem?', zegt Roodkapje geschrokken.</p>
+        <p>Egor grist snel de koekjes uit haar hand en rent weg. Egor ziet hoe Roodkapje hem met tranen in de ogen nakijkt. Hij voelt zich een vuile schurk, gaat gauw terug, en zegt sorry.</p>
+        <p>'Kom, het is okee', zegt de lieve oma, 'Het was geen nobele daad maar gezien je berouw toch een paar koekjes waard!' Egor is opgelucht en geniet daarom dubbel van die lekkere spacekoekjes.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

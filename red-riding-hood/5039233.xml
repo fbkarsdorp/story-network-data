@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Charles Perrault; 1628-1703</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0071</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Naar Charles Perrault</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Charles Perrault; 1628-1703</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Aartselaar ; [Harderwijk] Deltas</publisher>
+            <date>cop. 1991</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Op een mooie lentedag ging Roodkapje op weg naar haar grootmoeders huisje in het bos. "Goedemorgen, roodborstje", zei ze tegen een vogeltje. "Ik ga naar mijn zieke oma. Ik heb knapperige koekjes en medicijnen voor haar in mijn mandje." "Ik kan helaas niet met je spelen. Ik moet van moeder direct naar oma's huisje gaan. Onderweg mag ik niet stoppen of van het pad aflopen." En ze huppelde verder door het bos.</p>
+        <p>Er groeiden prachtige bloemen langs het pad. “Daar zal oma van opvrolijken", dacht Roodkapje. En ze stapte het pad af om een boeketje te plukken. Opeens hoorde Roodkapje takjes kraken! Met een ruk draaide ze zich om en zag de wolf. Met een grom vroeg hij" "Heb je iets voor me in je mandje, kleine meid?" Verschrikt antwoordde Roodkapje" "Het spijt me, wolf, ik heb geen tijd voor je. Ik ben op weg naar mijn zieke oma.” En ze ging haastig verder.</p>
+        <p>Roodkapje wist niet dat de wolf een kortere weg naar oma's huisje kende. Hij snelde door het bos en kwam er vóór Roodkapje aan! Hij joeg oma de kast in en deed de deur op slot. "Die oude vrouw is vel over been en ik heb juist zo'n honger", mopperde de wolf.</p>
+        <p>"Ik vermom mij als oma en wacht tot Roodkapje komt", zei hij bij zichzelf. "Als ik de dekens tot mijn kin optrek, denkt ze vast dat ik haar zieke grootje ben. Wanneer ze die arme oma een zoen komt geven, slok ik haar met één grote hap op."</p>
+        <p>Roodkapje stormde het huisje binnen, maar bleef pardoes staan toen ze haar oma zag. "Oma," zei ze zacht, "u ziet er veel zieker uit dan ik verwachtte. Misschien helpen mijn zelfgebakken koekjes en de medicijnen wat." De sluwe wolf likte zijn lippen. "Dank je, liefje", zei hij met een rauwe stem.</p>
+        <p>"Hoor die stem eens, u heeft vast een schorre keel," zei Roodkapje, "en al die dekens zijn veel te warm!" Ze kwam dichterbij. "Oma toch!", schrok ze, "wat heeft u een grote ogen!" "Dan kan ik je beter zien, m'n kind", zei de wolf. "En u heeft zo'n grote neus. En zulke lange, scherpe tanden!" "Daar kan ik je beter mee opeten, schat!", gromde de wolf. En hij sprong het bed uit om Roodkapje te vangen.</p>
+        <p>Een passerende houthakker hoorde Roodkapje schreeuwen. Hij rende naar het huisje en smeet de deur open. "Blijf van dat meisje af!", riep hij, en zwaaide met zijn bijl naar de wolf. De wolf werd zo bang, dat hij diep het bos in vluchtte en nooit meer terugkwam. Opgelucht bedankte Roodkapje de houthakker: "U heeft mij gered! Maar de wolf heeft iets met mijn oma uitgehaald."</p>
+        <p>Op dat moment hoorden ze een zacht geklop uit de kast komen. De houthakker brak het slot en opende de deur. En daar stond Roodkapjes oma, wat vermoeid en een beetje in de war. Voorzichtig hielp de houthakker haar uit de kast. "U bent ongedeerd!", riep Roodkapje blij. "We zijn u erg dankbaar", zei oma tegen de houthakker. Roodkapje bleef die middag bij haar grootmoeder. Tevreden dronken zij thee en aten zij de koekjes. "Kind, een bezoekje van jou is mijn beste medicijn", zei oma.</p>
+        <p>Roodkapje kuste haar grootmoeder en rende naar huis zo hard ze maar kon. Thuis nestelde Roodkapje zich in haar moeders armen. Ze vertelde haar over het avontuur met de wolf en de houthakker. "Ik voel me zo veilig bij u, moeder," zei ze slaperig, "en ik beloof dat ik nooit meer van het pad af zal gaan."</p>
+      </div>
+    </body>
+  </text>
+</TEI>

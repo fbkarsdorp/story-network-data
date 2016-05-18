@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sprookjes prentenboek</title>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0359</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Op voorplat No. 10005 en J.W.S &amp; S. Bavaria Datering oude spelling, volgens Francis Spear verschenen tussen 1919 en 1926</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Sprookjes prentenboek</title>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Nürnberg J.W. Spear &amp; Söhne ]</publisher>
+            <date>[192-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje.</p>
+        <p>Roodkapje ging van huis, om hare zieke grootmoeder te bezoeken.</p>
+        <p>Onderweg ontmoette Roodkapje in het bosch den wolf, die haar vroeg, waarheen zij ging.</p>
+        <p>Nadat de wolf grootmoeder opgegeten had, zette hij grootmoeder's slaapmuts en bril op en ging in haar bed liggen.</p>
+        <p>De jager, die het snurken van den wolf hoorde, sneed hem den buik open en redde op deze manier Roodkapje en de grootmoeder.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

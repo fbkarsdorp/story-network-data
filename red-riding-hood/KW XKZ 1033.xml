@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sprookjesboek</title>
+        <author>Rotraut Susanne Berner; 1948-</author>
+        <author>Sylvia Vanden Heede; 1961-</author>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0400</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Bevat De kikkerkoning ; Vrouw Holle ; Duimpjedik ; Raponsje ; Jorinde &amp; Joringel ; Gelukkige Hans ; Hans mijn egel ; Roodkapje Oorspr. titel Sprookjestijd. - Amsterdam [etc.] Querido, 1998 Vert. van Märchencomics. - Berlin Jacoby &amp; Stuart, 2008. - Oorspr. titel Märchenstunde. - Weinheim [etc.] Beltz, 1998</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Sprookjesboek</title>
+            <author>Rotraut Susanne Berner; 1948-</author>
+            <author>Sylvia Vanden Heede; 1961-</author>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Tielt Lannoo</publisher>
+            <date>cop. 2008</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Er was eens...
+... Een klein meisje, ze heette Roodkapje.
+Moeder: “Roodkapje!”
+Op een dag...
+Moeder: “Roodkapje, fiets naar je grootmoeder en breng haar koek en wijn, ze is ziek. Maar kijk uit op straat en praat met niemand.”
+Grootmoeder woonde een half uur verder, op een open plek midden in het bos.</p>
+        <p>Aan de bosrand...
+Wolf: “Goeiedag, Roodkapje. Waar ga je heen?”
+Roodkapje: “Naar mijn oma.”
+Wolf: “Waar woont je oma?”
+Roodkapje: “Daar op die open plek.”</p>
+        <p>Even later in grootmoeders kamer...
+Roodkapje: “Oma, waarom heb je zo’n grote oren?”
+Wolf: “Om je beter te kunnen horen!”
+Roodkapje: “Oma, waarom heb je zo’n grote ogen?”
+Wolf: “Om je beter te kunnen zien.”
+Roodkapje: “Oma, waarom heb je zo’n grote handen?”
+Wolf: “Om je beter te kunnen pakken!”
+Roodkapje: “En waarom heb je zo’n vreselijk grote bek!”
+Wolf: "Om je beter te kunnen opeten!"</p>
+        <p>Even later
+Wolf: "zzzzzzzzz... zzzzzzzzzzzzzzz..."</p>
+        <p>Na 20 minuten...
+Jager: "Ziezo!"
+Wolf: "zzzzzzzz... zzzzzzz..."
+Roodkapje: "Oef!"</p>
+        <p>Dan...
+Wolf: "zzzzzzz... zzzzzzz..."</p>
+        <p>Later:
+Wolf: "Aghr... steun... kreun..."
+Roodkapje: "Hij is dood!"</p>
+        <p>Die avond:
+Oma: "Proost!"
+Jager: "Proost!"</p>
+        <p>En ze leefden nog lang en gelukkig.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje en Klein Duimpje</title>
+        <author>Charles Perrault; 1628-1703</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0225</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje en Klein Duimpje</title>
+            <author>Charles Perrault; 1628-1703</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Haarlem : I. de Haan</publisher>
+            <date>189-?</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>ROODKAPJE</p>
+        <p>Er was eens een lief en aardig meisje, dat heel veel van hare moeder en hare oude grootmoeder hield. Toen zij nog heel klein was, deed hare moeder haar altijd een rood manteltje en rokje aan, waarom men haar Roodkapje noemde.</p>
+        <p>Toen hare moeder eens heerlijke pannekoekjes gebakken had, riep zij Roodkapje bij zich en zei:</p>
+        <p>- Ge moet eens naar grootmoeder gaan, die niet al te wel is en dan moest hij haar uit mijn naam dit potje met boter en deze pannekoekjes brengen.
+- He ja moeder.
+- Maar nu moogt ge onderweg niet spelen, want vóór donker moet ge weer thuis zijn.
+- Daar zal ik om denken, moedertje!
+- O ja, nu vergat ik nog te zeggen, om niet bij het hol van den wolf stil te staan: hij zou je opeten.
+- Neen moedertje, dat beloof ik u.</p>
+        <p>Moeder omhelst Roodkapje en kijkt haar na tot de bocht van den weg. Toen zij eenmaal in het bosch was, zei Roodkapje, die veel van bloempjes hield, tot zich zelve:</p>
+        <p>- Grootmoeder zal heel blij zijn als ik een ruikertje voor haar pluk.</p>
+        <p>Zij zet haar mandje op den grond en zoekt rechts en links naar mooie bloempjes. Zij bedenkt zich, dat er verderop mooie paarse klokjes zijn, maar die staan wel dicht bij het hol van den wolf; nu, komaan, zij zal gauw voortmaken. De wolf zal toch wel uit zijn! Roodkapje maakt nu een mooi ruikertje maar ........ daar ziet zij opeens den wolf.</p>
+        <p>- Goedendag Roodkapje; waar gaat ge toch heen?</p>
+        <p>Roodkapje had nu wel willen vluchten, maar de wolf zou haar zeker inhalen.</p>
+        <p>- Ik ga naar Grootmoeder.
+- Zoo, en wat gaat ge daar doen?
+- Ik ga dit potje boter en deze pannekoekjes brengen, want zij is ziek.
+- En waar woont je Grootmoeder?
+- Daar ginds aan den zoom van het bosch.</p>
+        <p>Wel had de wolf groote lust, om Roodkapje op te eten maar hij hoorde de houthakkers en durfde niet. Op eens schiet hem iets te binnen, hij holt weg en klopt bij Grootmoeder aan.</p>
+        <p>Roodkapje, blij dat de wolf weg is, gaat nu hard loopen om den tijd in te halen. In 't voorbijgaan groet ze de houthakkers, die den wolf voorbij hebben zien gaan. De wolf vond de deur van huisje open; hij deed gauw de deur achter zich dicht, wipte in grootmoeder's bed en zette haar net, wit nachtmutsje op zijn kop. Even daarna komt Roodkapje aan, warm en uitgeput van het harde loopen.</p>
+        <p>Daar wordt aan de deur geklopt: tik-tik.</p>
+        <p>- Wie is daar? roept een grove stem.
+- Roodkapje, die een potje boter en wat pannekoekjes komt brengen.
+- Trek maar aan 't touwtje, dan zal de deur vanzelf wel open gaan!
+- De deur gaat open en Roodkapje loopt naar het bed, om grootmoeder te omhelzen.</p>
+        <p>De wolf verbergt zich zoo diep mogelijk onder de dekens. Toen zij heel dicht bij was, zei Roodkapje:</p>
+        <p>Maar grootmoeder, wat heeft u...... Op dit oogenblik hoorde ze een vreeselijk geweld. Een der houthakkers had Roodkapje gevolgd; hij hakte de deur open en met één slag sloeg hij den wolf dood. De houthakker bracht Roodkapje weer thuis, die hare moeder beloofde, voortaan heel gehoorzaam te zijn.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

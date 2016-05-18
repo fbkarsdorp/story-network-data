@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0133</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Antwerpen Zuid-Nederlandse Uitgeverij Harderwijk Centrale Uitgeverij</publisher>
+            <date>1975</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>moeder riep roodkapje, ze moest naar oma toe die ziek was. “ga niet van het pad. praat niet met de wolf,” zei moeder.</p>
+        <p>roodkapje was in het bos. toen kwam de wolf. hij zei: “pluk maar bloemen in het bos.”</p>
+        <p>dat deed roodkapje, de wolf holde naar het huis van oma. hij at haar op en hij kroop in haar bed.</p>
+        <p>roodkapje kwam met de bloemen, ze zei: “oma, wat is uw mond groot !” toen at de wolf roodkapje ook op.</p>
+        <p>de wolf kroop weer in bed en viel in slaap, hij snurkte, dat hoorde de jager, die nam een kijkje.</p>
+        <p>hij zag de wolf. hij begreep wat er gebeurd was en sneed de wolf open. roodkapje en oma kwamen er uit!</p>
+      </div>
+    </body>
+  </text>
+</TEI>

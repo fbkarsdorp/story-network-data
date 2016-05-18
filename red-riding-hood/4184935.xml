@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mijn mooiste sprookjesboek</title>
+        <author>Ingrid Godon; 1958-</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0050</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Mijn mooiste sprookjesboek</title>
+            <author>Ingrid Godon; 1958-</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Malle ; Veldhoven De Ballon</publisher>
+            <date>cop. 2001</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Er was eens een meisje, Roodkapje, op weg naar haar grootmoeder die in een huis aan de rand van het bos woonde. Grootmoeder was ziek en Roodkapje bracht haar een mand vol met lekkers. "Niet van de bospaden afgaan", had mama tegen Roodkapje gezegd. "In het bos zijn wilde dieren." Maar in het bos zag Roodkapje prachtige bloemen. Ik zal er een paar voor oma plukken, dacht ze. En zo ging ze steeds verder het bos in.</p>
+        <p>"Dag meisje, waar ga jij heen, zo alleen"? Roodkapje keek verschrikt op en zag een grote wolf. "I-i-ik ga naar oma", antwoordde Roodkapje met trillende stem. "En waar woont oma"? vroeg de slimme wolf. "Aan de rand van het bos", zei Roodkapje, nog steeds met trillende stem.</p>
+        <p>Opeens rende de wolf zo hard hij kon naar oma's huisje. Hij klopte op de deur. "Wie is daar"? riep oma. "Ik ben het, Roodkapje", zei de wolf met een hoog stemmetje. "Ik kom u allerlei lekkers brengen." Grootmoeder dacht dat het echt Roodkapje was en legde uit hoe de deur openging. De wolf sprong naar binnen en schrokte haar op. Hij deed snel haar pyjama aan en ging in het bed liggen.</p>
+        <p>Een paar minuten later kwam Roodkapje bij het huisje. De wolf, die net deed of hij oma was, liet haar binnen. Roodkapje liep naar het bed en schrok van oma. Ze zag er zo vreemd uit. "Maar oma, wat heeft u zo'n grote oren!" zei ze verbaasd. "Daarmee kan ik je beter horen, mijn kind", antwoordde de wolf met een heel fijn, lief stemmetje. "Maar oma, wat heeft u zo'n grote ogen! zei Roodkapje. "Daarmee kan ik je beter zien", zei de wolf. "Maar oma, wat heeft u een grote neus!" "Daarmee kan ik je veel beter ruiken." "Maar oma, w-wat heeft u een grote mond!" "Daarmee kan ik je beter opeten!" De wolf sprong uit het bed en at Roodkapje op.</p>
+        <p>Een paar uur later kwam een jager langs het huis van grootmoeder. Hij hoorde een luid gesnurk dat niet van oma kon zijn. Hij haastte zich naar binnen en begreep meteen wat er gebeurd was. Hij sneed de buik van de wolf open en daar kwamen ze te voorschijn, eerst Roodkapje en daarna grootmoeder. "Snel, ga stenen zoeken", zei de jager. En zo werd de buik van de boze wolf met zware stenen gevuld. Ze naaiden zijn buik weer dicht. Toen de wolf wakker werd, gooiden ze hem in een diepe waterput. De wolf brulde van woede, maar hij kon er door de zware stenen niet meer uit komen.</p>
+        <p>De jager bracht Roodkapje en oma naar het huis van mama die al ongerust was. Wat was ze blij toen ze zag dat Roodkapje en oma nog leefden. Niemand heeft de wolf ooit nog teruggezien. En Roodkapje? Die luisterde vanaf toen altijd naar haar moeder.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

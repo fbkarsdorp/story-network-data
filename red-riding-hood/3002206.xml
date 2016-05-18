@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0029</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Sprookje + 4 puzzels</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Houten Bruna</publisher>
+            <date>[1988]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Er was eens een klein meisje, dat altijd een rood kapje op haar hoofd droeg en daarom noemde men haar Roodkapje. Toen ze op een dag hoorde, dat haar grootmoeder ziek was, vulde ze een mandje met allerlei vruchten, vergat ook een potje honing niet en ging op weg.</p>
+        <p>Het pad naar grootmoeders huisje liep door een groot bos, maar Roodkapje was niet bang. Ze plukte een bosje bloemen aan de rand van het pad en stond plotseling voor een enorme wolf! "Waar ga je naar toe met al dat lekkers?" vroeg de wolf. "Ik ga naar mijn grootmoeder," antwoordde Roodkapje.</p>
+        <p>Daarop sloop de wolf naar het huisje van grootmoeder en toen ze geschrokken probeerde weg te rennen, sprong hij achter haar aan en vrat haar op, met huid en haar. Hij zette haar slaapmuts op en ging in haar bed liggen.</p>
+        <p>Toen Roodkapje binnenkwam, keek ze wel erg verbaasd. "Wat hebt u plotseling grote oren en ogen, grootmoeder!" "En kijk eens naar mijn tanden," bromde de wolf. "Met die zal ik je opeten, Roodkapje!"</p>
+        <p>Gelukkig kwam op dat moment de boswachter het huis binnen. -- Hij pakte de wolf, sneed zijn buik open en bevrijdde de grootmoeder. Daarna joeg hij de booswicht voor altijd het bos in.</p>
+        <p>Hier zien we Roodkapje, de grootmoeder en de boswachter, de gelukkige afloop van dit verhaaltje vieren. -- Grootmoeder heeft nog gauw een taart gebakken en Roodkapje krijgt een heel groot stuk, omdat ze zo flink is geweest en de hele tijd nergens bang voor was. Later, als Roodkapje naar huis moet, zoekt ze haar mandje, het potje honing en de vruchten. De boswachter is zijn hoed kwijt en grootmoeder haar bril. Kinderen, komen jullie helpen zoeken, voordat het donker wordt?</p>
+      </div>
+    </body>
+  </text>
+</TEI>

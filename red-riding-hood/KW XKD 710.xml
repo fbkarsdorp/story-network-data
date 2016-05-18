@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sprookjes prentenboek</title>
+        <author>Willem Boon; 1902-1986</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0288</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Op achterplat GRW 16-75c Datering spelling Marchant, geen K-nummer, schatting Deze uitgave is ook verschenen met K-nummer K-2185 (= Stadler en Sauerbier uit Rotterdam) Op de voorkant staat een afbeelding van Sneeuwwitje, die zeven blije dwergen een pudding opdient. Op de achterkant een oosters geklede tovenaar en de gelaarsde kat</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Sprookjes prentenboek</title>
+            <author>Willem Boon; 1902-1986</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l.] [ s.n. ]</publisher>
+            <date>[194-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>ROODKAPJE.</p>
+        <p>Er was eens een klein meisje, die door iedereen Roodkapje genoemd werd, omdat zij altijd een rood mutsje droeg. Eens op een dag sprak Roodkapjes moeder: “Roodkapje, grootmoe is ziek, nu moet jij haar eens wat eieren en vruchten brengen. Maar pas op voor de boze wolf". De wolf leefde in het bos en in dit bos woonde ook grootmoe. Roodkapje beloofde voorzichtig te zijn en ging op weg.</p>
+        <p>Het was mooi weer en de wandeling in het bos was heerlijk. Plotseling echter kwam tussen de struiken de boze wolf vandaan. Hij deed erg vriendelijk en sprak: “Dag Roodkapje, waar ga je naar toe ?" Roodkapje antwoordde: “Grootmoe is ziek en nu ga ik haar wat eieren en vruchten brengen". “Zo. zo" zei de wolf, “maar dan moet je ook wat bloemen voor haar plukken". Dit vond Roodkapje een goed idee en zij plukte ijverig een mooie bos bloemen.</p>
+        <p>Terwijl zij dit deed rende de wolf naar het huis van grootmoe. Hij klopte aan en een stem riep: “Wie is daar?" De wolf antwoordde, terwijl hij de stem van Roodkapje nabootste, “Ik ben het, Roodkapje, die U wat vruchten kom brengen". “Oh," antwoordde grootmoe, “trek maar aan het touwtje dan zal de deur wel opengaan". De wolf deed dit, sprong in de kamer en verslond grootmoe. Toen trok hij wat kleren van grootmoe aan, zette haar muts en bril op en ging in bed liggen.</p>
+        <p>Even later kwam Roodkapje binnen. “Dag grootmoe" zei zij. “Dag Roodkapje" sprak de wolf. “Maar grootmoe, wat hebt U een grote oren?" riep Roodkapje uit. “Oh, dat is om jou beter te kunnen horen" sprak de wolf. “Maar grootmoe, wat hebt U een grote ogen?" “Oh, dat is om jou beter te kunnen zien." “Maar grootmoe" zei Roodkapje weer, “wat hebt U een grote mond ?" “Dat is om jou beter te kunnen opeten" brulde de wolf, sprong uit bed en slokte Roodkapje op. Daarna ging hij naar buiten en legde zich bij de bron te slapen.</p>
+        <p>Toen Roodkapje niet terug kwam ging haar moeder naar den jager en deze trok het bos in. Daar zag hij den wolf bij de bron liggen. Voorzichtig sneed hij de buik van den wolf open en Roodkapje en grootmoe kwamen te voorschijn, springlevend. De jager nam een paar grote stenen en stopte die in de buik van den wolf en naaide hem daarna dicht. Toen de wolf wakker werd had hij een geweldige dorst. Hij ging naar de bron om te drinken, maar toen hij voorover boog, rolden de stenen naar voren en viel hij in de bron waar de boze wolf verdronk.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Zes sprookjesprikkaarten om te borduren</title>
+        <author>Harrie Stam</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0292</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Zes losse kaarten in envelop Kaarten met scenes uit de volgende sprookjes Sneeuwwitje, Hans en Grietje en Roodkapje Datering moderne spelling, schatting 196X</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Zes sprookjesprikkaarten om te borduren</title>
+            <author>Harrie Stam</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l.] 3 Suisses</publisher>
+            <date>[196-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje ontmoet de wolf...</p>
+        <p>"Klein meisje met je rode kapje
+	Waar ga je met je mandje heen?"
+	"Naar mijn Grootmoe, Boze Wolf
+	Moeder zei: Ga nu meteen".</p>
+        <p>Bij grootmoeder thuis</p>
+        <p>"Grootmoe wat hebt U grote oren,
+	grote handen, grote mond"
+	"Om je op te eten, kleintje
+	net als Grootmoe, die 'k hier vond".</p>
+      </div>
+    </body>
+  </text>
+</TEI>

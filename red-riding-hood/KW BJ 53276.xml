@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sprookjesboek</title>
+        <author>H.G.C. Marsh-Lambert; 1888-1981</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0220</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Datering niet in Brinkman, schatting Aan binnenzijde omslag Wat grootmoeder vertelde</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Sprookjesboek</title>
+            <author>H.G.C. Marsh-Lambert; 1888-1981</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l. s.n. ]</publisher>
+            <date>[192-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Roodkapje ging haar zieke grootmoeder opzoeken, maar de wolf die het wist, liep gauw naar grootmoeders huis, at haar op en kroop in haar bed.</p>
+        <p>Toen nu Roodkapje kwam, meende zij haar grootmoeder te zien, maar o, o, die leelijke wolf sloeg opeens zijn klauw uit om haar op te eten. Gelukkig hoorde een houthakker haar schreeuwen en kwam hij gauw met zijn bijl aangeloopen om haar te helpen.</p>
+        <p>Zoo kwam Roodkapje weer goed en wel bij moeder thuis.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

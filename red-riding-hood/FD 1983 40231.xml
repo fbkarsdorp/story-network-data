@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje ; Doornroosje Doornroosje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0135</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje ; Doornroosje Doornroosje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Amsterdam Hema ]</publisher>
+            <date>[ 1983 ]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Grootmoeder is ziek en oud en woont in een huisje, heel ver in het donkere bos.
+Bij afscheid zegt moeder waarschuwend: “Blijf niet staan en pas op de wolf!"
+Roodkapje kent de wolf nog niet, daarom vertelt ze hem ook, waar ze naar toe gaat.</p>
+        <p>“Grootmoeder is ziek en ik ga haar opzoeken en wat lekkers brengen." “Moet je niet een bos bloemen plukken?" vraagt de wolf aan Roodkapje.
+Ondertussen rent hij gauw naar grootmoeders huisje en eet haar op.</p>
+        <p>Roodkapje komt even later en zegt: “Grootmoeder wat heb je een grote mond!" “Dat is om jou beter te kunnen opeten," zegt de wolf en springt het bed uit.</p>
+        <p>De wolf valt in slaap en snurkt vreselijk.
+Dan komt de jager voorbij en hij gaat kijken.
+Met een groot mes snijdt hij de buik open en grootmoeder en Roodkapje springen eruit.</p>
+        <p>Zijn buik vullen ze op met stenen.
+De wolf springt op, maar valt door de stenen dood neer.
+Nooit hoeven ze meer bang te zijn.
+De jager, Roodkapje en grootmoeder eten de heerlijke koekjes op.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje Rood kapje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0329</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Op omslag 1153, made in Austria, 451 Datering niet in Brinkman, spelling Marchant, schatting</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje Rood kapje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Wien J.S.J</publisher>
+            <date>[195-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje ging naar haar zieke grootmoeder om haar lekkere soep en een koek te brengen. In het bos trof zij de boze wolf, "waar ga je naar toe?" vroeg hij listig. "Naar mijn grootmoeder, ginds in het bos om ze iets lekkers te brengen omdat ze ziek in bed ligt."</p>
+        <p>Terwijl Roodkapje op de weide bloemetjes voor haar grootmoeder ging plukken liep de boze wolf snel naar grootmoeder, at haar op en trok haar kleren aan, ging in haar bed liggen en wachtte op Roodkapje want hij had nog wel trek in een lekker hapje.</p>
+        <p>Roodkapje merkte dat haar grootmoeder er anders uitzag dan gewoonlijk, misschien wel omdat ze ziek was. "Oma, wat heb je grote ogen", zei ze "Dat is om beter te kunnen zien". "Oma, waarom heb je zulke grote oren?" "Om je beter te kunnen horen" zei de wolf.</p>
+        <p>"Oma, waarom heb je zo'n grote mond", vroeg Roodkapje weer. "Om je beter te kunnen opeten", riep de wolf, sprong uit bed en at het arme Roodkapje in een hap op. Toen ging hij weer in het bed liggen en begon verschrikkelijk te snurken.</p>
+        <p>Gelukkig kwam buiten de jachtopziener voorbij. Hij hoorde een luid gesnurk en begreep dat grootmoeder iets was overkomen. Daarom ging hij naar binnen, en ontdekte de wolf. Met zijn grote mes sneed hij snel de buik van de wolf open.</p>
+        <p>En kijk, Roodkapje en grootmoeder sprongen er heelhuids uit. Wat een vreugde was dat. Ze bedankten de jachtopziener heel hartelijk en dronken gezellig een kopje thee met elkaar. En Roodkapje beloofde dat ze nooit weer met een wolf zou spreken ook al was hij nog zo vriendelijk.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

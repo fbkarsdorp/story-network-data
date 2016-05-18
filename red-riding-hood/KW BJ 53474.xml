@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sprookjes van altijd en overal</title>
+        <author>Linda Yeatman</author>
+        <author>Lea Smulders; 1921-1993</author>
+        <author>Hilda Offen</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0224</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Vert. van A treasury of bedtime stories. - London Kingfisher Books, 1981</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Sprookjes van altijd en overal</title>
+            <author>Linda Yeatman</author>
+            <author>Lea Smulders; 1921-1993</author>
+            <author>Hilda Offen</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Amsterdam] Vroom &amp; Dreesmann</publisher>
+            <date>[1985]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Er was eens een aardig meisje dat in een klein huis aan de rand van het bos woonde. Haar grootmoeder die aan de andere kant van het bos woonde, had een warm rood schoudermanteltje met een mutsje voor haar gemaakt. Een kapje, dat ze dikwijls opzette. Daarom noemde iedereen haar Roodkapje.</p>
+        <p>Op een dag zei haar moeder: "Roodkapje, wil jij dit mandje met eten naar grootmoeder brengen? Ze is een beetje ziek. Draag het voorzichtig want er zit koek in en brood met boter."</p>
+        <p>Roodkapje zette haar rode mutsje op, hing het mandje voorzichtig aan haar arm en ging op weg door het bos naar het huis van grootmoeder. Ze bleef niet op het bospad lopen, maar huppelde het bos in om bloemen te plukken en naar de vlinders te kijken. En toen, plotseling, stond daar de wolf.</p>
+        <p>De wolf likte langs zijn lippen toen hij dat aardige meisje zag, maar hij durfde haar niet op te eten, omdat vlakbij op een open plek in het bos, de houthakkers aan het werk waren. "Waar ga je naar toe?" vroeg hij. "Ik ga naar mij grootmoeder," antwoordde Roodkapje. "Ik heb wat lekkers voor haar in mijn mandje, want ze is ziek." "Waar woont jouw grootmoeder dan?" vroeg de wolf, die meteen op de gedachte kwam om niet alleen het kleine meisje, maar ook haar grootmoeder op te eten. "Aan de andere kant van het bos in het eerste huisje dat je ziet," zei Roodkapje. Daarna wandelde ze langzaam verder het bos door en bleef hier en daar stilstaan om nog wat bloemen in haar boeketje te steken.</p>
+        <p>De wolf bleef haar een poosje nakijken. Daarna zette hij het op een lopen, tussen de bomen door, de kortste weg naar het huisje van grootmoeder. Toen hij daar aankwam, klopte hij op de deur. "Wie is daar?" hoorde hij de oude vrouw roepen. "Ik ben het grootmoeder, Roodkapje," antwoordde de boze wolf. "Ik heb lekkers voor u meegebracht." Hij deed zijn best om zijn stem op die van Roodkapje te laten lijken. "Druk maar op de klink, dan gaat de deur vanzelf open," riep de oude vrouw vanuit haar bed. De wolf drukte de klink omlaag, de deur ging open en daar stormde hij de kamer binnen. In een ogenblik had hij de arme vrouw opgegeten. Daarna sloeg hij haar omslagdoek om, zette haar slaapmuts op en ging in bed liggen, in afwachting van de komst van Roodkapje.</p>
+        <p>Even later werd er op de deur geklopt. "Wie is daar?" riep de wolf met een bibberstem, om de stem van Roodkapjes grootmoeder na te doen. "Ik ben er, Roodkapje," antwoordde het meisje. "Ik kom u iets lekkers brengen dat moeder heeft meegegeven." "Druk de klink maar omlaag, dan gaat de deur vanzelf open," riep de wolf. Haar stem klinkt wel schor, vond Roodkapje. Ze dacht dat het kwam omdat haar grootmoeder keelpijn had. De wolf trok de dekens zo ver mogelijk onder zijn kin, toen Roodkapje de kamer binnenkwam. In bed zag ze iemand met een omslagdoek en slaapmuts. Maar ze was wel verwonderd. Grootmoeder zag er heel anders uit. Daarom zei ze: "Grootmoeder, wat hebt u grote ogen!" "Dan kan ik je beter zien, mijn kind," zei de wolf. "Grootmoeder, wat hebt u grote oren!" "Dan kan ik je beter horen, mijn kind," zei de wolf. "Grootmoeder, wat hebt u grote tanden!" "Dan kan ik je beter opeten!" zei de wolf en hij sprong uit het bed. Hij greep Roodkapje beet om haar op te eten.</p>
+        <p>Roodkapje schreeuwde van schrik. Gelukkig kwamen op dat ogenblik de houthakkers uit het bos. Ze liepen juist langs het huis van grootmoeder, toen ze het meisje hoorden schreeuwen. Ze stoven naar binnen en maakten de wolf dood. Ze sneden zijn lijf open en grootmoeder kwam uit zijn buik gestapt. Ze was natuurlijk erg geschrokken, maar ze was toch blij dat ze Roodkapje zag, met al het lekkers in haar mandje en het mooie bosje bloemen.</p>
+        <p>Sinds die dag is Roodkapje nooit meer zo dom geweest om met een wolf een praatje te maken en ze bleef voortaan op het bospad lopen, als ze op weg naar haar grootmoeder was.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Heather Amery</author>
+        <author>Stephen Cartwright; 1947-2004</author>
+        <author>Marjan Doets</author>
+        <author>Foluso Ajibade</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0053</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Vert. van Little red riding hood. - London Usborne, cop. 1996</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Heather Amery</author>
+            <author>Stephen Cartwright; 1947-2004</author>
+            <author>Marjan Doets</author>
+            <author>Foluso Ajibade</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Londen] Usborne</publisher>
+            <date>cop. 2004</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Dit zijn Roodkapje en haar moeder. Ze wonen bij een groot, donker bos. Roodkapje draagt altijd een rood manteltje, dat haar oma voor haar gemaakt heeft.</p>
+        <p>'Wil je dit eten naar oma brengen?' 'Oma is ziek', zegt haar moeder. 'Loop maar door het bos. Onderweg niet met vreemden praten, hoor!'</p>
+        <p>Roodkapje zwaait naar haar moeder.</p>
+        <p>Ze loopt het bos in met haar mandje. Ze ziet niet dat, de grote zwarte wolf achter een boom staat. Opeens staat de wolf op het pad.</p>
+        <p>‘Waar ga je naar toe?’, vraagt hij. ‘Ik breng dit eten naar oma', zegt Roodkapje. Ze is heel bang.</p>
+        <p>De wolf grijnst heel gemeen.</p>
+        <p>'Neem ook wat bloemen mee voor je oma', zegt hij. Roodkapje wordt nog banger. 'Ja, meneer de wolf', zegt ze.</p>
+        <p>Roodkapje plukt een paar bloemen. De wolf glimlacht zijn scherpe tanden weer bloot. Dan rent hij weg door het bos. Hij heeft enorme honger.</p>
+        <p>De wolf komt bij het huisje van oma. Oma zit rechtop in bed. De wolf duwt de deur open en rent naar binnen. Hij slokt oma in één hap op. Hij gaat in het bed van oma liggen. Hij zet haar slaapmuts en haar bril op. Hij trekt de deken omhoog en wacht op Roodkapje.</p>
+        <p>Roodkapje klopt op oma's deur.</p>
+        <p>‘Ik ben het, oma', zegt ze. "Kom maar binnen, liefje', roept de wolf met een piepstem. 'Ik lig in bed.’ 'Dag oma', zegt Roodkapje,</p>
+        <p>Dan kijkt ze vreemd op. 'Wat hebt u grote ogen', zegt ze.
+'Dan kan ik je beter zien', piept de wolf.
+"Wat hebt u grote oren', zegt Roodkapje.
+'Dan kan ik je beter horen', piept de wolf. Roodkapje laat haar bloemen vallen. Ze is echt bang.
+"Wat heeft u een grote mond', zegt ze.
+'Dan kan ik je beter opeten." Roodkapje gilt maar de wolf slokt haar op. Dan gaat hij weer in bed liggen.</p>
+        <p>Een houthakker hoort de gil. Hij rent zo snel hij kan naar het huisje. Hij gaat naar binnen en loopt meteen naar de slaapkamer van oma. Hij ziet de wolf en maakt hem dood. In de wolf zitten Roodkapje en haar oma. Ze leven nog en zijn heel blij dat ze veilig zijn. "Dank u dat u ons gered hebt', zegt oma. ‘Die wolf maakt nooit meer iemand bang.’ En dan drinken ze gezellig koffie met taart erbij.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

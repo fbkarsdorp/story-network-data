@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Van onvoorzigtigheid en wijze kinderdeugd, Vertoont u deze prent twee lessen voor de jeugd, Roodkapje liet zich door een loozen wolf beliegen, Maar 't Kleine Duimpje zelf door vrienden niet bedriegen</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0155</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Van onvoorzigtigheid en wijze kinderdeugd, Vertoont u deze prent twee lessen voor de jeugd, Roodkapje liet zich door een loozen wolf beliegen, Maar 't Kleine Duimpje zelf door vrienden niet bedriegen</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Rotterdam : T.J. Wijnhoven Hendriksen</publisher>
+            <date>2e helft 19e eeuw</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Van onvoorzigtigheid en wijze kinderdeugd,
+Vertoont u deze prent twee lessen voor de jeugd.
+Roodkapje liet zich door een loozen wolf beliegen,
+Maar 't kleine Duimpje zelf door vrienden niet bedriegen.</p>
+        <p>Ziet hoe een Wolf de onnooz'le meid,
+Hier op haar braven weg verleidt;
+Och, kinderen, blijft, deez' les betrachten,
+En wilt u voor verleiding wachten.</p>
+        <p>Roodkapje klopt; -- de wolf is vóórt,
+En vond bij 't Grootje reeds gehoor;
+Houdt kinderlief, u steeds voor logen,
+En houd uw eigen pligt voor ogen.</p>
+        <p>Daar ligt de Wolf in 't bed gereed,
+Roodkapje heeft zich ook ontkleed,
+Och kind, wat zult gij 't u bezuren;
+Dat komt van onbedachte kuren.</p>
+        <p>Daar bijt de wolf Roodkapje dood,
+Wie helpt, wie redt haar uit den nood,
+Och kinders wilt u pligt betrachten,
+En steeds voor booze raadslên wachten.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje, kindren ! u bekend...</title>
+        <author>Charles Perrault; 1628-1703</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0118</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Volgens de Meyer uitgegeven in Turnhout door Antoine van Genechten of Glenisson en Van Genechten of Glenisson en Zonen Datering gebaseerd op jaren van werkzaamheid van de uitgever/drukker Prentnr. 206</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje, kindren ! u bekend...</title>
+            <author>Charles Perrault; 1628-1703</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Unknown</publisher>
+            <date>[tussen 1833-1900]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje, kind'ren! u bekend,
+Wordt, bij vernieuwing, thans
+U voorgesteld in deze prent,
+Naar 't spreukje van de Gans.</p>
+        <p>Ga zien, zegt moeder, lieve kind!
+Hoe uw Grootmoeder zich bevind
+Zij heeft in lang u niet gezien,
+Uw komst zal haar veel genoegen bien.</p>
+        <p>Opdat de moeder d' oude vrouw
+Nog meer genoegen scheppen zou,
+Ziet gij hoe zij wafels bakt,
+Die Roodkapje in haar mandje pakt.</p>
+        <p>De moeder, met haar plan te vreên,
+Zend hier haar lief Roodkapje heen
+Spoed, zegt zij, op den weg u voort,
+Opdat geen ongeval u stoort.</p>
+        <p>Roodkapje gaat op moeders last,
+Zoo als 't een brave dochter past,
+Naar 't dorp dat gij, in 't ver verschiet,
+Hier, kind'ren! u geteekend ziet.</p>
+        <p>Een wolf, die haar in 't bosch begroet,
+Vraagt listig waar zij henen moet.
+'k Ga naar mijn oude Grootje zien,
+Zegt zij, en haar deez' wafels bien.</p>
+        <p>Waar woont zij? vraagt de looze gast;
+Het lieve kind, door hem verrast,
+Zegt: 't eerste huis in 't dorpt woont zij,
+Den gindschen molen pas voorbij.</p>
+        <p>De wolf door dit berigt bekoort,
+Spoed zich naar Grootjes woning voort
+Alwaar hij zich het kloppen waagt,
+Terwijl Roodkapje vlinders jaagt.</p>
+        <p>Trek aan het klinkje! riep de vrouw,
+Onkundig wat haar nad'ren zou:
+De wolf stapt in, en ongestoord,
+Wordt door hem de oude vrouw vermoord.</p>
+        <p>Roodkapje, van geen kwaad bewust,
+Komt aan de hut en klopt gerust.
+Wie daar? -- Roodkapje! -- kom mijn kind,
+Bij Grootje, die zich krank bevind.</p>
+        <p>De wolf had zich in 't bed gelegd
+Roodkapje nadert hem -- hij zegt
+Zet uwe wafeltjes hier bij,
+En kom te bed naast Grootjes zy.</p>
+        <p>Roodkapje, dat onnoozel wicht,
+Verschrikt door Grootjes wreed gezigt:
+Wat hebt hebt gij, zegt ze in d' eigen stond,
+Toch groote tanden in uw mond</p>
+        <p>Dit is op dat ik mij met spoed
+Met u als met uw Grootje voed
+Met drift verscheurt hij 't schuld'loos kind,
+Als 't loon dat haar vertrouwen vindt.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Wat is er rood ?</title>
+        <author>Pascale de Bourgoing</author>
+        <author>Pierre Denieuil</author>
+        <author>Pascale Gallimard</author>
+        <author>Harriët Verburg</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0020</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Titelpag. vermeldt Calligram Vert. van J'aime le rouge. - Calligram, cop. 1994</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Wat is er rood ?</title>
+            <author>Pascale de Bourgoing</author>
+            <author>Pierre Denieuil</author>
+            <author>Pascale Gallimard</author>
+            <author>Harriët Verburg</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Doornik ; Dronten] Casterman</publisher>
+            <date>cop. 1994</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje wil ontdekken wat er rood is.
+Maar pas op! Daar is de wolf!</p>
+        <p>Roodkapje vindt een rode vrucht.
+Het is een aardbei.</p>
+        <p>Roodkapje kent nog meer rode vruchten.
+Maar kijk uit voor de wolf. Hij eet ze op.</p>
+        <p>Roodkapje pakt een rode groente.
+Het is een tomaat.</p>
+        <p>Er zijn andere rode groenten.
+Maar pas op! De wolf staat erbij.</p>
+        <p>Roodkapje plukt een rode bloem.
+Het is een klaproos.</p>
+        <p>Er bestaan andere rode bloemen.
+Maar pas op! De wolf heeft ze al geplukt.</p>
+        <p>In het gras ontdekt Roodkapje een rood 
+Het is een lieveheersbeestje.</p>
+        <p>Er zijn andere rode dieren.
+pas op voor de wolf! Hij staat er vlakbij.</p>
+        <p>Roodkapje ziet een licht.
+Het is warm en rood. Het is vuur.</p>
+        <p>Dat is een vulkaan.
+Maar pas op wolf! Het brandt!</p>
+        <p>Roodkapje zit en lacht.
+Ze houdt van de kleur rood.</p>
+        <p>De wolf vlucht en schreeuwt.
+Wat heeft de wolf een hekel aan rood!</p>
+      </div>
+    </body>
+  </text>
+</TEI>

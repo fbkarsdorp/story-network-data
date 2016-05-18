@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Nicole Lenaerts-Viroux</author>
+        <author>Carlos Busquets</author>
+        <author>Gemma van Leeuwen</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0048</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Nicole Lenaerts-Viroux</author>
+            <author>Carlos Busquets</author>
+            <author>Gemma van Leeuwen</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Chevron Hemma</publisher>
+            <date>[1997]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Er was eens een vrolijk, klein meisje, dat Roodkapje heette, want ze droeg een rode jas met een rood mutsje.</p>
+        <p>Op een dag vroeg haar mama of ze een mandje met lekkers naar haar grootmoeder wilde brengen, die ziek was. In de mand zaten een pot jam, boter en lekkere pannenkoeken.</p>
+        <p>Mama had Roodkapje nog zo op het hart gedrukt dat ze niet door het bos moest gaan, want daar zat de wolf! Maar toen Roodkapje voor het bos stond, twijfelde ze opeens... Kijk die mooie bloemen eens! Waarom zou ze niet toch door het bos gaan? Dan kan ze mooie bloemen voor haar grootmoeder plukken: een blauwe, een gele en een rode bloem.</p>
+        <p>Maar, achter een dennenboom, zat de wolf verstopt! 'Mmm! Wat ruik ik daar', zei hij likkebaardend, 'ik ben dol op pannenkoeken!' Daar kwam de wolf aangeslopen en ging naast een paddestoel zitten. 'Waar ga je heen, dametje?' 'Ik ga naar grootmoeder, die ziek is. Ik breng haar lekkers en deze bloemen.' Nu hij zo dichtbij stond, rook de wolf de pannenkoeken in het mandje nog beter! De wolf kreeg plotseling een goed idee: hij moest als eerste in grootmoeders huisje zijn...</p>
+        <p>Even later had hij het huisje al gevonden. Het stond midden in het bos. Hij klopte op de deur. 'Kom binnen, lief Roodkapje,' zei grootmoeder vanuit haar bed. Toen ze de wolf binnen zag komen, schrok grootmoeder zo, dat ze de kast inging om zich te verstoppen. De wolf zette grootmoeders slaapmuts op en ging op bed liggen wachten op Roodkapje.</p>
+        <p>Zachtjes klopte Roodkapje op de deur en ging naar binnen. Ze vond wel dat grootmoeder er een beetje raar uitzag. Wat had ze grote oren, grote ogen en een grote mond! Daar sprong de wolf uit bed en vrat de pannenkoeken op. Gelukkig kwam er op dat moment net een jager langs, maar de wolf ontsnapte met een sprong uit het open raam.</p>
+        <p>Opgelucht kroop Roodkapje bij grootmoeder op schoot en ze beloofde dat ze voortaan voorzichtiger zou zijn.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

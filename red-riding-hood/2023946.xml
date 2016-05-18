@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Ciny Peppelenbosch-Macrander; 1926-</author>
+        <author>Carlos Busquets</author>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0011</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Naar de Gebroeders Grimm = Jacob en Wilhelm Grimm</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Ciny Peppelenbosch-Macrander; 1926-</author>
+            <author>Carlos Busquets</author>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Chevron] Hemma</publisher>
+            <date>[1988]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Er was eens een meisje dat Roodkapje heette. Op een dag moest ze haar zieke grootmoeder, die in het bos woonde, een mandje met eten brengen. Onderweg kwam ze een wolf tegen. Hij vroeg waar ze naar toe ging. Roodkapje vertelde hem dat ze naar haar grootmoeder ging.</p>
+        <p>Direkt rende de wolf naar Roodkapjes grootmoeder. Roodkapje had geen haast. Ze plukte nog wat bloemen voor haar grootmoeder. Wat schrok grootmoeder toen de wolf opeens door het raam sprong. Maar hij had geen medelijden met haar. Hij greep haar beet en stopte haar in een grote koffer. In zijn haast kon hij het slot niet dichtmaken. Dat was een geluk voor grootmoeder. Vlug zette de wolf grootmoeders muts op. Hij kroop in haar bed. Daar kwam Roodkapje al aan...</p>
+        <p>“Kom maar binnen, kind!” riep de wolf toen ze aanklopte. “De deur is open!” Roodkapje liep naar het bed en schrok. “Wat hebt u grote oren,” zei ze. “Daarmee kan ik je beter horen,” zei de wolf. “En wat hebt u grote tanden!” “Daarmee kan ik je beter opeten!” brulde de wolf. Hij sprong uit bed en wilde Roodkapje grijpen.</p>
+        <p>Maar gelukkig kon Roodkapje nog ontsnappen. “Help!” riep ze. “De wolf wil me opeten!” Toevallig kwam er net een jager voorbij. Hij greep zijn geweer en schoot de wolf morsdood. Grootmoeder kwam er ook al aanrennen. Ze was uit de koffer geklommen. “Jullie hebben geluk gehad dat ik in de buurt was”, zei de jager. “Stel je voor dat het beest jullie allebei had verslonden!” Grootmoeder en Roodkapje knikten. Ze waren de jager heel dankbaar.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

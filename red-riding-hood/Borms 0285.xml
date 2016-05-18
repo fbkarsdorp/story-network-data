@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Geschiedenis van Rood-Kapje = Histoire du petit Chaperon-Rouge Histoire du petit Chaperon-Rouge</title>
+        <author>Charles Perrault; 1628-1703</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0116</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Onderaan de prent staat de uitgever gedrukt Brepols &amp; Dierckx zoon, Turnhout Datering gebaseerd op jaren van werkzaamheid van de uitgever/drukker Prentnr. 220</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Geschiedenis van Rood-Kapje = Histoire du petit Chaperon-Rouge Histoire du petit Chaperon-Rouge</title>
+            <author>Charles Perrault; 1628-1703</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Unknown</publisher>
+            <date>[tussen 1880-1911]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Geschiedenis van Rood-Kapje</p>
+        <p>Rood-Kapje ontvangt van hare moeder den koek en het potje met boter.</p>
+        <p>Zij vraagt den weg aan eenen doortrapten wolf, die haar zegt links te gaan.</p>
+        <p>Zij vangt vlinders in plaats van spoedig hare moeder te gehoorzamen.</p>
+        <p>Zij plukt nootjes; terwijl hare grootmoeder haar in onrust verwacht.</p>
+        <p>De wolf is er eerder dan zij en klopt aan de deur: tok, tok; hij bootst hare spraak na.</p>
+        <p>Trek het touwtje en het boutje, mijn liefje, roept de grootmoeder.</p>
+        <p>De wolf komt binnen en vreet de grootmoeder op, welke hare kleindochter verwachtte.</p>
+        <p>De wolf zet de muts van de grootmoeder op en gaat in hare plaats in 't bed liggen.</p>
+        <p>De wolf ligt in het bed en wacht op het kleine meisje; hij denkt aan 't kwaad dat hij gaat doen.</p>
+        <p>Tok, tok, 't is uwe kleindochter, die u een koekje en wat boter brengt.</p>
+        <p>Trek het touwtje en het boutje, mijn liefje, roept de wolf, hare stem nadoende.</p>
+        <p>Rood-Kapje komt binnen en ziet hare grootmoeder heel ziek te bed liggen.</p>
+        <p>Grootmoeder, hier is een potje met boter en een koekje, dat moeder u zendt.</p>
+        <p>Kom bij mij rusten, mijn kind. Zij ontkleedt zich en legt haar kapje af.</p>
+        <p>Rood-Kapje gaat te bed, en hare grootmoeder aanziende, zegt zij:</p>
+        <p>Wat hebt gij lange armen! -- Dat is om u beter te omhelzen, mijn kind.</p>
+        <p>Wat hebt gij groote oogen! -- Dat is om u beter te zien, mijn kind.</p>
+        <p>Wat hebt gij groote ooren! -- Dat is om u beter te hooren.</p>
+        <p>Wat hebt gij lange tanden! -- Dat is om u beter te knappen, mijn kind.</p>
+        <p>En de wolf verslond het kleine meisje, omdat het onderwege zijne tijd verbeuzeld had.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

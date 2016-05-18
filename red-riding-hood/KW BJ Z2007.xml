@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ons vertelselboek</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0232</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Het verhaal van Roodkapje is ook verschenen als afzonderlijke uitgave met 14 zwarte tekeningen en 3 gekleurde platen. In deze versie is het verhaal ingekort en zijn 7 zwarte tekeningen en 1 gekleurde plaat overgebleven Uitgever niet in boek, ruimte voor reclame op achterplat Datering niet in Brinkman; uitgevers werkzaam van 1923-ca. 1940; schatting</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Ons vertelselboek</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Amsterdam] [ Ph. van Amerongen ]</publisher>
+            <date>[192-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje.</p>
+        <p>In een klein dorpje, aan 't eind van 't bosch, woonden een paar eenvoudige menschen, die maar één kind hadden, een allerliefst dochtertje. Omdat dit meisje altoos op hare blonde lokken een mooi, rood mutsje droeg, dat zij op haar verjaardag van hare grootmoeder had gekregen, noemden alle menschen in het dorpje haar steeds Roodkapje.</p>
+        <p>Het was een allerliefst meisje, maar zij had één gebrek: zij was niet altoos gehoorzaam. Moeder zei dikwijl, dat zij daar nog eens leelijk mee te pas kon komen, maar dan lachte de kleine wildebras. -- Vooral, als zij naar grootmoeder ging, die aan de andere zijde van het bosch woonde, moest Moeder haar dringend vermanen, toch vooral goed door te loopen.</p>
+        <p>Het was in het voorjaar. De vogeltjes zongen, de bloempjes bloeiden, maar de oude grootmoeder was ziek. Daarom had Moeder wafels gebakken en die, met een lekkere flesch wijn, in een mandje gedaan. Toen riep zij Roodkapje en zei: "Breng me dat als een flinke meid aan de lieve grootmoeder; maar pas vooral op en blijf op het groote pad, want al den heelen winter is de boze wolf daar, en de jagers hebben hem nog niet kunnen vangen." Natuurlijk beloofde Roodkapje, dat zij heel goed zou oppassen; maar zij was nog maar een eindje op weg, of zij was Moeders woorden al weer vergeten.</p>
+        <p>De vogeltjes zongen zoo mooi, en 't was alles zoo heerlijk groen, dat het meisje recht genoot. Zoo nu en dan plukte zij aan den weg een bloempje. dat zij voor grootmoeder wilde meenemen. Plotseling zag zij van een zijweg een dier aankomen, dat zij voor een grooten hond aanzag. Daarom was zij er ook heelemaal niet bang voor en 't verwonderde haar niet, dat die hond bleef staan en vroeg: "He, Roodkapje, ga je een boodschap doen?" Zij lachte en vertelde, dat zij naar hare zieke grootmoeder ging om wafels en wijn te brengen. "O, ja," zei de wolf, want die was het, "zij woont daar in 't huisje achter het bosch, nietwaar? Dat is mooi van je, dat je haar wat lekkers brengt en ook bloemen. Maar daar ginds bloeien er nog veel mooiere, daar moet je gaan zoeken." Dat deed Roodkapje ook. Zij plukte de bloemen en luisterde naar de vogeltjes, die zongen, en de booze wolf liep langs een omweg naar grootmoeders huisje en klopte aan.</p>
+        <p>"Wie is daar?" "Ik, grootmoe, Roodkapje." "Trek dan maar aan het touwtje en de deur gaat open," riep het oude vrouwtje, dat te bed lag. Dat deed de wolf en hij sprong binnen. Verschrikt sprong de oude vrouw overeind, doch de wolf greep haar beet en slokte haar op in één hap. Toen kroop hij zelf in het bed en wachtte op Roodkapje.</p>
+        <p>Het meisje had eindelijk genoeg bloemen geplukt en ging toen op weg naar haar grootmoeders huisje. Het verwonderde haar wel, toen zij binnen kwam, dat grootmoeder stil in de kussens bleef liggen, maar zij ging op het bed toe en vertelde, wat zij kwam brengen. "Best hoor!" zei de wolf. Verbaasd vroeg zij: "Grootmoe, wat hebt ge eene grove stem!" -- "Dat komt van de ziekte, liefje!" Doch toen keek Roodkapje haar aan en vroeg: "En wat hebt ge groote oogen!" -- "Daat kan ik je beter mee zien, lief kind!" -- "En wat hebt ge scherpe tanden!" -- "Daar kan ik je beter mee opeten!" riep de wolf, sprong het bed uit en hapte het meisje ook in één hap op. Toen kroop hij weer lekker onder de dekens en viel in een diepen slaap.</p>
+        <p>Zoo lag hij daar en begon langzamerhand te snorken, al harder en harder. Juist kwam de jager voorbij, die alle dagen door 't bosch liep, om den wolf te dooden, als hij hem zag. Hij hoorde 't snorken en dacht aan de oude, zieke vrouw. Maar die snorkte toch niet zóó? Voorzichtig stapte hij binnen en zag -- den wolf in het bed! En nergens was de zieke grootmoeder! Toen begreep de jager, wat er gebeurd was. Zonder iets te zeggen nam hij zijn scherp mes en sneed den wolf den buik open. Springlevend kwamen grootmoeder en Roodkapje te voorschijn. Van schrik en blijdschap was de oude vrouw heelemaal genezen.</p>
+        <p>Nu gingen zij vroolijk aan tafel zitten, Roodkapje gaf grootmoeder de bloemen, samen aten zij wafels en dronken den wijn en eindelijk bracht de jager die den wolf zijn ruige vel had afgestroopt, het meisje door het bosch weer naar huis. Als na dien tijd Roodkapje soms weer ongehoorzaam dreigde te wezen, zei Moeder maar eventjes: "Denk aan den wolf!" Dan kreeg het meisje de tranen in de oogen en deed terstond vroolijk, wat haar gezegd werd.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

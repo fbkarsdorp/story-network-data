@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0355</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Datering niet in Brinkman, schatting</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Mortsel Parade</publisher>
+            <date>[200-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Dichtbij het bos woonde eens een meisje dat door iedereen Roodkapje genoemd werd, omdat ze altijd een rood kapje droeg.</p>
+        <p>Op een dag zei haar moeder: “Roodkapje, grootmoeder is ziek. Breng jij haar dit mandje met lekkere dingen, zodat ze gauw weer beter wordt?” Dat deed Roodkapje graag. Haar grootmoeder woonde diep in het bos dus ze ging meteen op weg.</p>
+        <p>Onderweg zag ze de boze wolf. Hij deed heel aardig en vroeg haar vriendelijk wat ze kwam doen. Roodkapje vertelde hem over haar grootmoeder. De wolf had honger en besloot eerst grootmoeder op te eten.</p>
+        <p>Hij rende naar haar huisje en klopte aan. Grootmoeder deed open, zag de wolf en verstopte zich. De wolf ging in het bed liggen.</p>
+        <p>Ook Roodkapje was bij het huisje aangekomen. Ze ging naar binnen en zag iets vreemds aan grootmoeder: "Wat heb je een grote tanden!” "Dan kan ik je beter opeten!” en meteen sprong de wolf uit bed. Roodkapje rende weg, op zoek naar hulp.</p>
+        <p>Ze vond een houthakker. Met zijn enorme bijl gaf hij de wolf een klap op zijn kop. Grootmoeder en Roodkapje waren gered: de wolf was dood en kon niemand meer kwaad doen.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

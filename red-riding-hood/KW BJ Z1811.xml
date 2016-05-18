@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Zes oude sprookjes op rijm gebragt voor de lieve jeugd</title>
+        <author>Cornelia Broers-de Jonge; 1864-1942</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0229</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Datering niet in Brinkman; de auteur publiceerde ander werk ca. 1910; schatting 191X Op voorplat het nummer 90</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Zes oude sprookjes op rijm gebragt voor de lieve jeugd</title>
+            <author>Cornelia Broers-de Jonge; 1864-1942</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l.] [ s.n. ]</publisher>
+            <date>[191-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje.</p>
+        <p>"Kom, Roodkapje," zei haar moe,
+"Breng dit vlug naar grootmoe toe;
+Wafels zijn 't en eiers, kind,
+'k Hoop, dat zij ze lekker vindt.
+Luister nu eens, liefje zeg,
+Pluk geen bloemen onder weg,
+Dwaal niet af in 't donkre woud,
+Want dat 's waarlijk niet vertrouwd."</p>
+        <p>In het bosch ziet z' onder 't gaan,
+Zulke mooie bloemen staan,
+Dat ze toch aan 't plukken gaat,
+En niet hoort naar moeders raad.
+Eensklaps komt een wolf in draf
+Achter haar de hoogte af:
+"Aardig meisje, zoo alleen?"
+Vraagt de stouterd, "zeg, waarheen?"
+"'k ga naar Grootmoe, zij is krank,
+'k Breng haar wafels, eiers, drank.
+Ginder woont ze, een kwartier
+Is het zeker nog van hier."</p>
+        <p>Gauw gaat nu de leeperd heen.
+Grootje vindt hij heel alleen
+Ziek te bed, en hij (hoe naar)
+Eet haar op met huid en haar.
+Vlug haar nachtmuts opgezet,
+En nu gauw in grootje's bed.</p>
+        <p>Klop, klop, klop! daar is Roodkapje,
+"Dat is eerst een lekker hapje."
+"Kom maar binnen, kleine guit,
+Grootmoe mag het bed niet uit."</p>
+        <p>'t Meisje doet de voordeur open,
+En komt in de kamer loopen.
+Maar hoe schrikt het arme kind,
+Nu ze zóó haar Grootje vindt.</p>
+        <p>Roodk.: "Wel, wat hebt u groote ooren!"
+Wolf: "Kind, daar kan ik best mee hooren."
+Roodk.: "En wat een neus!" Wolf: "Om mee te ruiken
+Kan ik dien heel best gebruiken"
+Roodk.: "Maar uw mond, wel sapperloot!
+Neen, dien vond ik nooit zoo groot."
+Wolf: "'k Heb dien mond om mee te eten,
+Ben je dat misschien vergeten?"</p>
+        <p>Wip! daar komt hij, en verslindt
+In een oogwenk 't arme kind.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

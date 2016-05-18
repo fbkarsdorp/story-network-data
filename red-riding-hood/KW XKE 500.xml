@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje en de wolf</title>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0291</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Gekleurde platen en zwarte tekeningen met rode steunkleur in de tekst Achterplat vermeldt Gedrukt in Holland Datering spelling Marchant, schatting</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje en de wolf</title>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam Relpi</publisher>
+            <date>[195-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Een lief meisje, "Roodkapje" genaamd, omdat zij altijd een mooi rood fluwelen kapje droeg, moest op zekere dag haar zieke Grootmoeder bezoeken om enige versterkende middelen te gaan brengen.</p>
+        <p>Roodkapje's Grootmoeder woonde in het bos en daarom zei Moeder tegen Roodkapje: "Denk erom, Roodkapje, dat je recht doorloopt en niet verdwaalt." Het meisje zei haar Moeder met een kusje vriendelijk goedendag en stapte met haar mandje over de arm op weg naar Grootmoe.</p>
+        <p>In het bos gekomen ontmoette Roodkapje een wolf, maar was niet bang, toen de wolf haar aansprak met: “Goedendag, Roodkapje!” en moedig antwoordde het kleine meisje: "Dag, wolf". "Waar ga je zo vroeg naar toe?" vroeg de wolf verder. “Naar Grootmoeder”. “En waar woont die lieve Grootmoeder van je?" Roodkapje gaf met haar mandje de richting aan waar het huisje van Grootmoeder stond. "Zou je niet een bouquetje bloemen plukken voor je Grootmoe? Er staan er genoeg in het woud, en je Grootmoe zal het wel leuk vinden!” "Ja, dat zal ik doen", antwoordde Roodkapje.</p>
+        <p>De wolf nam nu afscheid van het meisje en terwijl Roodkapje bloempjes plukte, liep de wolf vlug naar het huisje van Grootmoeder en klopte aan de deur. "Wie is daar?" "Ik ben het, Grootmoe, Roodkapje! Ik breng U appels en wijn; doe maar vlug open!" "Trek maar aan 't touwtje, dan zal de deur wel open gaan!” antwoordde Grootmoe. Nu sprong de deur vanzelf open. De wolf sprong naar binnen en at de arme Grootmoe op. Vlug trok hij haar kleren aan, zette de slaapmuts op, legde zich te bed en wachtte op de komst van Roodkapje.</p>
+        <p>Spoedig daarna werd er op de deur geklopt en een lief stemmetje vroeg om te worden binnen gelaten. “Trek maar aan het touwtje, Roodkapje, dan gaat de deur vanzelf open." Toen Roodkapje binnentrad keek zij verwonderd naar het bed en sprak: "Grootmoe toch, wat hebt U grote oren vandaag!” “Dan kan ik je beter horen!" “En wat een grote ogen!” “Zo kan ik je beter zien!” “En waarom hebt U zulke grote handen?" “Dan kan ik je beter pakken!"  "Maar Grootmoe toch, wat hebt U een grote mond!" "Ja, daarmee kan ik je beter opeten!” En dit zeggende sprong de boze wolf uit bed en verslond ook Roodkapje. Voldaan legde het beest zich ter ruste en begon luidop te snorken.</p>
+        <p>Een jager, die voorbij kwam, hoorde dit gesnork en dacht: "Dat is vast niet pluis bij Grootmoe”, en stapte het huisje binnen, waar hij de wolf op bed zag liggen. Hij bedacht zich geen ogenblik en sneed hem de buik open. En daar kwamen Grootmoeder en Roodkapje, blij verheugd, te voorschijn. Vlug vulde de jager de wolf met heel zware stenen, naaide zijn buik weer dicht en toen de wolf wakker werd, waren de stenen hem zo zwaar, dat hij dood neerviel. Alle drie waren opgeruimd en vrolijk. Roodkapje nam zich stellig voor om nooit meer naar een boze wolf te luisteren, maar alleen te doen wat Moeder haar zei.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

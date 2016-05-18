@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De nieuwe geschiedenis van Roodkapje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0156</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>De nieuwe geschiedenis van Roodkapje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Rotterdam : J.B. Ulrich]</publisher>
+            <date>2e helft 19e eeuw</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Ga zien, zegt moeder, beste kind,
+Hoe uw Grootmoeder zich bevind,
+Zij heeft in lang u niet gezien,
+Uw komst zal haar genoegen bien.
+Terwijl de moeder wafels bakt,
+Roodkapje die in 't mandje pakt.</p>
+        <p>Roodkapje gaat op moeders last,
+Zoo als 't een goede dochter past,
+Naar 't dorp, dat gij in 't verschiet;
+Hier, kind'ren afgeteekend ziet.
+Spoed, zegt moeder op weg u voort,
+Opdat geen onheil u verstoort.</p>
+        <p>Een wolf, die haar in 't bosch begroet,
+Vraagt listig waar zij henen moet,
+'k Ga naar mijn Grootmoeder zien,
+Zegt zij, en haar deez' wafels bien.
+Den gindschen molen pas voorbij,
+in 't eerste huis van 't dorp woont zij.</p>
+        <p>Komt binnen! binnen riep de vrouw,
+Onwetend wat haar nad'ren zou:
+De wolf stapt in, en ongestoord,
+Wordt Grootmoeder hier vermoord,
+Hij zelf legt toen op het bed zich neer,
+En wacht nu naar Roodkapje weer.</p>
+        <p>Het meisje van geen kwaad bewust,
+Komt aan de hut en klopt gerust,
+Wie daar? -- Roodkapje! -- kom mijn kind,
+Bij grootmoeder die u bemind.
+Roodkapje stapt nu vrolijk binnen,
+Is blij en zeer verrukt van zinnen.</p>
+        <p>Zet uw wafeltjes maar op zij,
+En komt wat in het bed bij mij.
+Roodkapje die geen kwaad vermoed,
+Doet dit ook gaarne met spoed.
+Maar de Wolf grijpt haar dadelijk aan,
+En met Roodkapje is 't gedaan.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

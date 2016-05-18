@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mijn eerste sprookjesgroeiboek Ik lees het zelf !</title>
+        <author>Hilde Vandermeeren; 1970-</author>
+        <author>Rosemarie De Vos</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0056</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Mijn eerste sprookjesgroeiboek Ik lees het zelf !</title>
+            <author>Hilde Vandermeeren; 1970-</author>
+            <author>Rosemarie De Vos</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Kampen Callenbach Leuven Davidsfonds / Infodok</publisher>
+            <date>cop. 2006</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>kaas en sap.
+en ook een reep.</p>
+        <p>mmm, een reep!</p>
+        <p>ik pak een sok.
+en nog een sok.</p>
+        <p>neem de weg!</p>
+        <p>door het bos!</p>
+        <p>mmmmm
+ik eet van de reep!</p>
+        <p>dag. er is nog kaas. en ook sap.
+nee. geen kaas en ook geen sap.</p>
+        <p>mmmm
+daar is het. 
+het is nog ver.
+ik ben er! kom maar!
+wat een raar oor!
+wat een raar oog!
+hap! hap!
+ik ben dik.
+heel dik.
+zzzzzzzzzzz
+wat is dat?
+ik pak een mes!
+ik ben er weer!
+ik ook!</p>
+        <p>weg in de beek! 
+weg in de beek!</p>
+      </div>
+    </body>
+  </text>
+</TEI>

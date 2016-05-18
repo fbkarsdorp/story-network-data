@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sprookjes ogenboek mijn ogen kunnen echt bewegen, zij stralen U in donker tegen !</title>
+        <author>Johannes Pieter Jacobus Helmich Clinge Doorenbos; 1884-1978</author>
+        <author>Marie-Louise Reinderhoff; 1903-1991</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0391</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Mulderboek no. 1625 Omslagtitel Datering no. 1625 staat in de fondscatalogus van Mulder &amp; Zoon 1953-1954 Dezelfde illustraties zijn (ongesigneerd) gebruikt in een kleinere uitgave, getiteld 'Sprookjesland', 1953</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Sprookjes ogenboek mijn ogen kunnen echt bewegen, zij stralen U in donker tegen !</title>
+            <author>Johannes Pieter Jacobus Helmich Clinge Doorenbos; 1884-1978</author>
+            <author>Marie-Louise Reinderhoff; 1903-1991</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam Mulder &amp; Zoon</publisher>
+            <date>[1953]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Kijk, Roodkapje gaat naar Oma 
+Met een mand vol lekkernij 
+En daar komt ineens een wolf aan! 
+Waar moet jij naar toe? vraagt hij.
+Naar mijn Oma! zegt Roodkapje 
+En zij denkt niet aan gevaar, 
+Maar de hongerige wolf denkt: 
+Ik eet haar op met huid en haar.
+Vlug gaat hij naar Oma's huisje 
+En hij kruipt in Oma's bed, 
+Hij heeft zelfs ook Oma's nachtmuts
+Op zijn wolvenkop gezet.
+Kijk, daar komt Roodkapje binnen! 
+Hij zegt vriendelijk en zacht: 
+Dag lief kind, heb jij een mandje 
+Lekkers voor mij meegebracht? 
+Zij wil net “Dag Oma" zeggen, 
+Als ze daar die wolfskop ziet 
+En ineens schrikt ze geweldig: 
+O, jij bent mijn Oma niet!
+Dan begint ze hard te roepen: 
+Help! Een wolf! De schrik is gróót…
+Een jager, die het geroep gehoord heeft, 
+Schiet de boze wolf dan dood.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sprookjes naar de gebroeders Grimm Doornroosje Hans en Grietje Roodkapje De Bremer stadsmuzikanten</title>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0245</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Datering oude spelling, geschat Op omslag Nr. 117 Uit Kinder- und Hausmärchen. - 1812-1815</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Sprookjes naar de gebroeders Grimm Doornroosje Hans en Grietje Roodkapje De Bremer stadsmuzikanten</title>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Nederland] [ uitgever niet vastgesteld ]</publisher>
+            <date>[tussen 1900 en 1910?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>ROODKAPJE</p>
+        <p>In een klein hutje van den rand van een groot bosch woonde een metselaar met zyn vrouw en hun dochtertje. Het meisje had van haar Grootmoeder een rood mutsje gekregen en nu noemde iedereen haar Roodkapje. Op een mooien dag sprak Moeder tot haar</p>
+        <p>Kindje ga eens naar Grootje aan de andere kant van het bosch en breng haar eens een lekker versch gebakken krentenbrood en een flesch wyn. Maar zeide ze, wees voorzichtig voor de groote wolf en loop dus dadelyk door en ga geen bloemen plukken.  Neen moeder zei Roodkapje, ik zal goed oppassen, en ze ging nu spoedig op weg.</p>
+        <p>En werkelyk onderweg kwam ze de groote wolf tegen. Deze sprak haar vriendelyk toe en begon haar te vragen waar ze naar toe ging. Natuurlyk zeide ze, dat ze naar Grootmoeder ging om at lekkers te brengen. Geef dan van my de groeten aan Grootmoe zei de wolf en ging toen verder. Roodkapje ging nu toch bloemen plukken en kwam na een uur by Grootje aan. De wolf was direct doorgelopen en kwam dus het eerst by Grootje aan.</p>
+        <p>Wie is daar vroeg Grootmoeder, wie trekt daar aan myn belletje.</p>
+        <p>Ik ben het Grootje, zei nu de wolf, doe maar open, ik breng wat lekkers mede. Ze deed de deur open en nu kwam de wolf binnen en at Grootje direct op. Hy trok haar jakje aan en zette haar muts op en ging in haar bed liggen.</p>
+        <p>Nu kwam Roodkapje met haar mandje met lekkers en een heerlyke ruiker met mooie bloemen. Zy vond de deur open en dacht dat Grootje die vergeten had te sluiten. Dag Grootje, sprak zy nu, daar is uw kleinkind Roodkapje. Ik heb een heerlyke ruiker bloemen medegebracht voor U een lekkere koek en een fleschje wyn. Maar Roodkapje kreeg van den Wolf geen letter antwoord. Toen zy by het bed van Grootje kwam, zag ze wel dat Grootje er heel anders uitzag. Grootje, zei ze nu, wat hebt U groote ooren. De Wolf bromde, dan heb ik beter hooren. Grootje wat hebt U een groote neus, dan kan ik beter ruiken. Grootje wat hebt u een groote mond, dan kan ik beter happen, zegt de Wolf en meteen springt hy op haar af en slikte Roodkapje ook in. Nu had de Wolf zyn buik vol en ging rustig liggen slapen.</p>
+        <p>Maar een jager, die wel eens meer by Grootje geweest was, kwam dien dag voorby en stapte ook by Grootje binnen. Toen hy binnen kwam, liep hy voorzichtig nader en tot zyn schrik zag hy de poot van een Wolf boven op het bed liggen. Hy begreep er niets van, maar toen hy nu de Wolf zag liggen met de muts van Grootje op, begreep hy opeens wat er gebeurd was. Hy nam een groot jachtmes uit zyn gordel en sneed voorzichtig de buik van den Wolf open. En wat een verrassing, daar kwam Roodkapje ongedeerd weer te voorschyn. En na haar kwam ook Grootje uit de buik der Wolf. Wat waren ze den jager dankbaar. Wat hadden ze het benauwd gehad in de buik van den Wolf vertelden ze.</p>
+        <p>Nu werden er steenen gehaald en daar de buik van het dier mee opgevuld. De jager naaide de buik weer toe en de Wolf had van dit alles niets gemerkt zoo vast lag hy te slapen. Toen nu de Wolf wakker werd, dacht hy direct, hê wat voelt myn buik toch zwaar. Maar hy wist natuurlijk niet wat er gebeurd was. Hy voelde een groote dorst en dacht maar gauw in de sloot achter het huis te gaan drinken. Maar toen hy nu aan de kant van den stroom stond, en hy zich bukte om te drinken, kon hy zyn evenwicht niet meer houden en viel voorover in het water. De zware steenen trokken hem nu naar de diepte en jammerlyk verdronk nu de valsche Wolf.</p>
+        <p>In optocht werd nu Grootje en Roodkapje naar huis gebracht en aan ieder vertelden ze de wonderlyke geschiedenis met de Wolf. De jager werd om zyn moed en kordaatheid door iedereen geprezen.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

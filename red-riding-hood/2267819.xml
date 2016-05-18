@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Anita Engelen; 1955-</author>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0026</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Naar Gebroeders Grimm = Jacob en Wilhelm Grimm</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Anita Engelen; 1955-</author>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Aartselaar ; [Harderwijk] Deltas</publisher>
+            <date>cop. 2001</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje was een heel lief meisje. Op een dag werd haar oma ziek, Roodkapje mocht haar wat koekjes en wijn brengen. 'Pas op voor de boze wolf!' riep mama nog na.</p>
+        <p>Onderweg plukte Roodkapje mooie bloemen voor oma. Opeens stond de wolf daar. 'Waar ga jij heen, Roodkapje?' vroeg hij sluw. 'Ik ga oma koekjes en wijn brengen', zei Roodkapje.</p>
+        <p>Vlug liep de wolf naar het huisje van oma. Hij stormde daar binnen en slokte oma in één hap op. Toen kroop hij in bed en wachtte op Roodkapje. Daar was ze al! 'Oma, wat hebt u grote oren', schrok Roodkapje. 'Dan kan ik je beter horen', piepte de wolf. 'En wat hebt u grote ogen.' 'Dan kan ik je beter zien.' 'Wat hebt u een grote mond.' 'Dan kan ik je beter opeten!’ riep de wolf en schrokte Roodkapje op.</p>
+        <p>Toen de jager even later voorbij kwam, hoorde hij de wolf snurken in oma's bed. Vlug sneed de jager de buik van de wolf open. Oma en Roodkapje kropen er ongedeerd uit. En de wolf? Die was dood!</p>
+      </div>
+    </body>
+  </text>
+</TEI>

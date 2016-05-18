@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0015</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Naar Gebroeders Grimm = Jacob en Wilhelm Grimm</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Aartselaar ; [Harderwijk] Deltas</publisher>
+            <date>cop. 1991</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje gaat op stap naar oma. Oma is ziek en Roodkapje brengt haar wat lekkers.</p>
+        <p>In het bos ziet Roodkapje de boze wolf 'Ik ga op bezoek bij oma’, zegt het meisje.</p>
+        <p>Roodkapje plukt wat bloemen voor oma.
+De wolf heeft een gemeen plannetje!</p>
+        <p>Hij loopt naar het huisje van oma en doet Roodkapjes stem na. Oma laat hem binnen.</p>
+        <p>Wat schrikt oma vreselijk erg van de wolf.
+'Jij bent Roodkapje helemaal niet!', gilt ze.</p>
+        <p>De wolf peuzelt oma op. Dan zet hij haar slaapmuts op en trekt haar nachtpon aan.</p>
+        <p>Na een poosje komt Roodkapje eraan.
+'Kom binnen, meisje!', roept de wolf lief.</p>
+        <p>'Oma, wat heb jij grote oren', zegt Roodkapje. 'Oma, wat heb jij grote ogen en tanden!'</p>
+        <p>'Dat is om je beter te zien en op te eten', roept de wolf en hij springt op Roodkapje.</p>
+        <p>Maar de jager schiet de wolf dood en redt oma uit de buik. Nu zijn ze gered.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

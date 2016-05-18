@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Eerste gekke sprookjesboek</title>
+        <author>Tony Ross; 1938-</author>
+        <author>Tim Gladdines; 1963-</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0104</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Vert. van My first nursery stories. - London Andersen Press, cop. 2008</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Eerste gekke sprookjesboek</title>
+            <author>Tony Ross; 1938-</author>
+            <author>Tim Gladdines; 1963-</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam Zirkoon</publisher>
+            <date>2009 [i.e. cop. 2010]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>ROODKAPJE</p>
+        <p>Er was eens een lief, klein meisje, waar iedereen dol op was. Haar grootmoeder had voor haar een prachtige, rode mantel gemaakt, met een rode kap. Het meisje was daar zo blij mee, dat ze het manteltje bijna altijd droeg, en al snel noemde iedereen haar Roodkapje.</p>
+        <p>Op een dag zei de moeder van Roodkapje: ‘Je grootmoeder is ziek, Roodkapje. Ga haar deze koekjes maar brengen, dat zal haar opvrolijken. Je moet wel opschieten, en je mag onderweg met niemand praten.'</p>
+        <p>Roodkapje ging meteen op pad. Ze huppelde er vrolijk op los en even later kwam ze een wolf tegen. De wolf had zo'n honger dat hij haar onmiddellijk ter plekke op zou willen eten, maar dat durfde hij niet omdat hij kon horen dat er vlakbij houthakkers aan het werk waren. Dus daarom hield hij haar staande en vroeg hij waar ze naartoe ging. Roodkapje dacht even niet aan wat haar moeder had gezegd, en zei: 'Ik ga mijn grootmoeder deze koekies brengen, want ze is ziek.' ‘Ach, hemeltje. Woont ze hier ergens in de buurt?' vroeg de wolf, die net deed alsof hij het vriendelijk meende. ‘Ja, in een lief, klein huisje, midden in het bos', vertelde Roodkapje. De wolf zei haar goedendag en zodra ze uit het zicht verdwenen was, rende hij zo snel als hij kon naar grootmoeders huisje.</p>
+        <p>Toen de wolf bij grootmoeder's huisje aankwam, klopte hij op de deur: KLOP, KLOP, KLOP, KLOP. 'Wie is daar?' riep grootmoeder. 'Ik ben het, Roodkapje', antwoordde de wolf met een hoog stemmetje. 'Ik kom u wat koekjes brengen die mama heeft gebakken.' 'Kom maar binnen, Roodkapje', riep grootmoeder vanuit haar bed. 'De deur zit niet op slot.'</p>
+        <p>De gulzige wolf ging naar binnen en -- GLOEP! -- slokte grootmoeder zonder ook maar één keer te kauwen, met één grote hap naar binnen. Daarna pakte hij snel een reserve slaapmuts uit de kast en zette hem op. Hij sprong in bed en trok de lakens op, tot aan zijn kin.</p>
+        <p>Hij lag daar nog maar net, toen er opnieuw op de deur werd geklopt: KLOP, KLOP, KLOP, KLOP. ‘Wie is daar?’ riep hij. Roodkapje vond dat haar grootmoeder een beetje vreemd klonk, maar toen bedacht ze dat grootmoeder natuurlijk hees was geworden door haar verkoudheid, en dus antwoordde ze: 'Ik ben het, Roodkapje. Ik kom u wat koekjes brengen die mama heeft gebakken.' Met een zo lief mogelijke stem riep de wolf: 'Kom maar binnen, Roodkapje. De deur zit niet op slot.' Roodkapje ging naar binnen, maar omdat ze vond dat grootmoeder er nogal vreemd uitzag, vroeg ze:</p>
+        <p>’Maar grootmoeder, wat heeft u grote oren!'
+‘Daar kan ik jou beter mee horen, liefje!’
+'Maar grootmoeder, wat heeft u grote ogen!'
+‘Daar kan ik jou beter mee zien, liefje!’
+'Maar grootmoeder, wat heeft u grote tanden!'
+‘Daar kan ik je beter mee OPETEN, liefje!’</p>
+        <p>En met deze woorden stortte de wolf zich bovenop Roodkapje en at haar op met één grote GLOEP! Nu zijn honger was gestild, viel de wolf in slaap en al snel lag hij luid te snurken.</p>
+        <p>SNRRRRRRRRR! SNRRRRRRRRRRR! SNRRRRRRRRRRR!</p>
+        <p>Hij snurkte zelfs zo hard dat een jager, die toevallig voorbij kwam, besloot om even binnen te gaan kijken of alles wel in orde was. Toen hij de slapende wolf zag, riep hij uit: ‘Aha, schurk? Jou zoek ik al een hele tijd?' Snel hakte hij de wolf z'n kop af en daar sprong Roodkapje naar buiten, gevolgd door haar grootmoeder. Zo liep alles toch nog goed af. De jager was blij dat hij eindelijk de wolf te pakken had gekregen. Grootmoeder smulde van de koekjes en voelde zich snel stukken beter, en Roodkapje beloofde dat ze nooit, nooit, nooit meer zou stoppen om met een onbekende wolf te praten.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

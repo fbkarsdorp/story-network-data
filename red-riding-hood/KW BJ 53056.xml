@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Charles Perrault; 1628-1703</author>
+        <author>Hans Christian Andersen; 1805-1875</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0213</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Charles Perrault; 1628-1703</author>
+            <author>Hans Christian Andersen; 1805-1875</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Brussel [etc.] Elsevier-Sequoia</publisher>
+            <date>cop. 1971</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Er was eens een meisje dat Roodkapje heette en samen met haar moeder in een boerderij op het land woonde.</p>
+        <p>Op een dag werd haar oma, die midden in het bos woonde, ziek. Moeder pakte een mandje met lekkers in en stuurde Roodkapje er op uit om dit naar oma te brengen. “Denk erom dat je flink doorloopt en met niemand praat”, zei moeder. Maar toen ze midden in het bos was, vergat Roodkapje moeders raad en ze bleef stilstaan om bloemen te plukken.</p>
+        <p>Ineens dook uit het struikgewas een hongerige wolf op. “Wat doe je hier?”, vroeg hij. “Ik pluk bloemen voor oma”, antwoordde Roodkapje. “Ze is ziek en ze woont helemaal alleen in het bos. En nu breng ik haar iets te eten”. “Dat zal een lekker hapje worden”, dacht de wolf. “Ik eet ze allebei op”. Hij groette Roodkapje en ging toen langs een kortere weg naar het huisje van Roodkapje's oma.</p>
+        <p>Daar aangekomen klopte hij drie keer op de deur. “Wie is daar?”, vroeg oma. “Ik ben het, Roodkapje”, antwoordde de wolf met een hoog stemmetje. Toen schoof oma de grendel van de deur en deed open. De wolf sprong op haar af en schrokte haar naar binnen. Daarna trok hij oma's nachtjapon aan, zette haar mutsje en haar bril op en stapte in bed. “Roodkapje herkent me zo vast niet”, dacht hij.</p>
+        <p>Eindelijk werd er op de deur geklopt. De wolf deed oma's stem na en riep: “Binnen!”. Toen Roodkapje voor het bed stond, zette ze grote ogen op. “Wat heb je een lange armen, oma”, riep ze verbaasd uit. “Dat is om je beter te kunnen omhelzen, lieve schat”. “En wat heb je een lange benen!”. “Dat is om sneller te lopen, kleintje”. “En wat een lange oren heb je, omaatje”. “Dat is om beter te kunnen luisteren”. “Oh, en wat een lange tanden!”. “Dat is om je beter op te kunnen eten!”, brulde de wolf en hij slokte het meisje op.</p>
+        <p>Gelukkig had een konijn dit door het raam gezien; hij rende naar de houthakker en vertelde dat de wolf Roodkapje en haar grootmoeder opgegeten had. In het huisje vond de houthakker de slapende wolf en hij doodde hem met één enkele zwaai van zijn bijl. Uit de buik van de wolf kropen Roodkapje en haar grootmoeder levend te voorschijn; de gulzige wolf had ze zonder kauwen ingeslikt.</p>
+        <p>Ze omhelsden elkaar en waren blij dat ze nog leefden. Zo werden Roodkapje en haar oma op wonderbaarlijke wijze gered en leefden nog lang en gelukkig.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

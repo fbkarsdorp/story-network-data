@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>'t Is lang geleden</title>
+        <author>Henriëtte Sophia Blaauw-Van den Dries; 1875-1949</author>
+        <author>Cornelia Spoor; 1885-1950</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0251</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Selectie met sterk verkorte verhalen uit de bundels ''t Is lang geleden' en 'Oude getrouwen' uit 1914</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>'t Is lang geleden</title>
+            <author>Henriëtte Sophia Blaauw-Van den Dries; 1875-1949</author>
+            <author>Cornelia Spoor; 1885-1950</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Alkmaar Gebr. Kluitman</publisher>
+            <date>1919</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Er was eens een allerliefst klein meisje, dat altijd een rood mutsje droeg, waarom zij den bijnaam kreeg van "Roodkapje."</p>
+        <p>Op zekeren dag moest ze wafeltjes naar haar zieke grootmoeder brengen, maar voor ze wegging, zei moeder: "Denk er om, dat je 't groote boschpad volgt, want in de dichte struiken is de wolf gezien."</p>
+        <p>Ongelukkig vergat het meisje dien goeden raad en toen zij zooveel bonte kapelletjes zag vliegen, liep zij ze in 't bosch na. Daar ontmoette zij den wolf, die grooten lust had haar dadelijk op te eten, maar hij durfde niet, omdat er houthakkers in de buurt waren. "Waar moet ge naar toe?" vroeg hij.</p>
+        <p>"Ik ga naar grootmoeder, om haar wafeltjes te brengen," zei Roodkapje. "Woont zij hier ver vandaan?" "Ja, grootmoeder woont in 't eerste huis van 't dorp." "Zullen we eens zien wie er 't eerst is," zei de wolf, "jij moogt den kortsten weg nemen." "Ja, dat is leuk!" riep het kleine meisje, maar daar ze onderweg nog wat bloempjes plukte, was de wolf er veel eerder.</p>
+        <p>Zachtjes klopte hij op de deur van de grootmoeder. "Wie is daar?" riep het oudje. "Ik, Roodkapje!" antwoordde de wolf, met een lief stemmetje. De zieke, die in bed lag, riep: "Trek maar aan het touwtje, dan zal de deur wel opengaan!" De wolf deed dit en stapte binnen. In een oogenblik had hij de grootmoeder opgeslokt en toen ging hij in haar bed liggen.</p>
+        <p>Even later kwam Roodkapje. "Klop, klop!" hoorde de wolf. "Wie is daar?" vroeg hij. "Roodkapje!" riep de kleine meid. "Trek maar aan het touwtje, dan zal de deur wel opengaan!" antwoordde de wolf op dezelfde manier als de grootmoeder het gedaan had. Toen Roodkapje binnenkwam, zei hij: "Kom maar een beetje bij mij in bed, lieverd, je zult wel moe zijn." Roodkapje deed het dadelijk maar ze vond dat grootmoeder er zoo vreemd uitzag. "Grootmoeder, grootmoeder, wat hebt gij groote ooren," zei Roodkapje. "Dat is om beter te kunnen hooren, mijn kind." "Grootmoeder, grootmoeder, wat hebt gij groote oogen!" riep het kleine ding weer. "Zooveel te beter kan ik zien, vrouwtje." "Maar wat hebt gij groote tanden," hield ze aan. "Dat is om jou te kunnen opeten," antwoordde de slokop, maar nog juist voor hij toehapte, kwamen de houthakkers, die zijn spoor gevolgd hadden, binnen, en sloegen hem met hun bijlen dood. Daarop tilde een van de mannen Roodkapje op zijn schouder, en bracht haar naar huis, waar zij spoedig bekwam van de schrik.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

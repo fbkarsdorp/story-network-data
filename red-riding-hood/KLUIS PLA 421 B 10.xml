@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De geschiedenis van Roodkapje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0154</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>De geschiedenis van Roodkapje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Leiden : D. Noothoven van Goor</publisher>
+            <date>2e helft 19e eeuw</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>De geschiedenis van Roodkapje.</p>
+        <p>'t Schittrend rood fluwelen kapje,
+Rijk omzoomd met zwarte kant,
+Werd weleer altijd gedragen
+Door een meisje in Gelderland.</p>
+        <p>Daarom heette zij Roodkapje;
+'t Was een lief kind,
+Dat om hare vele deugden,
+Door een ieder werd bemind.</p>
+        <p>Eens zag zij in eene kamer,
+Versch gebakken tulband staan,
+En daarbij een potje boter,
+Maar zij kwam toch nergens aan.</p>
+        <p>"Breng dit spoedig," sprak haar Moeder,
+"Naar uw zieke Grootmoe heen,
+En blijf dan een poosje bij haar,
+'t Goede mensch is zoo alleen."</p>
+        <p>Toen Roodkapje was vertrokken,
+Zag een wolf haar in 't verschied.
+"Straks," dacht hij, "zal 'k je wel pakken,
+In het bosch ontkom je 't niet."</p>
+        <p>Maar in 't bosch zag hij twee mannen
+Met een bijl. Zijn snood besluit
+Om Roodkapje te verslinden
+Stelde hij daarom nog uit.</p>
+        <p>Eindelijk kwam hij haar op zijde,
+Vriendlijk vroeg hij: "waar naar toe?"
+"'k Breng," sprak het meisje, "naar mijn Grootje
+Tulband als geschenk van Moe."</p>
+        <p>"'k Wil uw Grootje ook eens bezoeken,"
+Sprak de wolf, "want 'k heb den tijd,
+'k Zal maar ras vooruit gaan loopen,"
+En hij sprong wel zes voet wijd.</p>
+        <p>Zeer vermoeid door al het lopen,
+Zat Roodkapje eens op den grond,
+Maakte kransjes van de bloempjes,
+Die ze in overvloed daar vond.</p>
+        <p>Spoedig had de booze wolf
+'t Huis der oude Vrouw bereikt.
+Ziet, hoe hij nu zeer voorzichtig,
+Eerst door 't sleutelgaatje kijkt.</p>
+        <p>Eindlijk, waagt hij 't aan te kloppen.
+"Kom maar binnen," riep de vrouw.
+En de hongerige wolf
+Greep haar en verslond haar rauw.</p>
+        <p>Nu was Roodkapje ook genaderd,
+En zij klopte spoedig aan.
+"Trek," riep de wolf, "maar aan het touwtje,
+en de deur zal opengaan."</p>
+        <p>"'k Breng u tulband," sprak Roodkapje,
+"'k Heb dien in de kast gezet." --
+"Goed, mijn kind," hernam de Wolf,
+"Rust bij mij nu uit in 't bed."</p>
+        <p>"Hé, wat hebt gij groote tanden."
+Sprak zij, en op d' eigen stond,
+Greep de wolf het lief Roodkapje,
+Dat hij, o! hoe slecht, verslond.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

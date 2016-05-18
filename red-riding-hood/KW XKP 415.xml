@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje en andere sprookjes</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0301</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Omslagtitel Bevat ook Sneeuwwitje, Assepoester Datering niet in Brinkman, spelling Marchant, schatting</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje en andere sprookjes</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l. s.n. ]</publisher>
+            <date>[195-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje liep door een groot bos. Ze was op weg naar Oma. Plotseling stond de wolf voor haar, die haar vroeg waar ze naar toe ging. "Ik ga Oma opzoeken. Ze is ziek", antwoordde Roodkapje hem. "Zo, zo", sprak de wolf, "en waar woont je Oma dan?" "Aan de andere kant van het bos", antwoordde Roodkapje. "Oh, daar! Nu, wens haar maar beterschap van me", en weg sprong de wolf.</p>
+        <p>Toen hij uit het gezicht verdwenen was, rende hij zo hard hij kon naar Oma's huisje. Doordat de deur op een kier stond, kon hij zo naar binnen springen en daar slokte hij Oma in één hap naar binnen. Toen trok de wolf haar kleren aan en kroop in bed.</p>
+        <p>Na een poosje trad Roodkapje binnen. Omdat het er nogal donker was, zag ze niet dat het de wolf was die in bed lag. Ze vond wel dat Oma er nogal vreemd uitzag en daarom zei ze: "Oma, wat heb je toch grote ogen". "Dat is om je beter te kunnen zien", antwoordde de wolf. En daarna: "Oma, wat heb je toch een grote oren"." Dat is om je beter te kunnen horen". En toen weer: "Oma, wat heb je toch een grote mond". "Dat is om je beter te kunnen opeten", en hap, daar slokte de wolf Roodkapje naar binnen.</p>
+        <p>Toen viel hij in slaap, en snurkte daarbij zo luid, dat de jager die toevallig voorbij kwam naar binnen stapte om te zien wat er aan de hand was. Toen hij de wolf zag liggen, pakte hij zijn mes en sneed hem open. Dolgelukkig stapten Oma en Roodkapje naar buiten en dankten de jager héél erg hartelijk.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

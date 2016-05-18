@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uit het sprookjesland Roodkapje Tafeltje dek je Doornroosje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0366</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Bevat Roodkapje ; Tafeltje dek je ; Doornroosje Datering spelling Marchant, jaartal geschat</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Uit het sprookjesland Roodkapje Tafeltje dek je Doornroosje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l. s.n. ]</publisher>
+            <date>[193-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>ROODKAPJE</p>
+        <p>Roodkapje liep in het bos en was op weg naar oma, want deze was ziek. Plotseling stond de wolf voor haar en vroeg waar ze naar toe ging. Toen Roodkapje hem verteld had, dat ze naar oma ging, rende de wolf hard vooruit naar het huisje van oma toe, sprong naar binnen en at haar op. Hij trok haar kleren aan en kroop in bed. Een poosje later kwam Roodkapje binnen. Ze vond oma er vreemd uit zien en zei: “Oma wat hebt U een grote ogen en een grote oren". “Dan kan ik je beter zien en horen antwoordde de wolf. “En wat hebt U een grote mond" zei Roodkapje nu weer. "Dan kan ik je beter opeten", gromde de wolf, sprong uit bed at het arme meisje op en ging slapen. Daar kwam de jager voorbij. Hij hoorde de wolf snurken, kwam binnen en hakte met een bijl de wolf open en daar kwamen Roodkapje en oma te voorschijn. Wat waren ze hem dankbaar.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

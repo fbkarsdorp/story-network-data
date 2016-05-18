@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje en de wolf</title>
+        <author>Richard Macclure Scarry; 1919-1994</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0188</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje en de wolf</title>
+            <author>Richard Macclure Scarry; 1919-1994</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Harderwijk etc.] Deltas</publisher>
+            <date>cop. 1983</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje mocht naar oma een mandje lekkers brengen, want oma was ziek. Toen ging Roodkapje op weg. Maar de boze wolf sloop tussen de bomen door stilletjes achter haar aan. Ineens stond hij voor haar.</p>
+        <p>"Waar woont jouw oma?" vroeg de wolf. Roodkapje wees hem de weg.</p>
+        <p>Toen begon de wolf te rennen. Hij rende en rende ... recht naar het huisje van oma. Hij rukte de deur open en met huid en haar at hij haar op.</p>
+        <p>Daarna trok de wolf oma's nachtpon aan en zette haar slaapmuts op. Toen kroop hij diep onder dekens en wachtte op Roodkapje.</p>
+        <p>"Help!" riep ze en rende weg</p>
+        <p>Gelukkig had de houthakker haar gehoord. Snel gaf hij de wolf een klap en bevrijdde oma uit de buik.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

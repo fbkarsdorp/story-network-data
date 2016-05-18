@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sprookjes van Grimm, Andersen en Perrault</title>
+        <author>A.M. Lefèvre</author>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0090</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Sprookjes van Grimm, Andersen en Perrault</title>
+            <author>A.M. Lefèvre</author>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Oegstgeest Boek Specials Nederland</publisher>
+            <date>[2002]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Er was eens een meisje dat altijd een rood kapmanteltje droeg. Daarom werd ze Roodkapje genoemd.</p>
+        <p>Op een dag zei haar moeder tegen haar: "Je oma is ziek. Ga haar een appeltaart en een potje slagroom brengen." "Goed doorlopen," voegde ze eraan toe, "en niet praten met mensen die je niet kent." Het meisje gaf haar moeder een kus en vertrok.</p>
+        <p>Haar oma woonde aan de andere kant van het bos. Roodkapje stapte stevig door, maar opeens hoorde ze iemand aankomen. Doodsbang bleef ze staan. Er dook een grote grijze wolf op. "Hallo, lief kind," zei hij vriendelijk, "waar ga je zo op je eentje naartoe?" "Een wolf is geen mens," zei Roodkapje bij zichzelf. Daarom antwoordde ze: "Ik ben op weg naar mijn oma." "Ik ken een kortere weg," zei de wolf hulpvaardig. "Je moet die kant op." Dat vond het meisje een goed idee. Ze deed wat de wolf had gezegd. "Wat een aardige wolf was dat," dacht Roodkapje. "Ik heb nu nog alle tijd om een bos bloemen voor oma te plukken."</p>
+        <p>De dieren in het bos maakten zich ongerust. Als de wolf het meisje niet had opgegeten, voerde hij iets in zijn schild. Inderdaad, de wolf was naar het huisje van oma gerend en klopte aan. "Wie is daar?" vroeg de oude vrouw met beverige stem. "Ik ben Roodkapje," antwoordde de wolf poeslief. "ik kom u iets lekkers brengen." Oma zei verheugd: "Kom maar gauw binnen, lieverd." Dat had ze niet moeten zeggen. De wolf werkte haar in één hap naar binnen. Met haar slaapmuts op en haar nachthemd aan ging hij in haar bed liggen.</p>
+        <p>Even later klopte Roodkapje op de deur van het huis. "Kom maar binnen, lieverd," zei de wolf poeslief met verdraaide stem. "Wat is het hier donker, oma. Mag ik het licht aandoen?" zei het meisje. Ze ging naast het bed van oma zitten. "U bent erg veranderd," zei ze verbaasd. "Wat hebt u grote ogen!" De wolf antwoordde: "Dan kan ik je beter zien, meisje." "En wat hebt u grote oren!" ging Roodkapje verder. De wolf antwoordde: "Dan kan ik je beter horen, meisje." "En wat hebt u grote tanden!" Toen het meisje dat zei, schreeuwde de wolf: "Dan kan ik je beter opeten!" Hij verslond Roodkapje met huid en haar.</p>
+        <p>De volgevreten wolf wandelde naar een hooischuur even verderop om daar in alle rust zijn eten te laten zakken. Hij was te slaperig om te merken dat de dieren uit het bos achter hem aan naar binnen glipten. Hij liep met open ogen in de val. De wolf wilde net een dutje gaan doen toen hij een grote hooivork op zijn hoofd kreeg. Bewusteloos tuimelde hij in het hooi. De eekhoorns en de konijnen moesten zich tot het uiterste inspannen om de wolf aan zijn staart omhoog te hijsen. Toen de wolf eenmaal ondersteboven hing, begonnen de dieren flink te schudden. Roodkapje en haar oma rolden naar buiten. Want de gulzige wolf had hen in één keer opgeslokt, zonder te kauwen. Alleen oma's jurk was een klein beetje gekreukt!</p>
+        <p>Roodkapje bedankte haar vrienden de dieren, ze beloofde dat ze voortaan goed naar haar moeder zou luisteren. De wolf kwam langzaam weer bij kennis. Alle dieren lachten hem uit: "Wegwezen, gemenerik. We willen je hier nooit meer terugzien!"</p>
+      </div>
+    </body>
+  </text>
+</TEI>

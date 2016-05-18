@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mijn sprookjes-abc-boek</title>
+        <author>Ton Wassink</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0266</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Mijn sprookjes-abc-boek</title>
+            <author>Ton Wassink</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Antwerpen Zuid-Nederlandsche Uitgeverij Harderwijk Centrale Uitgeverij</publisher>
+            <date>[1974]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>waar gaat roodkapje heen? ze gaat naar grootmoeder. ze is in het bos. maar wat is dat? daar is de wolf. hij praat tegen roodkapje. hij vraagt waar grootmoeder woont. dan zegt de wolf: "pluk maar wat bloemen voor grootmoeder." daarna holt hij weg. hij holt naar het huis van grootmoe. daar klopt hij aan.</p>
+        <p>hij gaat het huis binnen. in een sprong is hij bij het bed van grootmoe. zij is bang. een hap en grootmoeder is in de buik van de wolf. daar is roodkapje. ook zij komt in de buik van de wolf terecht. dan komt de jager voorbij. hij snijdt de wolf open en redt de twee!</p>
+      </div>
+    </body>
+  </text>
+</TEI>

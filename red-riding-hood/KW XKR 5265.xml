@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>John Patience; 1949-</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0341</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Sprookjes favorieten, sprookjes pop-up boek</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>John Patience; 1949-</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Oegstgeest Boek specials Nederland</publisher>
+            <date>cop. 2000</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Er was eens een klein meisje genaamd Roodkapje, die met een mandje met eten naar haar grootmoeder ging, die in het midden van het bos woonde. Op de heenweg ontmoette zij een wolf.</p>
+        <p>"Waar ga jij naar toe?" vroeg de wolf. "Ik ga mijn grootmoeder bezoeken", antwoordde Roodkapje, die geen idee had hoe gevaarlijk wolven konden zijn. "Ze ligt ziek in bed en ik ga haar opvrolijken." "Misschien moet je wat bloemen voor haar meenemen", stelde de wolf voor. "Dat is een goed idee", zei Roodkapje en meteen begon ze een aantal bloemen te plukken.</p>
+        <p>Terwijl Roodkapje druk bezig was met het plukken van bloemen, rende de wolf door het bos en nam de kortste weg naar grootmoeders huisje. Hij klopte op de deur, klop-klop-klop. "Wie is daar", riep de oude dame. "Het is Roodkapje", piepte de wolf met een hoge stem. "Wat een mooie verrassing!" riep Roodkapjes grootmoeder. "Doe de deur maar open en kom binnen." De wolf opende de deur, rende naar binnen en slokte de oude dame in een hap op. Vervolgens trok hij haar nachtjapon aan, zette haar bril en slaapmuts op en sprong in het bed.</p>
+        <p>Op dat moment klopte Roodkapje op de deur van het huisje, klop-klop-klop. "Wie is daar?" riep de Wolf, die grootmoeders stem nadeed. "Het is Roodkapje", zei het kleine meisje. "Doe de deur maar open en kom binnen, mijn liefje", antwoordde de wolf. "Grootmoeder, wat heeft u vandaag grote ogen", zei Roodkapje verbaasd. "Wat heeft u grote oren en oh, grootmoeder, wat heeft u toch grote tanden!" "Dat is om jou beter op te kunnen eten!" brulde de wolf en sprong uit het bed. Roodkapje schreeuwde verschrikkelijk.</p>
+        <p>Gelukkig was er een houthakker, die dichtbij aan het werken was en die haar hoorde huilen. Hij kwam haar redden. De houthakker doodde de wolf met zijn bijl. Hij sneed de wolf open en, geloof het of niet, Roodkapjes grootmoeder stapte er uit. Ze was een beetje gebogen en platgedrukt, maar desondanks geheel gezond. En Roodkapje, zij sprak nooit meer tegen wolven.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

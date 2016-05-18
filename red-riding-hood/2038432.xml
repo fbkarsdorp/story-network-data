@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Patricia Whitten</author>
+        <author>Colin Petty</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0013</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Vert. van Little red riding hood. - Morris, 1989</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Patricia Whitten</author>
+            <author>Colin Petty</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Lisse] Rebo</publisher>
+            <date>cop. 1990</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Net nadat Roodkapje vertrokken was, kwam de houthakker naar haar moeder om te zeggen dat er een wolf in het bos was gezien. "O nee!" riep de moeder van Roodkapje en ze rende achter Roodkapje aan om haar terug te roepen, maar het was te laat.</p>
+        <p>In het begin dacht Roodkapje er wel aan om op het pad te blijven. Maar het was een prachtige dag en overal groeiden kleurige wilde bloemen. Ze besloot er een paar te plukken en daarna wilde ze wat varens plukken die langs de rivier groeiden.</p>
+        <p>"Hallo", zei een stem beleefd. Het was de wolf, die naar haar had zitten kijken.
+"Hallo", antwoordde Roodkapje. Ze was een beetje bang, maar de wolf leek wel aardig. "Waar ga je heen, meisje?" vroeg de wolf. "Naar het huisje van grootmoeder", zei Roodkapje. "Aha", zei de wolf. "En waar is dat dan?" Roodkapje vertelde het hem. "Ga maar gauw," zei de wolf, "en doe je grootmoeder de hartelijke groeten van mij."</p>
+        <p>Doordat de wolf veel harder kon lopen dan Roodkapje was hij heel snel bij het huisje van grootmoeder. "Wie is daar?" riep grootmoeder. "Ik ben het, Roodkapje", zei de wolf met een hoge piepstem. "Kom binnen, lieve kind", zei grootmoeder. Toen ze de wolf zag, sprong grootmoeder uit haar bed en verstopte zich in de kast. Ze hield de kastdeur goed dicht.</p>
+        <p>De wolf zette grootmoeders bril op, trok een van haar nachtmutsen over zijn oren, klom in het bed en trok de dekens tot aan zijn kin. Vlak daarna klopte Roodkapje op de deur van het huisje. "Wie is daar?" riep de wolf met zijn zachtste stem. "Roodkapje", antwoordde het meisje. "Kom toch binnen, lieve kind", zei de wolf lief. Ook al had de wolf zijn gezicht bijna helemaal onder de dekens, toch merkte Roodkapje dat er iets vreemds was.</p>
+        <p>“O, grootmoeder," zei ze, "wat hebt u een grote ogen."
+"Dat is om je beter te kunnen zien, meisje", antwoordde de wolf.
+“O, grootmoeder," zei ze, "wat hebt u een grote oren."
+"Dat is om je beter te kunnen horen, meisje", zei de wolf.
+Toen zei Roodkapje: “O, grootmoeder, wat hebt u een grote tanden!"
+"Dat is om je beter te kunnen opeten", grauwde de wolf en hij sprong uit het bed!</p>
+        <p>Roodkapje gilde zo hard dat de houthakker, die in de buurt was, zwaaiend met zijn grote bijl het huisje in kwam rennen. De wolf sprong het raam uit en werd nooit meer gezien.</p>
+        <p>Grootmoeder deed de kast open en Roodkapje vloog in haar armen. Ze waren net de houthakker aan het bedanken toen de moeder van Roodkapje binnen kwam rennen.</p>
+        <p>Roodkapje beloofde haar dat ze nooit meer van het pad af zou gaan.
+Toen gingen ze allemaal aan tafel zitten en aten de lekkere versgebakken koeken die Roodkapje had meegebracht.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

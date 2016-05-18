@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje en 5 andere sprookjes</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0411</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Op achterkant 14941005 Datering gebaseerd op Hema logo (HEMA in bolle letters)</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje en 5 andere sprookjes</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Amsterdam] HEMA</publisher>
+            <date>[198-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Wat kijk je boos! Wat heb je een rare handen en grote oren en vreselijk grote tanden. Dat is om jou op te eten. De wolf springt uit het bed en pakt Roodkapje en eet haar op.</p>
+        <p>Wat hoor ik toch een raar geluid, denkt de jager. De buik van de wolf is vreselijk dik. Als de jager dat ziet snijdt hij hem gauw open.</p>
+        <p>Roodkapje en haar grootmoeder komen er gelukkig gezond uit. De jager stopt de buik van de wolf vol met stenen. Toen de wolf weer wakker werd had hij dorst. Hij wilde naar de bron gaan om te drinken. Maar hij was zo zwaar geworden, dat hij dood neerviel.</p>
+        <p>Roodkapje rent gauw naar haar moeder terug en ze zegt: "Ik zal nooit meer van het pad afgaan." Dan vertelt ze alles aan haar moeder. “Ja", zegt Roodkapje's moeder: “Ik had je nog gewaarschuwd. Wees voorzichtig, pas op voor de wolf." Maar nu kan dat nooit meer gebeuren.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

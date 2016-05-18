@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Geschiedenis van Rood-Kapje = Histoire du petit Chaperon-Rouge</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0150</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Geschiedenis van Rood-Kapje = Histoire du petit Chaperon-Rouge</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Turnhout : Brepols en Dierickx zoon</publisher>
+            <date>2e helft 19e eeuw</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Geschiedenis van Rood-Kapje.</p>
+        <p>Rood-Kapje ontvangt van hare moeder den koek en het potje met boter.
+Zij vraagt den weg aan eenen doortrapten wolf, die haar zegt links te gaan.
+Zij vangt vlinders, in plaats van spoedig hare moeder te gehoorzamen.
+Zij plukt nootjes, terwijl hare grootmoeder haar in onrust verwacht.
+De wolf is er eerder dan zij en klopt aan de deur: tok, tok; hij bootst hare spraak na.
+Trek het touwtje en het boutje, mijn liefje, roept de grootmoeder.
+De wolf komt binnen en vreet de grootmoeder op, welke hare kleindochter verwachtte.
+De wolf zet de muts van de grootmoeder op en gaat in hare plaats in 't bed liggen.
+De wolf ligt in het bed en wacht op het kleine meisje, hij denkt aan 't kwaad dat hij gaat doen.
+Tok, tok, 't is uwe kleindochter, die u een koekje en wat boter brengt.
+Trek het touwtje en het boutje, mijn liefje, roept de wolf, hare stem nadoende.
+Rood-Kapje komt binnen en ziet hare grootmoeder heel ziek te bed liggen.
+Grootmoeder, hier is een potje met boter en een koekje, dat moeder u zendt.
+Kom bij mij rusten, mijn kind. Zij ontkleedt zich en legt haar kapje af.
+Rood Kapje gaat te bed, en hare grootmoeder aanziende, zegt zij:
+Wat hebt gij lange armen! -- Dat is om u beter te omhelzen, mijn kind.
+Wat hebt hij groote oogen! -- Dat is om u beter te zien, mijn kind.
+Wat hebt gij groote ooren! -- Dat is om u beter te hooren.
+Wat hebt gij lange tanden! -- Dat is om u beter te knappen, mijn kind.
+En de wolf verslond het kleine meisje, omdat het onderwege zijnen tijd verbeuzeld had.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0377</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Vier paginagrote gekl. illustraties Datering in fondscatalogus Vlieger 1886, als serie 3, no. 55 4 paginagrote illustraties Met 2 p. uitgeversreclame</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam J. Vlieger</publisher>
+            <date>[1886]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje.</p>
+        <p>Roodkapje was een allerliefst meisje, maar zij had het groote gebrek om lang weg te blijven en onderweg te spelen, als haar moeder haar met een boodschap uitstuurde.</p>
+        <p>Eens zond zij Roodkapje naar Grootmoeder, die ziek was, met een gebakje en een potje boter, haar bevelende het bosch recht door te lopen en niet te spelen.</p>
+        <p>Het meisje beloofd dit te zullen doen, maar op weg zag zij schoone bloemen, die zij plukte en waardoor zij veel tijd verloor.</p>
+        <p>Toen kwam zij een wolf tegen, die haar vroeg waar zij heen ging. Roodkapje zeide het hem zonder er eenig gevaar in te zien. De wolf, die wist dat zij altijd slenterde, liep hard vooruit naar de woning van grootmoeder.</p>
+        <p>Hij klopte aan de deur tok, tok. De goede oude vrouw, meenende dat het haar kleindochter was, riep: "trek maar aan het touwtje, dan gaat de klink van zelf over." De wolf gehoorzaamde, trad binnen en wierp zich op de oude vrouw, die hij verslond. Daarna trok hij haar kleederen aan en zette haar muts op.</p>
+        <p>Eenige oogenblikken later kwam ook Roodkapje voor de woning en klopte ook tok, tok. De wolf veranderde zijn stem en riep: "trek maar aan het touwtje, dan gaat de klink vanzelf over." Het kind deed het en ging naar binnen. Oh! grootmoeder wat zijt gij veranderd, zei Roodkapje, toen zij bij het bed gekomen was. Ja, kindlief, antwoorde de wolf, ik ben ook zoo ziek geweest.</p>
+        <p>Zoo is het daarom dat ge zulke groote oogen hebt. -- Dat is om je beter te kunnen zien mijn kind. -- En wat hebt gij groote oren, grootmoe! -- Dat is om je beter te kunnen hooren mijn kind. -- En wat zijn uwe armen lang grootmoe. -- Dit is om je beter te kunnen omhelzen mijn lieveling. -- En wat is uwe tong lang en dik! -- Dat is om beter met je te kunnen spreken. -- Ach grootmoe wat hebt gij groote en scherpe tanden. -- Dat is om je beter te kunnen opeten, kleine babbelaarster.</p>
+        <p>En dit zeggende at de wolf Roodkapje op. Hij was zoodanig uitgehongerd dat hij daarna nog het gebak, de boter en zelfs het mandje van Roodkapje verslond.</p>
+        <p>Lieve kinderen als gij niet wilt hebben dat een of ander ongeluk u geschiedt, vermaakt u dan nooit onder weg zoo als Roodkapje, wanneer uwe ouders het u verboden hebben.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

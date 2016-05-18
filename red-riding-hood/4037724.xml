@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Het groot Helen Oxenbury sprookjesboek</title>
+        <author>Helen Oxenbury; 1938-</author>
+        <author>Myrte Gay-Balmaz</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0036</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Rug- en omslagtitel Het Helen Oxenbury kinderverhalenboek Vert. van The Helen Oxenbury nursery story book. - London Heinemann, cop. 1985</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Het groot Helen Oxenbury sprookjesboek</title>
+            <author>Helen Oxenbury; 1938-</author>
+            <author>Myrte Gay-Balmaz</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Weert Van Reemst</publisher>
+            <date>cop. 1991</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Er was eens een klein meisje. Op een keer maakte haar moeder voor haar een mooie cape met een kapje. De cape was van rode stof. Het meisje had hem bijna altijd aan en daarom noemden de mensen haar Roodkapje.</p>
+        <p>Op een dag zei haar moeder: 'Wil jij dit mandje met lekkers naar grootmoeder brengen, want ze is ziek en hiermee wordt ze snel weer beter’. Roodkapje deed haar cape om en had echt zin in de wandeling, want grootmoeder woonde in het bos. Ze was al bijna buiten, maar haar moeder riep nog: 'En denk erom, niet met vreemden praten!'</p>
+        <p>Maar Roodkapje praatte juist zo graag met iedereen, zelfs met de wolf. En die kwam ze onderweg tegen. 'Goeiemorgen, klein meisje met je rode kapje, waar ga je heen?' vroeg de wolf met een listige glimlach. Roodkapje was niet bang voor de wolf en ze zei: 'Ik ga naar grootmoeder toe. Ze is ziek en ik heb hier wat lekkers voor haar.' 'Waar woont je grootmoeder dan?' vroeg de wolf. 'In een klein huisje verderop aan dit pad,' zei Roodkapje. De wolf had eigenlijk ontzettende trek in Roodkapje. Hij had haar zó willen opeten, maar hij hoorde niet ver daar vandaan de houthakker fluiten.</p>
+        <p>Hij ging er snel vandoor, naar grootmoeders huisje toe. De oude vrouw zat in bed en voor ze in de gaten had dat hij binnen was, had de wolf haar helemaal opgegeten. Snel trok hij haar nachtjapon aan en zette haar slaapmuts op. Daarna kroop hij onder de dekens. Alleen z'n ogen zag je nog.</p>
+        <p>Al snel kwam Roodkapje bij het huisje van haar grootmoeder en klopte aan. 'Kom binnen,’ zei de wolf, zachtjes fluisterend. Roodkapje ging naar binnen. Maar wat zag haar grootmoeder er vreemd uit! Ze moest wel erg ziek zijn. Ze ging wat dichter naar het bed toe. 'Wat hebt u grote ogen, grootmoeder" zei Roodkapje tegen de wolf, die van onder de rand van de slaapmuts naar haar keek. 'Daar kan ik je beter mee zien, m'n kind,' zei de wolf. 'Wat hebt u grote oren, grootmoeder.’ 'Daar kan ik je beter mee horen, m'n kind,' zei de wolf. Roodkapje zag ineens de grote wolvenneus en wolvenmuil. Maar ze hield zich dapper en gilde niet. Ze zei: 'Wat hebt u een grote mond, grootmoeder.' Toen deed de wolf z'n grote muil open. 'Daar kan ik je beter mee opeten!' brulde hij. Hij sprong uit bed en at ook Roodkapje helemaal op.</p>
+        <p>Op dat moment kwam gelukkig net de houthakker langs. Hij zag dat de deur van het huisje openstond en hij ging maar eens even binnen kijken. Toen hij de wolf zag, pakte hij zijn bijl en sloeg de kop van de wolf er af. En daar stapten Roodkapje en haar grootmoeder uit de buik van de wolf. Ze waren nog helemaal onbeschadigd.</p>
+        <p>Roodkapje bedankte de houthakker. Ze rende terug naar huis om haar moeder te vertellen wat er allemaal was gebeurd. Roodkapje beloofde dat ze van die dag af aan nooit meer met vreemden zou praten.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

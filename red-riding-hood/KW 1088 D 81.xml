@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nieuwe gedichtjes op de vertellingen van Moeder de Gans</title>
+        <author>Jan Schenkman; 1806-1863</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0167</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Datering niet in Brinkman; Emrik &amp; Binger waren werkzaam vanaf 1857, Hoogstraten van 1848 tot 1859, schatting Op de achterkant Lith. van Emrik &amp; Binger, Haarlem; onder de platen Lith. van H.L. van Hoogstraten te Zwolle De keerzijde der bladen is onbedrukt In 1851 verschenen De vertellingen van Moeder de Gans. op nieuw uit het Fransch vert. met dichterl. bijschriften van J. Schenkman</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Nieuwe gedichtjes op de vertellingen van Moeder de Gans</title>
+            <author>Jan Schenkman; 1806-1863</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam G.Theod. Bom</publisher>
+            <date>[ca. 1858]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Het onbedachtzame meisje.
+ 
+Ach, Roodkapje! zet uw boter
+En uw wafeltjes maar neêr,
+Grootmoê zal ze niet meer eten;
+Want uw grootmoê leeft niet meer.
+Zie, de wolf die haar verscheurde,
+Wacht u thans reeds in haar bed,
+Ach, wat heeft hij groote tanden!
+Niemand die uw leven redt.
+Waarom 't hem ook juist te zeggen,
+Meisje! waar ge heen moest gaan;
+Wolven kan men niet vertrouwen;
+Foei, 't was dwaas van u gedaan.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

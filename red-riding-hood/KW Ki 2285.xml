@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De vertellingen van Moeder de Gans</title>
+        <author>Charles Perrault; 1628-1703</author>
+        <author>Johan Jacob Antonie Goeverneur; 1809-1889</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0254</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Met gelithogr. voorplat; lithogr. van Emrik &amp; Binger Oorspr. titel Contes de ma mère l'Oye. - 1697</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>De vertellingen van Moeder de Gans</title>
+            <author>Charles Perrault; 1628-1703</author>
+            <author>Johan Jacob Antonie Goeverneur; 1809-1889</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Arnhem J. van Egmond Jr.</publisher>
+            <date>[1866]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje.</p>
+        <p>Daar was 'reis een jong meisje, en dat woonde op een dorp en was zoo lief en zoo aardig, als men zich maar met mogelijkheid voorstellen kan. Daarom was hare moeder ook heel gek met haar en hare grootmoeder nog veel gekker.</p>
+        <p>Deze goede vrouw liet haar een rood kapje maken, en dat stond haar zoo mooi, dat men haar voortaan overal in de buurt Roodkapje noemde. "Ge moest toch eens gaan zien, hoe 't eigenlijk met uwe grootmoeder is, want ik heb gehoord, dat ze wat ongesteld moet wezen, en breng haar dan meteen deze wafels en dit potje boter."</p>
+        <p>Roodkapje maakte zich terstond klaar, om naar hare grootmoeder te gaan, die in een ander dorp woonde. Onderweg moest zij evenwel door een bosch en daar kwam ze meester Wolf tegen, die wel bijster veel trek had om haar op te eten, maar niet dorst, omdat een paar houthakkers in het bosch aan 't werk waren. Hij vroeg haar dus maar alleen, waar zij naar toe ging. 't Onnoozele kind, niet wetende, hoe gevaarlijk het is met een wolf te blijven staan praten, antwoordde hem: "Ik ga naar mijne grootmoeder, om te zien, hoe zij het maakt, en om haar deze wafels en dit potje met boter te brengen, dat moeder haar zendt." "Woont zij ver weg?" vroeg meester Wolf haar. "O ja, een heel end," antwoordde Roodkapje. "'t Is voorbij den molen, daar heel ver, in 't allereerste huis van het dorp." "Ei, ei," zei meester Wolf; "dan wil ik haar ook eens gaan opzoeken, maar ik wil dezen en gij moet dien weg gaan, en dan willen we eens zien, wie er het eerst wezen zal."</p>
+        <p>De Wolf, die den kortsten weg had gekozen, ging al zijn best aan het loopen, terwijl Roodkapje den langsten weg nam en zich onderweg nog vermaakte met hazelnoten te zoeken, bloempjes te plukken en bonte kapelletjes na te jagen. Het duurde niet lang, of meester Wolf kwam bij grootmoeder voor de deur en klopte aan.</p>
+        <p>Tik, tik, tik! "Wie is daar?" "Ik ben 't grootmoeder, uwe kleindochter Roodkapje," riep de wolf, de stem van het meisje namakende. "Ik kom u wafels brengen en een potje met boter, dat moeder u zendt." De goede grootmoeder, die te bed lag, omdat ze wat ongesteld was, riep toen van binnen: "Trek maar aan de klink, kind; dan gaat de deur open." De Wolf deed het, en de deur ging open. Hij sprong nu terstond op het goede grootje los en at haar op, of het niets was, want hij had in wel drie dagen niets te eten gehad. Vervolgens sloot hij de deur weer toe, ging op grootmoeders bed liggen en wachtte zoo Roodkapje af, die kort daarna ook wezenlijk aanklopte.</p>
+        <p>Tik, tik, tik! "Wie is daar?" Het arme meisje hoorde de grove stem van den Wolf en werd eerst bang; maar toen dacht zij, dat grootmoeder misschien wel verkouden was, en antwoordde: "Ik ben 't, grootmoeder, uwe kleindochter Roodkapje. Ik kom u wafels brengen en een potje met boter, dat moeder u zendt." "Trek maar aan de klink, kind, dan gaat de deur open," antwoordde de Wolf met eene zachter gemaakte stem. Roodkapje deed dit, en de deur ging open. Toen de Wolf haar zag binnenkomen, trok hij zijn kop onder de dekens en zeide: "Zet de wafels en de boter daar op tafel, en kom dan maar bij mij te bed." Roodkapje ontkleedde zich en ging te bed, maar was heel verwonderd, dat hare grootmoeder er in haar nachtpak zoo raar en wonderlijk uitzag.</p>
+        <p>"Maar, grootmoeder," zei ze, "wat hebt ge lange armen!"
+"Dat is om je des te beter te kunnen omhelzen, kind."
+"Maar, grootmoeder, wat hebt ge lange beenen!"
+"Dat is om des te beter te kunnen loopen, kind."
+"Maar, grootmoeder, wat hebt ge lange ooren!"
+"Dat is om des te beter te kunnen hooren, kind."
+"Maar, grootmoeder, wat hebt ge groote tanden!"
+"Ja, en die zijn om jou op te eten."</p>
+        <p>En toen de ondeugende Wolf dit gezegd had, zei hij: hap, hap! en at het arme Roodkapje op.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

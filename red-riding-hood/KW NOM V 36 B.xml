@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>" Er was eens.. " groot sprookjes- en vertelselboek met meer dan honderd plaatjes</title>
+        <author>Antoon S. Reule Nzn</author>
+        <author>Arnoldus Cornelius Verhees; 1859-1929</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0272</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Illustraties gesigneerd door A.C. Verhees, houtgraveur</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>" Er was eens.. " groot sprookjes- en vertelselboek met meer dan honderd plaatjes</title>
+            <author>Antoon S. Reule Nzn</author>
+            <author>Arnoldus Cornelius Verhees; 1859-1929</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Zutphen Schillemans &amp; Van Belkum</publisher>
+            <date>[1892]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Er was eens een lief meisje, dat Roodkapje genoemd werd, omdat het altijd een kapje droeg van rood fluweel. Haar grootmoeder woonde in het bosch en was zeer goed, want van haar had het meisje dat mooie kapje gekregen.</p>
+        <p>Eens had haar moeder wafelen gebakken, en zeide tegen haar dochtertje: "Roodkapje! breng deze wafelen en dit fleschje wijn, benevens dit potje boter naar uwe grootmoeder, want zij is jarig. Loop niet te hard, want dan zoudt ge licht vallen, en blijf steeds op den rechten weg, anders kondt gij wel eens verdwalen."</p>
+        <p>Gehoorzaam ging Roodkapje op weg. In het bosch ontmoette zij den boozen wolf, doch zij was niet bang voor hem, daar zij nog niet wist dat de wolf een valsch dier is. De wolf sprak vleiend: "Goeden morgen, Roodkapje! waar gaat gij zoo vroeg naar toe?" Argeloos antwoordde Roodkapje: "Naar mijn grootmoeder. Moeder heeft wafelen gebakken en die ga ik haar brengen, en ook een flesch wijn en een potje boter, want grootmoeder is jarig!" "En waar woont die lieve grootmoeder?" "Achter in het bosch, waar die groote eik staat." "O, ja! ik weet het reeds," zeide de booze wolf. "Maar als ik u een goeden raad mag geven, pluk dan voor uw grootmoeder een ruikertje woudbloemen; daar zult gij haar een pleizier mee doen." En Roodkapje volgde dien raad en plukte een ruiker bonte bloemen, maar geraakte al plukkende van den goeden weg en verdwaalde al meer en meer. Het duurde een geruimen tijd, eer zij den weg naar grootmoeder weer terugvond.</p>
+        <p>Intusschen was de slimme wolf naar de hut van grootmoeder geloopen, en klopte aan. "Wie is daar?" vroeg de grootmoeder. "Ik ben het; Roodkapje!" antwoordde de wolf. "Doe maar open; ik breng u wafelen en wijn en boter!" "Ik kan niet, liefje!" riep de grootmoeder, "want ik ben ziek en kan niet uit mijn bed komen. Druk maar op den deurknop, dan springt de deur van zelf open!" De wolf deed zulks; de deur sprong open en hij vloog naar binnen en op de grootmoeder af, die hij in eens opslokte. Daarna trok hij de kleederen aan, welke over den stoel hingen, en ging op grootmoeders plaats in bed liggen.</p>
+        <p>Daar trad Roodkapje binnen en ging met den mooien ruiker en haar mandje naar het bed, maar zij bemerkte dadelijk, dat grootmoeder er geheel anders uitzag dan gewoonlijk.</p>
+        <p>"Ach grootmoeder!" zeide zij, "wat hebt gij groote ooren!" 
+"Dat is om goed te kunnen hooren!" antwoordde de wolf.
+"En wat hebt gij groote oogen!"
+"Dat is om goed te kunnen zien!"
+"En wat een groote handen!"
+"Dat is om goed te kunnen grijpen!"
+"Maar grootmoedertje, wat hebt gij een grooten mond!"
+"Dat is om goed te kunnen happen!"</p>
+        <p>En de booze wolf sprong uit bed, en had Roodkapje in één hap naar binnen. Daarop legde hij zich weder neer en snurkte zoo hard, dat men het buiten de hut kon hooren.</p>
+        <p>Daar kwam een jager voorbij en die hoorde het ook. Hij dacht: "ik zal toch eens zien, hoe de oude vrouw het maakt?" en hij ging naar binnen. Daar zag hij den wolf, en hij greep reeds zijn geweer om hem dood te schieten, doch hij bedacht zich en nam zijn jachtmes, waarmede hij behoedzaam den wolf den buik opende.</p>
+        <p>Daar sprong Roodkapje dadelijk voor den dag en een oogenblik later volgde de grootmoeder, die het daarbinnen wel wat benauwd had gehad. Wat waren die twee blij en hoe bedankten zij den goeden jager! Maar de booze wolf was dood, en de jager stroopte hem de huid af, die hij tot gedachtenis medenam. Grootmoeder echter at met smaak haar wafeltjes.</p>
+        <p>Roodkapje ging weder naar huis, maar zorgde nu wel, niet meer van den rechten weg af te dwalen. Haar moeder vertelde zij alles, en deze was, o zoo dankbaar, dat de slechte wolf haar lief kind niet verscheurd had.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

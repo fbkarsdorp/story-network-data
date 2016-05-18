@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>A. Van Gool</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0361</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Datering schatting</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>A. Van Gool</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Eke] ADC</publisher>
+            <date>[199-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Er was eens een klein meisje dat Roodkapje heette. 'Je oma is ziek zei haar mama op een dag, ‘breng deze koekjes en ook een potje boter.’</p>
+        <p>Roodkapje ging onmiddellijk op stap. Ze vond het fijn in het bos te wandelen. Ze groette de vogels, alle dieren...</p>
+        <p>Hé, dit dier kende ze niet. 'Ik ben de wolf,' zei hij, 'waar ga je naar toe, mijn kind?' 'Naar mijn oma,' antwoordde Roodkapje zonder argwaan, 'dicht bij de molen, daar!’</p>
+        <p>'Lopen we om het eerst?' vroeg de wolf, 'Ik volg dit pad.' 'En ik volg het andere!' zei Roodkapje opgewekt.</p>
+        <p>De wolf rende pijlsnel weg. Terwijl hij liep likkebaardde hij en scherpte zijn tanden. Hij dacht immers aan de heerlijke maaltijd die hem te wachten stond.</p>
+        <p>Natuurlijk kwam de wolf als eerste aan bij oma. 'Wie is daar?’, vroeg ze toen de wolf aanklopte. 'Roodkapje,' zei de wolf met een piepstem, 'ik breng je heel wat lekkers. Mag ik binnenkomen?' 'Trek maar aan het haakje,’ zei oma, ‘dan gaat de deur vanzelf open.’</p>
+        <p>De wolf sprong naar binnen. Oma riep verschrikt om hulp. Te laat: hij sprong op het bed en met één hap at hij grootmoeder op. Doodsbang vluchtten de muisjes en de eekhoorntjes het bos in.</p>
+        <p>De wolf legde zich op oma's plaats en wachtte op zijn dessert. Klop, klop! Daar was Roodkapje! Trek maar aan het haakje!' riep hij met verdraaide, stem, 'De deur zal vanzelf opengaan.</p>
+        <p>Roodkapje kwam binnen. ‘Dag oma!’ Maar toen ze dichterbij kwam riep ze verschrikt: ‘Wat heb je een grote neus!’ ‘Zo kan ik je beter ruiken,’ zei de wolf, ‘kom, geef me een zoen.’ ‘Wat heb je ook grote oren!’ ‘Dat is om je beter te kunnen horen!’ zei de wolf. 'En je tanden, oma, wat zij ze lang!' 'Dat is om je beter te kunnen opeten!' En terwijl hij dat zei, sprong de wolf op Roodkapje. In één hap verslond hij haar.</p>
+        <p>Daarna verstopte de wolf zich in een schuur om uit te rusten van zijn zware maaltijd. Pech voor de wolf, want de eekhoorntjes en muizen waren daar al. Ze wilden hun vriendinnetje redden. Met één slag van een hooivork velden ze de wolf. De wolf die wou slapen moest bekomen van zo'n klap. Maar dat was nog niet alles! Ze bonden een touw aan de staart van de wolf en trokken hem allen samen omhoog.</p>
+        <p>Niet zo goed voor de spijsvertering natuurlijk! Heel de maaltijd van de wolf kwam er terug uit. Eerst Roodkapje en dan oma!</p>
+        <p>'Bedankt eekhoorntjes en kleine muisjes! Jullie ook, lieve konijntjes! En jij, lelijke boze wolf, maak dat je wegkomt voor altijd!'</p>
+      </div>
+    </body>
+  </text>
+</TEI>

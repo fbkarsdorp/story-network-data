@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Anneke van Luyk</author>
+        <author>Karen Avery</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0432</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Anneke van Luyk</author>
+            <author>Karen Avery</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Bussum Van Reemst</publisher>
+            <date>cop. 1978</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Er was eens een klein meisje dat altijd een rood mutsje droeg. Daarom noemde iedereen haar Roodkapje. Op een dag vroeg de moeder van Roodkapje of ze een mandje met eten naar haar grootmoeder wilde brengen. “Maar denk er om Roodkapje,” zei haar moeder “blijf op het pad en praat niet niet vreemden.”</p>
+        <p>Al gauw kwam Roodkapje een wolf tegen. “Waar ga je heen?" vroeg hij. “Ik ga naar mijn grootmoeder, eten brengen," zei ze. “Pluk ook wat van die mooie bloemen voor haar," zei de wolf. “Ja, dat is een goed idee”, zei Roodkapje. De wolf rende ondertussen gauw naar het huisje van grootmoeder.</p>
+        <p>Toen de wolf voor het huisje stond, klopte hij aan en riep met een hoge stem: “Ik ben het, Roodkapje." “Kom maar binnen," riep grootmoeder terug. De wolf rende naar binnen en at grootmoeder in één hap op. Hij zette gauw haar slaapmuts op en kroop in haar bed.</p>
+        <p>Toen kwam Roodkapje bij grootmoeders huisje aan. Roodkapje deed de deur open en keek verbaasd naar haar grootmoeder. “Wat heeft u een grote oren!" zei ze. “Dat is om jou beer te kunnen horen," zei de wolf. “En wat heeft u een grote ogen!" “Dat is om jou beter te kunnen zien." “Maar wat heeft u een grote tanden!" “Dat is om jou beter te kunnen opeten..." zei de wolf.</p>
+        <p>Roodkapje rende geschrokken naar buiten en riep: “Help! Help!" De boswachter hoorde het en snelde te hulp. Hij pakte zijn bijl en doodde de wolf. Toen hij de buik van de wolf opensneed stapte grootmoeder naar buiten. Om de goede afloop te vieren aten ze alle lekkere dingen uit het mandje op. Toen Roodkapje weer naar huis ging beloofde zij haar grootmoeder in het vervolg beter op te letten.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

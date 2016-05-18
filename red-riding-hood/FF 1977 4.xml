@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sprookjes voor alle kinderen</title>
+        <author>Gyo Fujikawa; 1908-1998</author>
+        <author>Lea Smulders; 1921-1993</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0145</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Vert. van Fairy tales and fables. - New York Grosset &amp; Dunlap, 1970</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Sprookjes voor alle kinderen</title>
+            <author>Gyo Fujikawa; 1908-1998</author>
+            <author>Lea Smulders; 1921-1993</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>De Bilt Cantecleer</publisher>
+            <date>cop. 1976</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Er was eens een klein meisje, dat zo lief was dat iedereen van haar hield. Ze had altijd een rood kapje op en je hoeft dus niet te vragen, waarom de mensen haar Roodkapje noemden.</p>
+        <p>Op een dag zei haar moeder: - Roodkapje, hier heb je een mandje met lekkere dingen en een potje boter. Dat moet je naar grootmoeder brengen.</p>
+        <p>Roodkapje nam het mandje aan haar arm en ging op weg. Om bij het huis van grootmoeder te komen, moest Roodkapje door een groot bos. Toen gebeurde het dat de wolf naast haar kwam lopen.</p>
+        <p>- Roodkapje, waar ga je naar toe? vroeg hij.
+- Ik ga naar grootmoeder, om haar dit mandje en de boter te brengen, zei Roodkapje.
+En toen de wolf vroeg: - Waar woont jouw grootmoeder dan?, antwoordde ze: - Daarginds, voorbij de molen. In het eerste huis van het dorp.
+- Zullen wij eens kijken wie het eerst bij het huis van grootmoeder is? stelde de wolf voor.</p>
+        <p>Meteen zette hij het op een lopen, roets, roets. Hij was al gauw tussen de bomen van het bos verdwenen. Die kan ik toch niet bijhouden, dacht Roodkapje. Ze liep op haar gemak verder, terwijl ze nu en dan wat nootjes raapte en bloemen plukte.</p>
+        <p>De wolf liep regelrecht naar het huis van grootmoeder en klopte op de deur. Klop-klop!</p>
+        <p>- Wie is daar? riep grootmoeder. Ze lag op bed, want ze was een beetje ziek.
+- Ik ben Roodkapje en ik kom u een mandje met lekkers brengen, zei de wolf met een hoog stemmetje.
+- Licht de klink maar op, dan gaat de deur vanzelf open, mijn kind!</p>
+        <p>De wolf deed wat grootmoeder gezegd had, de deur ging open, hij sprong naar binnen en hapte grootmoeder in één hap op. Daarna trok de wolf de nachtpon van grootmoeder aan, zette haar muts op en ging in bed liggen.</p>
+        <p>Even later stond Roodkapje voor de deur. Klop-klop!</p>
+        <p>- Wie is daar? riep de wolf met een hoge, zachte stem.
+- Ik ben Roodkapje en ik kom u een mandje met lekkers brengen!
+- Licht de klink maar op, dan gaat de deur vanzelf open, mijn kind!</p>
+        <p>Roodkapje kwam binnen en liep naar het bed, waarin de wolf lag met de muts van grootmoeder diep over zijn kop getrokken.</p>
+        <p>- Maar grootmoeder, zei Roodkapje, wat hebt u toch grote oren!
+- Dan kan ik je beter horen, mijn kind!
+- Grootmoeder, wat hebt u toch grote ogen!
+- Dan kan ik je beter zien, mijn kind! 
+- Grootmoeder, wat hebt u toch grote handen!
+- Dan kan ik je beter pakken, mijn kind! 
+- Grootmoeder, wat hebt u toch een grote, grote mond!
+- Dan kan ik je beter ophappen! schreeuwde de wolf, sprong op Roodkapje toe en at haar op.</p>
+        <p>Daarna ging de wolf met zijn dikke buik weer op bed liggen en al gauw snurkte hij zó hard dat je het buiten horen kon. Juist kwam de jager voorbij. Wie snurkt daar zo hard? dacht hij. Dat moet de wolf zijn. Hij ging naar binnen en begreep wat er gebeurd was. Grootmoeder was natuurlijk opgegeten door de wolf. Met een bijl hakte hij de buik van de wolf open. De jager was wel verrast dat niet alleen grootmoeder, maar ook Roodkapje eruit kwam. Ze waren gelukkig allebei nog helemaal levend.</p>
+        <p>Vlug deed de jager stenen in de buik van de wolf en naaide het vel toen dicht.
+Na een poosje werd de wolf wakker. Hij had dorst en wilde gaan drinken in de put. Maar toen hij zich voorover boog, rolden de stenen in zijn buik naar voren. De wolf viel met een plons in de put en kwam er nooit meer uit.</p>
+        <p>Roodkapje, grootmoeder en de jager waren alle drie geweldig blij. De jager bracht Roodkapje naar huis. Grootmoeder wuifde hen na en riep: - Kom nog maar dikwijls op bezoek, mijn kind. De boze wolf is er nu tóch niet meer!</p>
+      </div>
+    </body>
+  </text>
+</TEI>

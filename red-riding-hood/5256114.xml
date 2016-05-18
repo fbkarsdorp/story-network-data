@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje en andere sprookjes</title>
+        <author>Lucy Cousins; 1964-</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0100</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Omslagtitel Roodkapje. - Rugtitel Roodkapje Vert. van Yummy. - London Walker Books, 2009</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje en andere sprookjes</title>
+            <author>Lucy Cousins; 1964-</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam Leopold</publisher>
+            <date>2009</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Er was eens een meisje dat Roodkapje heette. Haar moeder vroeg haar of ze door het bos een mand met eten naar oma wilde brengen. Die was ziek.</p>
+        <p>Roodkapje was nog niet lang op weg toen ze een wolf tegenkwam. 'Waar ga jij naartoe, Roodkapje?' vroeg de wolf. 'Ik breng een mand met eten naar mijn oma, omdat ze ziek is,' antwoordde Roodkapje. 'Is dat zo?' zei de wolf met een gemene grijs en hij rende weg.</p>
+        <p>De wolf rende meteen naar oma's huis en klopte op de deur. 'Wie is daar?' riep oma. 'Ik ben het, Roodkapje,' zei de wolf met een lief stemmetje. 'Ik heb een mand met eten voor u meegebracht.' 'Kom maar binnen,' zei oma. De wolf ging naar binnen, sprong op oma's bed en schrokte haar in één hap op.</p>
+        <p>Even later kwam Roodkapje aan bij oma's huis. Ze liep meteen naar binnen en naar het bed toe. 'Oma, wat hebt u een grote ogen,' zei ze. 'Daar kan ik je beter mee zien, mijn liefje,' zei de wolf. 'Oma, wat hebt u een grote oren.' 'Daar kan ik je beter mee horen, mijn liefje.'  'Oma, wat hebt u een grote tanden.' 'Daar kan ik je beter mee opeten, mijn liefje!' De wolf sprong uit bed en schrokte Roodkapje in één hap op.</p>
+        <p>Een jager liep voorbij en hoorde het lawaai. Hij kwam binnen en zag de boze wolf. Hij hakte de wolf open en daar kwamen oma en Roodkapje naar buiten. 'HOERA!' riepen ze. Toen aten ze het eten uit de mand op en leefden nog lang en gelukkig.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

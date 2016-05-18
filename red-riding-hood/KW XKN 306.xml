@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mijn liefste boek vertellingen</title>
+        <author>Joh. W. Kerkmeijer-Bakker</author>
+        <author>Charles Perrault; 1628-1703</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0297</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ook verschenen op linnen, voor f 0,75</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Mijn liefste boek vertellingen</title>
+            <author>Joh. W. Kerkmeijer-Bakker</author>
+            <author>Charles Perrault; 1628-1703</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Almelo W. Hilarius Wzn.</publisher>
+            <date>[1909]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje; bij Roodkapje en den leelijken, leelijken wolf.</p>
+        <p>O, als die goede houthakker niet juist langs de deur gekomen was, had Roodkapje haar lieve Moesje nooit weêrgezien! Eigenlijk was het wel haar eigen schuld.... Want had Moesje haar niet zóó gezegd, dat zij recht door moest gaan, en gauw de wafeltjes en de eieren aan Grootmoeder brengen?</p>
+        <p>Toch had zij een zijweggetje ingeslagen; daar stonden o zoo veel mooie bloemetjes, en in plaats van gauw voort te maken, bleef Roodkapje, dat stoute kind, bij al de bloemetjes een praatje houden, tot zij eenklaps den grooten hongerige wolf voor zich zag staan.</p>
+        <p>"Zou dat een groote hond wezen?" dacht het kleine domme Roodkapje, "dan kon ik wel zoo ver met hem samengaan!"</p>
+        <p>Nu hoe die wandeling afgeloopen is, dat weten we allemaal wel.</p>
+        <p>Die arme oude Grootmoeder.... wat zal zij geschrokken wezen, toen die leelijke wolf binnenkwam en haar ophapte!</p>
+        <p>Gelukkig kroop zij later nog heelhuids uit den wolf zijn buik te voorschijn! Hij had het arme oudje zóó maar doorgeslikt.... in één grooten, geweldigen slok....</p>
+        <p>Zóó gaat het nu, als kindertjes niet doen, wat hun moeders zeggen. Laten we dus maar oppassen, en nóóit een zijweggetje ingaan, als we het rechte pad moeten houden!</p>
+      </div>
+    </body>
+  </text>
+</TEI>

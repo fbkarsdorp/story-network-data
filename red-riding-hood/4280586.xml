@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje was een toffe meid stoere sprookjes om te rappen</title>
+        <author>Marjet Huiberts; 1960-</author>
+        <author>Wendy Panders</author>
+        <author>Benaïssa Linger</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0062</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje was een toffe meid stoere sprookjes om te rappen</title>
+            <author>Marjet Huiberts; 1960-</author>
+            <author>Wendy Panders</author>
+            <author>Benaïssa Linger</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Haarlem Gottmer</publisher>
+            <date>cop. 2010</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Roodkapje was een toffe meid en volgens de boeken
+droeg ze om haar hoofd altijd rooie doeken.
+Ze had een zieke oma, dus die ging ze bezoeken,
+met een joekel van een rugzak met appelpannenkoeken.
+Zo stapte Roodkapje relaxed door het bos.
+Ze plukte bloemen in het mos en ze zong erop los.
+Toen kwam er een wolf en die zei: “I’m the boss!
+Jij loopt fout, ach gos.” Hij was sluw als een vos.</p>
+        <p>Dus Roodkapje liep om en die wolf ondertussen
+verkleedde zich haastig als een van haar zussen.
+Zo ging hij die oma in slaap zitten sussen.
+Toen vrat hij haar op en hij dook op haar kussen.
+Na een half uurtje kwam Roodkapje binnenwippen.
+Ze zei: ‘Hoi oma, je moet je haar eens laten knippen.’
+De wolf zei: ‘Ha kipje,’ en hij likte zijn lippen.
+Hij slokte haar op, voor ze kon ontglippen.</p>
+        <p>Toen viel hij in slaap, maar langs het huis liep een Turk.
+Die stampte naar binnen, want hij hoorde gesnurk.
+Hij dacht: “Dat is maf, een wolf in een jurk.
+Ik snij ‘m ’s open, die vieze vuile schurk.’
+Roodkapje was verkreukeld, maar ze had geen centje pijn.
+De Turk vroeg haar ten huwelijk en het werd een festijn.
+Ze kreeg een jurk van satijn en een ring met een robijn.
+En de wolf moest voor straf bruidsmeisje zijn.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

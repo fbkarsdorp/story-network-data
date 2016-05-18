@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[ Roodkapje ] ; [naar de gebr. Grimm ]</title>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0324</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Bevat geen titel Datering niet in Brinkman, oude spelling</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>[ Roodkapje ] ; [naar de gebr. Grimm ]</title>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l.] [ s.n ]</publisher>
+            <date>192-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Lief kind, zoo sprak Roodkapje's moe,
+Ga jij eens vlug naar grootmoe toe.
+Je weet, dat zij vandaag verjaart,
+Daarom bakte ik een fijne taart.
+Als jij daar komt, is ze altijd blij.
+Wensch haar maar veel geluk van mij.</p>
+        <p>Denk om de wolf! Hoor wat ik zeg:
+Blijf altijd op den rechten weg!
+Roodkapje gaat met taart en wijn,
+Maar moet er geen bouquet bij zijn?
+Het kind vergeet wat moeder zei,
+En plukt maar bloemen, ze zingt erbij.</p>
+        <p>De booze wolf heeft haar gehoord.
+En sluipt naar grootmoe's huisje voort.
+Vol streek zit die kop van hem.
+Hoor hoe verandert hij z'n stem:
+"Lief grootje," wilt u opendoen?
+Dan krijgt u een verjaardagszoen."</p>
+        <p>Het goede grootje doet nu open,
+Snel komt de booze wolf geloopen,
+En slokt haar in éénen hap!
+Ja, kindertjes, dat was geen grap!
+En nauwelijks was hij de kamer binnen,
+Of hij ging weer een streek verzinnen.</p>
+        <p>Grootmoedertjes nachthemd trekt hij aan,
+Wie zou hem herkennen gaan?
+Nu nog de muts op en de bril...
+Ziezoo, nu afgewacht en stil.
+Daar trippelen Roodkapjes voetjes,
+"Welkom mijn kind", zoo roept hij zoetjes.</p>
+        <p>"Ik wensch u geluk, lief grootmoesje mijn,
+Ik breng u bloemen en taart en ook wijn."
+De wolf in het bed piept: "kom hier lieve zus,
+En geef jij je grootmoedertje eens een kus.
+Ik dank je voor al die lekkere dingen.
+Nu moet je straks een verjaardagslied zingen."</p>
+        <p>Roodkapje schrikt, die stem klinkt zoo raar,
+Maar het is grootjes nachthemd en muts, dat is waar.
+Maar grootjes gezicht, nee, dat is het niet,
+En voordat Roodkapje nog iets hoort of ziet,
+Hap, hap, en ze is in z'n maag reeds verdwenen
+Van moeheid wankelt hij nu op z'n beenen.</p>
+        <p>Hè, hè, hij valt meteen in slaap,
+En och, wat snurkt die booze knaap.
+Dat kon de jager buiten hooren.
+Wat is dat? En spitst z'n ooren.
+Hij snelt er heen en in korten tijd
+Zijn Roodkapje en grootmoedertje bevrijd.</p>
+        <p>En of ze beiden dankbaar zijn!
+De jager krijgt een glaasje wijn
+En ook een stukje van de taart.
+Dat was die redding heusch wel waard.
+Het werd een fijn verjaardagsfeest,
+Zóó mooi was het nóóit geweest.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

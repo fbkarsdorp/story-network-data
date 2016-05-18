@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Zo leer ik klokkijken met Roodkapje</title>
+        <author>A. Van Gool</author>
+        <author>A.M. Lefèvre</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0352</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Zo leer ik klokkijken met Roodkapje</title>
+            <author>A. Van Gool</author>
+            <author>A.M. Lefèvre</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Eke ADC International</publisher>
+            <date>cop. 1999</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Klokkijken met Roodkapje</p>
+        <p>Roodkapje hielp haar moeder appeltaart te bakken. Het duurde vijf minuten om het deef uit te rollen. "Breng dit naar oma, maar praat niet met vreemde mensen," zei haar moeder. Het duurde vijf minuten voor Roodkapje klaar was. Roodkapje zwaaide en ging op weg. Het duurde twee uur voor ze bij oma's huisje was. Ze bleef staan om met de dieren te praten, maar voor ze het wist was het een uur later.</p>
+        <p>Om 10 uur hoorde Roodkapje een geluid tussen de bomen. Een uur later ontdekte ze dat het een wolf was! "Waar ga je naartoe?" vroeg de wolf. "Ik moet om 11 uur bij oma zijn," antwoordde ze. Roodkapje plukte nog even bloemen voor haar oma. Ze was nu bijna een half uur te laat.</p>
+        <p>De wolf kwam om half 12 bij oma's huisje. Hij slokte oma op en trok haar kleren aan! Toen Roodkapje bij oma's huisje aankwam, was het kwart voor 12. "Is daar iemand?" vroeg ze. Ze zag dat oma in bed lag. "Wat ziet u er vreemd uit, oma," zei Roodkapje. "U hebt zulke grote oren en tanden!" zei ze. "Dan kan ik je beter opeten!" schreeuwde de wolf. De wolf at Roodkapje in één hap op en wankelde naar buiten. Het was kwart over 12.</p>
+        <p>In de schuur wachtten de dieren uit het bos de wolf op. Ze sloegen hem buiten westen met een hooivork. Ze hesen de wolf aan zijn staart omhoog. Roodkapje en haar oma tuimelden in het hooi. Vijf minuten later waren oma en Roodkapje weer bijgekomen. Ze voelden zich al een stuk beter. Kwart voor één verdween de wolf met zijn staart tussen zijn poten in het bos. Tijd voor het middageten!</p>
+      </div>
+    </body>
+  </text>
+</TEI>

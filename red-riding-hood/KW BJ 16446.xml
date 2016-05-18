@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Auwk, de wolf</title>
+        <author>Sylviane Gangloff</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0179</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Auwk, de wolf</title>
+            <author>Sylviane Gangloff</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Mechelen BAKERMAT [Beusichem] EF &amp; EF [ distr. ]</publisher>
+            <date>cop. 1992</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Auwk de wolf</p>
+        <p>Hoi! Ik ben een wolf en ik heet Auwk.</p>
+        <p>En ik heb grote honger!</p>
+        <p>Hier is niets te eten!</p>
+        <p>Aha! Eindelijk wat te eten!</p>
+        <p>Maar ik heb honger!</p>
+        <p>Laat eens zien...</p>
+        <p>Maar dat eten wolven niet!</p>
+        <p>Heb je niets anders?</p>
+        <p>Vlug wat, ik heb honger!</p>
+        <p>Wat?!</p>
+        <p>En als ik jou eens oppeuzelde?</p>
+        <p>Goed, dit is je laatste kans.</p>
+        <p>Ha! Prachtig!</p>
+        <p>Wat heb jij daar in je mand?</p>
+        <p>Hmmm. Ik ben dol op taartjes!</p>
+        <p>Dat was heerlijk!</p>
+        <p>Zo, ... tot ziens!</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje een schitterend sprookje</title>
+        <author>Nicola Baxter</author>
+        <author>Samantha Chaffey</author>
+        <author>Addie Maanders</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0031</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Vert. van Little Red Riding Hood a sparkling fairy tale. - London Bookmart, cop. 2004</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje een schitterend sprookje</title>
+            <author>Nicola Baxter</author>
+            <author>Samantha Chaffey</author>
+            <author>Addie Maanders</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Utrecht Veltman Uitgevers</publisher>
+            <date>cop. 2005</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Er was eens een klein meisje dat in een huisje woonde vlak bij het bos. Iedereen noemde haar Roodkapje, omdat ze altijd een rode mantel droeg. Haar grootmoeder had die voor haar gemaakt.</p>
+        <p>Op een dag kreeg Roodkapjes moeder een brief waarin stond dat grootmoeder zich niet lekker voelde.</p>
+        <p>'Ik ga naar haar toe!' zei Roodkapje. 'Dan voelt ze zich vast beter.'</p>
+        <p>Dus trok Roodkapje haar mantel aan en wandelde het bospad af naar het huis van haar grootmoeder. 'Roodkapje,' riep haar moeder haar na, 'ga rechtstreeks naar grootmoeder en praat met niemand onderweg!’</p>
+        <p>Maar diep in het bos kwam Roodkapje een wolf tegen.</p>
+        <p>'Hallo, lief meisje" zei de wolf met een brede lach. 'Waar ga jij heen op deze mooie dag?'</p>
+        <p>'Ik ga naar mijn zieke grootmoeder,' zei Roodkapje, 'maar ik heb geen tijd om te praten.' 'Als ik jou was, zou ik toch een paar van die mooie bloemen hier voor haar te plukken,' zei de wolf. 'Ik moet er nu zelf vandoor. Tot ziens!'</p>
+        <p>De bloemen waren inderdaad mooi, dus kon Roodkapje het niet laten om een flink boeket te plukken. Daarna haastte ze zich naar haar grootmoeder. De deur stond op een kiertje.</p>
+        <p>Roodkapje sloop naar binnen en trippelde op haar tenen naar haar grootmoeders bed. Grootmoeder zag er helemaal niet goed uit!</p>
+        <p>'Maar grootmoeder, wat heeft u grote ogen!' riep het meisje uit.
+'Dan kan ik je beter zien, kind!' kraakte grootmoeder.</p>
+        <p>Roodkapje deed een stap dichterbij.</p>
+        <p>'Maar grootmoeder, wat heeft u grote oren!' zei ze.
+'Dan kan ik je beter horen, kind,' zei grootmoeder met een rare stem.</p>
+        <p>Roodkapje stond nu naast het bed.</p>
+        <p>'Maar grootmoeder,' fluisterde ze, 'wat heeft u grote tanden!'
+'Dan kan ik je beter opeten!' brulde de wolf, en hij sprong uit het bed.</p>
+        <p>Roodkapje begon te gillen. Gelukkig hoorde een houthakker haar en hij haastte zich naar binnen om de wolf weg te jagen.</p>
+        <p>Roodkapje vond haar grootmoeder in de kledingkast.</p>
+        <p>'Ik voel me al veel beter na dit avontuur,' zei ze. 'Laten we maar gauw een kopje thee drinken!'</p>
+      </div>
+    </body>
+  </text>
+</TEI>

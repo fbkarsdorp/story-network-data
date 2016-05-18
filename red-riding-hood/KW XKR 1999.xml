@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Oude sprookjes herleven</title>
+        <author>John Patience; 1949-</author>
+        <author>Attie Spitzers</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0323</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Het tweede ISBN in het boek is van de Engelse uitgave Datering volgens Belgische Bibliografie</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Oude sprookjes herleven</title>
+            <author>John Patience; 1949-</author>
+            <author>Attie Spitzers</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Chevron] Hemma</publisher>
+            <date>[1993]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Op een dag had Roodkapjes moeder een taart gebakken. Ze deed hem in een mandje en zei tegen haar dochter:</p>
+        <p>- Oma is een beetje ziek. Breng haar deze taart, maar zorg dat je op het pad blijft.</p>
+        <p>Roodkapje vertrok, maar ze vergat de raad van haar moeder en liep midden door het bos. Ze was nog niet ver, toen ze een houthakker tegenkwam, die waarschuwde:</p>
+        <p>- Het bos is gevaarlijk voor kleine meisjes. Ga naar het pad en loop snel door.</p>
+        <p>Maar Roodkapje wilde het gevaar niet zien. Ze liep verder en stond nu en dan stil om bloemetjes voor oma te plukken. Achter een boom zat een wolf  verscholen. Hij had het meisje graag onmiddellijk verstonden, maar hij hoorde in de verte de bijl van de houthakker en wist dus dat hij voorzichtig moest zijn.</p>
+        <p>De wolf rende, verborgen achter de struiken, voor het meisje uit. Toen bleef hij staan, om haar zogenaamd toevallig op te wachten.</p>
+        <p>- Goedemorgen, zei hij vriendelijk, waar ga je heen op deze mooie zomerdag?
+- Ik ga mijn oma taart en bloemen brengen, vertelde Roodkapje met een lach.
+- Waar woont je oma dan?
+- Aan de andere kant van het bos.
+- Dan zal ik je niet langer ophouden, zei de wolf. Tot ziens!</p>
+        <p>Hij wachtte tot het meisje uit het zicht was en rende toen in de richting van oma's huisje. De wolf kende een veel kortere weg. Hij dacht kwijlend aan zijn maaltijd, toen hij op de deur klopte.</p>
+        <p>- Wie is daar ? vroeg oma van uit haar bed. 
+- Ik ben het, Roodkapje, antwoordde de wolf, die zijn best deed zijn stem te verdraaien.
+- Ik heb taart en bloemen voor u.
+- Kom er in, de deur is open! riep oma.</p>
+        <p>De wolf kwam binnen, rende op oma af en sloot haar op in de kelder. Daarna pakte hij één van oma's slaapmutsen en kroop in het warme bed.
+- Nu wachten tot Roodkapje komt, zei de wolf likkebaardend tegen zichzelf.</p>
+        <p>Even later klopte Roodkapje op de deur.</p>
+        <p>- Wie is daar? vroeg de wolf, die zijn best deed oma's stem na te bootsen.
+- Ik ben het, Roodkapje, antwoordde ze.
+- Kom binnen, liefje, de deur is open!</p>
+        <p>Roodkapje vond dat oma een vreemde stem had. Ze zag iemand in bed, die een slaapmuts en een bril droeg. De dekens waren tot aan de nek opgetrokken.</p>
+        <p>- Oma, wat heb je grote ogen? zei Roodkapje.
+- Dan kan ik je beter zien, was het antwoord - En wat heb je een gekke grote oren! - Dan kan ik je beter horen, mijn lieve kind.
+- Oh oma, wat heb je grote tanden! - Dan kan ik je beter opeten! gromde de wolf, die uit bed sprong en het meisje, dat gillend wegliep, wilde grijpen.</p>
+        <p>Op dat moment vloog de deur open en kwam de houthakker binnengerend. Hij kwam net voorbij, toen hij Roodkapje hoorde schreeuwen. Met een grote zwaai van zijn bijl hakte hij de gemene wolf zijn kop af. Daarna ging hij samen met Roodkapje op zoek naar oma die, bibberend van angst, nog steeds in de kelder zat. Gelukkig had de wolf haar geen haartje gekrenkt.</p>
+        <p>- Ik zal een kopje thee maken, zei ze. Daar nemen we een stukje taart bij, die Roodkapjes moeder heeft gebakken!</p>
+        <p>Het was ondertussen laat geworden en de houthakker vond het te gevaarlijk het kleine meisje alleen door het bos te laten gaan. Hij zette Roodkapje op zijn sterke schouders en bracht haar veilig thuis. Reken maar dat haar moeder verbaasd was, toen ze alles hoorde!</p>
+      </div>
+    </body>
+  </text>
+</TEI>

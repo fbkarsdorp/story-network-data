@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uit het land der sprookjes</title>
+        <author>Jane Lagarde</author>
+        <author>E. De Klerck</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0129</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Uit het land der sprookjes</title>
+            <author>Jane Lagarde</author>
+            <author>E. De Klerck</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Chevron] Hemma</publisher>
+            <date>cop. 1983</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Er was eens een klein meisje, waarvan alle mensen veel hielden. De grootmoeder hield het meest van het meisje. Op een dag naaide zij een kapje van rode zij voor haar en omdat het meisje het kapje iedere dag droeg, heette zij al gauw overal Roodkapje.</p>
+        <p>Op een dag riep Moeder Roodkapje bij zich: “Roodkapje”, zei ze, “hier is een mand met koekjes en een fles wijn. Die moet je naar Grootmoeder brengen, want je weet dat zij ziek is. Maar let goed op als je door het bos gaat. Roodkapje: “Ik zal goed opletten; ik ken de weg naar Grootmoeder heel goed.”</p>
+        <p>Daarna ging ze weg. Eerst bleef ze op de goede weg, maar al gauw keek ze om zich heen en dacht: “Eigenlijk kan ik ook naast de weg in het gras lopen. Daar is het veel mooier dan op de harde stenen.</p>
+        <p>Naast de weg bloeiden veel kleurige bloemen. “Een bosje zal ik meenemen voor mijn lieve grootmoeder”, dacht Roodkapje en zij begon zich te bukken. Zij vond aldoor meer mooie bloemen.</p>
+        <p>Toen Roodkapje op keek, stond de wolf voor haar. Roodkapje wist niet wat voor een slecht dier de wolf was en ze zei: “Goededag”. “Waar ga jij zo vroeg naar toe?”, vroeg de wolf. “Ik wil naar mijn grootmoeder om haar koekjes en wijn te brengen”.</p>
+        <p>“Waar woont je grootmoeder ?”, vroeg de wolf. “Achter de eik bij de hazelnoot-haag staat haar huis”, zei Roodkapje. “O, ja, dan kan ik vooruit lopen en haar zeggen dat je komt”.</p>
+        <p>De wolf rende weg en dacht: “Nu kun je eerst de grootmoeder opeten en bovendien nog Roodkapje”. Hij liep naar het huis van Grootmoeder. Daar gekomen, klopte hij aan en riep: “Grootmoeder, ik ben Roodkapje”. “Druk maar op de deurknop”, klonk het van binnen.</p>
+        <p>De wolf drukte op de deurknop en sprong met één sprong de kamer binnen. Nog voordat Grootmoeder had kunnen schreeuwen van schrik, had hij haar opgegeten. Daarna zette hij de muts en de bril van Grootmoeder op en ging tevreden in haar zachte bed liggen. Uit voorpret likte hij zijn bek af.</p>
+        <p>Roodkapje had intussen een grote bos bloemen voor Grootmoeder geplukt. Nu dacht ze: “Ik moet voortmaken, want het is vast al laat geworden”. Al vlug kwam zij bij het huis van Grootmoeder. Maar de deur stond wijd open. Raar ook, dat Grootmoeder zo luid snurkte. Zij zag ook zo anders uit.</p>
+        <p>“Grootmoeder, wat heb je grote ogen?”. -- “Daarmee kan ik je beter zien”, klonk uit het bed. “Grootmoeder, je hebt zo'n verschrikkelijk grote bek”. “Daarmee kan ik je beter opeten”. En bij deze woorden sprong de wolf uit het bed, pakte Roodkapje en at haar op.</p>
+        <p>Toen likte hij tevreden zijn bek af en zei: “Zo, dat was echt een feestmaal voor mij. Maar nu ben ik zo moe”.</p>
+        <p>En hij ging op het kussen liggen en hij sliep vlug. Toen de wolf zo lekker snurkte, kwam buiten de jager voorbij. Toen hij zag dat de huisdeur openstond, kwam hij dichterbij. “Ik moet toch eens zien, wat daar aan de hand is”, zei hij.</p>
+        <p>Hij hoorde het snurken en dacht: “Het gaat slecht met Grootmoeder vandaag”. Toen vond hij de wolf." “De oude boef heeft tenslotte Grootmoeder helemaal opgegeten”. Hij pakte zijn mes en hij sneed de buik van de wolf open. Toen kwamen Roodkapje en Grootmoeder eruit.</p>
+        <p>Roodkapje haalde vlug veel grote stenen, die ze in de buik van de wolf stopte. Grootmoeder naaide de buik dicht. En toen de wolf opstond, kon hij nog maar een paar passen naar de bron lopen. Hij wilde drinken, maar de stenen trokken hem naar beneden. Hij viel in het water en verdronk. Grootmoeder en Roodkapje nodigden nu de jager uit voor de koekjes en de wijn en zij zaten gezellig bij elkaar. Grootmoeder herstelde vlug van de schrik en zij leefde nog vele jaren.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

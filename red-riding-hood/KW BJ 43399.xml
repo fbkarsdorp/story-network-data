@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0190</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam Mulder Holland</publisher>
+            <date>cop. 1984</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Roodkapje liep door het bos op weg naar haar grootmoeder. Ze had een mandje bij zich met een heerlijke taart en een pot honing.</p>
+        <p>"Dag Roodkapje!" riepen haar vriendjes de konijntjes.</p>
+        <p>Maar eensklaps stond daar de sluwe wolf die haar met een valse glimlach vroeg: "En waar ga jij naar toen, Roodkapje? Je kijkt zo blij en tevreden!" "Ik ga grootmoeder opzoeken, die is erg verkouden. En ik breng haar iets lekkers, dan wordt ze gauw weer beter." "Ik zal je een kortere weg wijzen," zei de wolf, "dan ben je er nog vlugger."</p>
+        <p>Maar de wolf wees Roodkapje een heel smal paadje, want hij wilde eerder bij grootmoeder zijn dan zij... en ze allebei opeten! Toen Roodkapje bij het huisje kwam lag de wolf in bed, de dekens over zich heen en met grootmoeder's slaapmuts op.</p>
+        <p>"Grootmoeder, waarom heb je zulke grote tanden?" "Om je beter te kunnen opeten!" riep de wolf en sprong uit bed. "Oh!" riep Roodkapje geschrokken. "Vriendjes konijn, help me! Red me van de slechte wolf!" De dappere konijntjes - en er waren er een heleboel - gaven de wolf zo'n pak slaag dat hij in zijn hol moest vluchten en helemaal niemand meer kon opeten.</p>
+        <p>Grootmoeder, die zich in een kast had verstopt, omhelsde Roodkapje. Die had er veel spijt van dat ze naar de wolf geluisterd had. "Ik zal nooit meer naar vreemde mensen luisteren, grootmoeder, dat beloof ik je!"</p>
+      </div>
+    </body>
+  </text>
+</TEI>

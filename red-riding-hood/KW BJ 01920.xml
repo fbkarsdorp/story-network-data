@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sprookjes</title>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <author>Albertine Steenhoff-Smulders; 1871-1933</author>
+        <author>Karel Simunek</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0171</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Afbeelding op de band gesigneerd met Matth. Wiegman</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Sprookjes</title>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+            <author>Albertine Steenhoff-Smulders; 1871-1933</author>
+            <author>Karel Simunek</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Bussum Paul Brand</publisher>
+            <date>1913</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Er was eens een heel klein meisje, een allersnoepigst kindje was het. Zij had zulk een rond, vriendelijk gezichtje met heldere blauwe kijkers; nooit keek ze boos of knorrig. Zij had korte blonde krulletjes, die om haar hoofdje dansten bij iederen stap dien ze deed, en een rood mondje, dat altijd lachte, en dan zag je haar kleine, grappige muizetandjes. Want dat kleine meisje lachte haast altijd. 's Ochtends, als moeder haar aangekleed had, kwam ze zingende beneden en heel den dag hoorde je haar vroolijk stemmetje. Ze was natuurlijk ook wel eens eventjes verdrietig als ze pijn had of iets niet naar haar zin was; maar dat duurde nooit lang. "'t Is al over, moeder!" riep ze al gauw, en terwijl er nog traantjes in haar ogen stonden, lachte haar mondje alweer. Je kunt begrijpen, hoeveel moeder van haar kleine meisje hield en hoe dol vader op haar was. Dan was er nog iemand, die altijd er blij was, wanneer zij dat aardige kindje zag en dat was haar grootmoeder. Grootmoeder had haar een mooi kapje gemaakt van rood fluweel en omdat het kleine meisje altijd dat kapje droeg, noemden de menschen in het dorp haar nooit anders dan Roodkapje. Ook vader en moeder noemden haar zoo.</p>
+        <p>Roodkapje woonde in een dorp en de vader van Roodkapje was een jager, want bij dat dorp waren groote bosschen. Het huisje van Roodkapje's vader lag ook dicht bij zoo'n groot bosch, maar het huisje van Roodkapje's grootmoeder stond midden in het bosch. Als nu Roodkapje naar haar grootmoeder ging, moest zij altijd maar rechtuit, zoodat ze er van zelf kwam. Op dien weg liepen ook gewoonlijk nog al veel menschen, houthakkers en jagers, en ruiters, je was dus nooit zoo heel alleen.</p>
+        <p>Nu was de grootmoeder van Roodkapje wat ziek en moeder had het erg druk, zoodat ze niet naar haar toe kon gaan. Zij had juist heerlijk wafels gebakken en zei tegen Roodkapje: "Kijk, grootmoeder heeft misschien wel trek in een paar wafels, ga eens hooren hoe het haar gaat, dan zal ik wat wafels en een fleschje wijn in een korfje pakken; dat zal haar plezier doen." Roodkapje zette haar kapje op en nam het mandje aan haar arm, want zij  was een klein, handig ding en zij was ook heel niet bang zoo alleen door het bosch te gaan. Maar nu had dat snoezige Roodkapje toch éen groot gebrek; ze was dikwijls ongehoorzaam, ze luisterde niet goed naar wat moeder haar zeide. Dan moest moeder natuurlijk op haar brommen en dan zei ze: "Och moesje, ik heb er heusch niet aan gedacht"; en dan deed ze weer zoo haar best om zoet te zijn, dat moeder dacht: och, mijn kindje meent het zoo kwaad niet, als ze wat grooter wordt zal ze het wel beter begrijpen en gehoorzaam worden.</p>
+        <p>Toen nu Roodkapje klaar stond om weg te gaan, zei Moeder: "Roodkapje, denk er aan, rechtuit loopen, altijd den grooten weg langs, geen zijpaadjes ingaan, hoor, dat mag je niet." Moeder wist wel, waarom ze dat zei. In het land waar Roodkapje woonde, waren er nog wolven in de bosschen en die stoute dieren probeerden soms de menschen op te eten. Voor den jager waren ze bang en ze kwamen ook nooit op den grooten weg, waar meer menschen liepen, maar dieper in 't bosch, daar liepen ze dikwijls, en als ze daar een kindje tegenkwamen zouden ze dat zeker opeten. Nu, Roodkapje beloofde dat ze doen zou wat moeder zei en ze ging het bosch in.</p>
+        <p>Maar toen ze een eind ver was, daar zag ze toch zulke prachtige bloemen staan. Ze stonden niet vlak aan den weg, maar verderop, in het kreupelhout. "Die bloemen kan ik wel even plukken", dacht Roodkapje, en ze vergat heelemaal, dat ze moeder beloofd had rechtuit te loopen en niet van den weg af te gaan. En toen ze de bloemen geplukt had zag ze verderop nog mooiere staan, en toen kwam ze op een smal paadje, waar boschbessen groeiden en ze dacht, dat ze langs dat paadje wel weer op den grooten weg zou komen; maar dat was niet zoo, ze ging al maar dieper het bosch in. De boomen stonden daar dicht opeen, het was er heerlijk koel en erg mooi, allerlei vogels sprongen er in de takken rond, en de eekhoorntjes gluurden nieuwsgierig naar Roodkapje. Die stapte dapper door en - daar kwam de wolf! Roodkapje schrikte, maar toch niet zoo heel erg, want ze had nog nooit een wolf gezien en ze dacht dat het een groote hond was; ze had spijt, dat Tyras niet naast haar liep, dan zou ze héélemaal niet bang zijn geweest, want Tyras, haar vader's jachthond, paste wel op, dat geen enkel beest haar kwaad deed, en deze hond zag er niet vriendelijk uit. Maar Tyras was met vader meegegaan; Roodkapje bleef staan en wist niet, of ze wel voorbij dat groote beest daar vóór haar zou durven. De wolf echter trok een heel vriendelijk gezicht; hij had daar pas, in de verte, houthakkers gezien, en, hoewel hij er veel trek had, durfde hij Roodkapje toch maar zoo op te eten. Wanneer ze ging schreeuwen, dan zouden de houthakkers komen en hem doodslaan. Hij wilde dus probeeren Roodkapje wat verder in het bosch te lokken. "Dag, mijn lieve kindje," zei hij heel beleefd, "waar ga je zoo naar toe met je mandje?"</p>
+        <p>Nu heb ik je nog vergeten te vertellen, dat dit allemaal héél, héél lang geleden gebeurd is, want de dieren konden toen nog spreken, en dat is héél lang geleden. Tegenwoordig zeggen de beesten niets meer, wat wel erg jammer is, vindt je ook niet?</p>
+        <p>Nu dan, Roodkapje vertelde aan den wolf, dat ze naar haar grootmoeder ging, die ziek was, om haar wafels en wijn te brengen. "O zoo," zei de wolf, "woont je grootmoeder in dat witte huisje met die groene luikjes?" "Ja", riep Roodkapje blij, "weet je ook hoe ik moet loopen om er te komen, want ik weet niet goed meer waar ik hier ben." "Zeker", zei de wolf, "ga dit smalle paadje maar langs, dan kom je van zelf weer op den grooten weg en dan ben je vlak bij grootmoeders's huisje." "Dank u wel," lachte Roodkapje en zij huppelde het paadje op, en waarlijk, ze had nog niet lang geloopen, of daar zag ze weer den grooten weg door het bosch en in de verte schemerde het roode dak van grootmoeders's huis door de boomen.</p>
+        <p>Maar wat had die slimme wolf gedaan? Die was gauw door het kreupelhout geloopen en stond al voor de deur van het witte huisje, toen Roodkapje nog op het smalle paadje liep en hier en daar nog wat bloemen plukte. Hij klopte op de deur. "Wie is daar?" riep grootmoeder uit bed. "Ik ben het, Roodkapje," antwoordde de wolf en hij maakte zijn grove stem zoo fijn mogelijk.</p>
+        <p>"Druk maar op de klink," riep de oude vrouw, "dan gaat de deur van zelf open." De wolf zette zijn poot op de klink, de deur sprong open; de wolf liep naar binnen en slikte met één grooten hap grootmoeder op. Toen trok hij haar kleeren aan, zette haar muts op en ging in het bed liggen.</p>
+        <p>Roodkapje had nu zooveel bloemen geplukt, dat zij er haast niet meer dragen kon, ze stapte wat harder door, en kwam bij grootmoeder's huisje. De deur stond open. "Dat is vreemd," dacht Roodkapje en zij ging naar binnen. "Dag grootmoeder!" riep Roodkapje en uit het bed hoorde zij een gemompel, maar het leek niets op grootmoeder's vriendelijke stem. Ze werd een beetje bang en wist zelf niet waarom. Grootmoeder lag in bed, maar ze zag er zoo vreemd uit. "Grootmoeder," zei Roodkapje, "ik breng je lekkere wafels en wijn;.... maar grootmoeder, wat heb je vandaag groote oogen!" "Dat is om je beter te kunnen zien, kindlief," zei de wolf. "Maar grootmoeder, wat heb je groote handen!" "Dat is om je beter te kunnen pakken, liefje," bromde de wolf, en hij likte zich den mond al, terwijl hij dacht wat lekker kluifje het zou zijn. "Maar, o, grootmoeder, wat heb je toch een grooten mond!" "Dat is om je beter te kunnen opeten!".... en daar rees de wolf op; Roodkapje begon te gillen en op datzelfde oogenblik sprong de deur open en een groote hond vloog den wolf naar de keel. Daar kwam ook de jager binnen, en met zijn jachtmes sneed hij de wolf open; en - 't is haast niet te geloven - daar kwam grootmoeder levend en wel te voorschijn; ze was alleen een beetje buiten adem geraak.</p>
+        <p>De jager was niemand anders dan Roodkapje's vader; die had van de houthakkers gehoord dat de wolf in de buurt was en hij had diens spoort gevolgd. Zoo was hij op de plek gekomen, waar de wolf met Roodkapje had staan praten. En toen was Tyras zoo aan het huilen en blaffen gegaan, dat de jager wel begreep, dat er iets gebeurd was. Tyras was het kreupelhout door gerend, recht op grootmoeder's huisje aan en de jager was geschrikt en was ook erg hard gaan loopen, want hij wist, dat Roodkapje vandaag naar grootmoeder zou gaan. Hij was net op tijd gekomen! Roodkapje huilde een beetje in haar vader's armen, half van schrik, half van berouw, want als ze gehoorzaam was geweest en op den grooten weg gebleven, had de wolf haar nooit gezien.</p>
+        <p>En ze beloofde vader nooit meer ongehoorzaam te zijn. Toen streelde ze den goeden Tyras, want door dat brave beest had vader toch gemerkt waar de wolf was heengegaan. Grootmoeder wilde, dat zij mee zou eten van de wafels en een beetje zou wijn drinken. Vader nam zijn dochtertje mee naar huis en toen moeder alles hoorde, schrikte ze eerst erg, maar was gauw weer blij, dat alles zoo goed was afgeloopen. Zóó blij, dat ze niet op Roodkapje bromde, maar Roodkapje wist al genoeg toen moeder haar bedroefd aankeek en zei "O kindje, als vader nu toch een oogenblik later gekomen was!" Roodkapje sprong op moeder's schoot en fluisterde haar iets in het oor. Wat zou ze haar wel gezegd hebben, denk je?</p>
+      </div>
+    </body>
+  </text>
+</TEI>

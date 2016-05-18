@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0147</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Omslagtitel</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Antwerpen Zuid-Nederlandse Uitgeverij Harderwijk Centrale Uitgeverij</publisher>
+            <date>1978</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>“Roodkapje,” zei moeder, “breng deze mand met wijn en koekjes naar grootmoeder, maar denk eraan: blijf op de weg en pas op voor de boze wolf.”</p>
+        <p>In het bos kwam Roodkapje de wolf tegen. “Neem een tuiltje bloemen mee voor grootmoeder,“ zei de wolf heel vriendelijk. Dat vond Roodkapje een goed idee.</p>
+        <p>Terwijl Roodkapje bloemen plukte, rende de wolf naar het huisje van grootmoeder. Hij at de arme vrouw op, zette haar bril op en ging in haar bed liggen.</p>
+        <p>Toen Roodkapje bij grootmoeder binnenstapte, zei ze verwonderd  “Grootmoeder, wat heeft U een grote mond !” “Daar kan ik je goed mee opeten,” zei de wolf en at ook Roodkapje op.</p>
+        <p>Toen kroop hij weer in bed en snurkte zo luid, dat de muren ervan trilden. Dat hoorde de jager, die net voorbijkwam. Hij begreep dadelijk wat er gebeurd was.</p>
+        <p>Hij sneed de buik van de wolf open en grootmoeder en Roodkapje sprongen te voorschijn. Even later zaten ze aan tafel en zij smulden van de lekkere dingen die Roodkapje meegebracht had.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

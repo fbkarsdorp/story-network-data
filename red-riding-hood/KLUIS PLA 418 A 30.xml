@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Geschiedenis van Roodkapje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0152</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Geschiedenis van Roodkapje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Neu Ruppin : Oehmigke en Riemschneider</publisher>
+            <date>2e helft 19e eeuw</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Geschiedenis van Roodkapje.</p>
+        <p>Hier op deze plaat, lieve kinderen, ziet gy het beeld van Roodkapje, eene vlytige vroome dochter van eenen welgestelden landman, die by alle menschen zeer bemind was.</p>
+        <p>Eens werd Roodkapje door hare moeder met een kopje boter en een koek naar hare kranke grootmoeder gezonden, die in een hut in het woud woonde, doch zy waarschuwde haar zeer voor den boozen wolf.</p>
+        <p>Onderweg ziet zy schoone bloemen staan, zoodat zy kon nalaten een struikje voor de zieke grootmoeder te plukken en hierdoor verdwaalde zy.</p>
+        <p>Naauwelyks had Roodkapje den boozen wolf gezien of hy was dadelyk by haar en vraagde van waar zy kwam, waarhenen zy ging, waar grootmoeder woonde, wat zy haar bragt en zoo voort.</p>
+        <p>Toen hy haar genoeg had uitgevraagd, wilde hy haar grypen en verscheuren, daar kwamen evenwel gelukkig juist menschen dien kant heen, die hout wilden vellen, en deze verjoegen den wolf.</p>
+        <p>De wolf ging haastig naar de hut van de grootmoeder, door Roodkapje zoo naauwkeurig beschreven, daar klopt hy aan en zeide met veranderde stem: "Roodkapje is daar."</p>
+        <p>Grootmoeder verheugde zich, dat hare lieveling daar was en opende spoedig de deur, tegelyk springt de booze wolf op haar toe, verscheurd de oude vrouw en eet haar op.</p>
+        <p>Om Roodkapje te foppen trekt hy nu de kleederen van grootmoeder aan, zet ook hare muts op, en gaat in bed liggen, als of hy ziek was.</p>
+        <p>Na eenige oogenblikken komt Roodkapje aan grootmoeders woning, klopt aan de deur en roept vrolyk: "Doe open, lieve grootmoeder, ik ben hier en heb vele heerlyke dingen medegebragt."</p>
+        <p>Doch hoe schrikte zy, toen zy aan het bed komende in plaats van hare lieve grootmoeder den boozen wolf zag liggen, die haar gretig aanzag.</p>
+        <p>Reeds wilde de wolf op Roodkapje toe springen, toen een jager op Roodkapjes geschreeuw in de hut drong en den bloeddorstigen wolf doodde.</p>
+        <p>Toen nam de jager Roodkapje aan de hand, bragt haar by hare moeder terug, deze verheugde zich zeer en dankte den jager duizenmaal, haar dochtertje uit de klaauwen van den wolf gered te hebben.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

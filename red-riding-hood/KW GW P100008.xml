@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De betoverende wereld van de sprookjes</title>
+        <author>Eric Kincaid; 1931-</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0242</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Omslagtitel Bevat De prinses op de erwt ; De schone slaapster ; Het dappere tinnen soldaatje ; Jaap en de bonenstaak ; Assepoester ; Duimelijntje ; Roodkapje ; De kleine zeemeermin ; Raponsje ; Sneeuwwitje ; Het lelijke jonge eendje ; De nieuwe kleren van de keizer ; Het meisje met de zwavelstokken ; Goudhaartje en de drie beren</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>De betoverende wereld van de sprookjes</title>
+            <author>Eric Kincaid; 1931-</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l.]. KP Kinderboeken</publisher>
+            <date>[2007]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Iedere week liep Roodkapje één maal door het bos, om een mandje met eten aan haar lieve oude grootmoeder te brengen. De hongerige wolf likte zijn lippen af, toen hij haar zag. Hij viel haar niet aan, want hij wist, dat de houthakker vlakbij aan het werk was en Roodkapje te hulp zou komen. De wolf dacht, dat hij een beter idee had. Hij zou snel vooruit lopen naar oma's huisje, haar bang maken en dan gaan liggen wachten, tot Roodkapje zou komen. Grootmoeder rende gillend weg, toen ze de wolf zag. Gauw verkleedde de wolf zich met oma's nachthemd en slaapmuts. Hij sprong in bed om op Roodkapje te wachten.</p>
+        <p>"Kom binnen, lieve schat!" zei de wolf met een krakende stem, toen hij Roodkapje op de deur hoorde kloppen. "Grootmoeder, wat heeft u een rare stem!" zei Roodkapje. "En wat heeft u een grote oren!" "Dat is om je beter te kunnen horen!" zei de wolf. "En wat heeft u grote tanden!" zei Roodkapje. "Dat is om je beter te kunnen opeten, lieve kind!" gromde de wolf terwijl hij opsprong en Roodkapje probeerde beet te pakken. "Help! Help!" riep Roodkapje. Ze rende weg precies in de armen van haar grootmoeder, die de houthakker was gaan halen. De houthakker maakte de wolf zó bang, dat deze wegrende en nooit meer is teruggekomen.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0380</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Omslagtitel</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam Mulder</publisher>
+            <date>cop. 1983</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Roodkapje was een aardig meisje. Toen ze hoorde, dat haar grootmoeder ziek was besloot ze haar wat lekkers te brengen.</p>
+        <p>Onderweg ontmoette ze de boze wolf. "Waar ga je heen Roodkapje?" vroeg hij, met een valse grijns. "Naar mijn grootmoeder, die in het bos woont", antwoordde Roodkapje. "Zij is ziek en ik ga haar wat lekkers brengen, zodat ze gauw beter wordt".</p>
+        <p>De wolf liep vlug naar grootmoeders huisje. Hij ging naar binnen, pakte grootmoeder beet en stopte haar in een kast.</p>
+        <p>Toen Roodkapje binnenkwam zei ze: "Grootmoeder, wat hebt u grote oren". "Dan kan ik je beter horen", zei de wolf, die grootmoeders kleren had aangetrokken. "En wat hebt u een grote ogen", zei Roodkapje. "Dan kan ik je beter zien", gromde de wolf. "En wat hebt u grote tanden", stamelde Roodkapje. "Dan kan ik je beter opeten", brulde de wolf en sprong uit bed. Roodkapje holde weg.</p>
+        <p>Ze had veel vriendjes in het bos. Toen die het lawaai hoorden kwamen ze aanrennen, lieten de wolf struikelen en hielden hem gevangen tot Roodkapje's vader kwam. Die joeg de wolf het bos uit.</p>
+        <p>Grootmoeder was heel blij toen Roodkapje de kastdeur opende en haar bevrijdde. Na haar grote avontuur was Roodkapje doodmoe. Ze viel in slaap op grootmoeders schoot. Later at grootmoeder het eten op, dat Roodkapje had meegebracht en ze werd gauw weer beter.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

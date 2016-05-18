@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Allerlei sprookjes Doornroosje Hans en Grietje Roodkapje Assepoester</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0247</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Bevat Doornroosje ; Hans en Grietje ; Roodkapje ; Asschepoester Op voorkant 951 Rood kader op achterkant met ruimte voor reclame Datering oude spelling, jaartal geschat</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Allerlei sprookjes Doornroosje Hans en Grietje Roodkapje Assepoester</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Nederland] [ uitgever niet vastgesteld ]</publisher>
+            <date>[tussen 1900 en 1930]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>In een dorp in een ver rijk leefde er eens een arme boerenvrouw, die een dochtertje had. Omdat dat dochtertje steeds in het rood gekleed ging, had zij zich den naam verworven van 'Roodkapje'. Roodkapje had een Grootmoeder, waar zij veel van hield en die Grootmoeder was nu ernstig ziek. Elken dag zond haar moeder haar weg, om eten en lekkernijen naar haar zieke Grootmoeder te brengen.</p>
+        <p>Op een middag ging Roodkapje weer op stap, om naar haar Grootmoeder te gaan en haar moeder waarschuwde haar, toch vooral goed uit te kijken, want een booze wolf maakte het bosch erg onveilig.</p>
+        <p>- Roodkapje beloofde dat en was spoedig in 't bosch. Ze stapte flink voort, maar hoorde plotseling een gebrul. Opkijkend zag ze den wolf. Ze wilde wegloopen, maar de wolf zei: "Vrees niet, Roodkapje, ik ben je vriend. Zeg me maar, waar je naar toe gaat." "Ik moet naar mijn Grootmoeder lekkernijen en eten brengen", antwoordde Roodkapje, "mijn Grootmoeder is ernstig ziek." "Maar heb je dan geen bloemen bij je?" vroeg de wolf. "Je kan toch niet op ziekenbezoek gaan zonder bloemen." "Daar heb je gelijk aan", zei Roodkapje, "ga jij maar vast met het lekkers naar Grootmoeder, dan pluk ik in dien tijd bloemen. Als je er bent, roep je maar: Roodkapje is er en dan gaat de deur vanzelf open."</p>
+        <p>De wolf was erg sluw en ging heimelijk lachend naar Grootmoeder. Daar aangekomen riep hij: "Roodkapje is er" en jawel ... de deur ging open en de wolf was binnen. Met één sprong was hij bij het bed en verslond Grootmoeder. Daarna ging hij met Grootmoeders kleeren in bed liggen. Even later was Roodkapje aan de deur en kwam toen binnen. Voordat zij van schrik bekomen was, had de wolf haar al opgegeten. - Daarna ging de wolf weer liggen en viel in slaap.</p>
+        <p>Even later kwam de jager voorbij. Hij hoorde den wolf snurken en ging stil naar binnen. Met een pistoolschot doodde hij hem. Toen hoorde hij kreunen in de buik van het dier. Hij sneed dien open en daar kwamen Roodkapje en haar Grootmoeder naar buiten. - Zij vielen den jager van blijdschap om den hals en vertelden aan allen, die het maar hooren wilden, de geschiedenis van Roodkapje.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0076</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Aartselaar ; [Oosterhout] Deltas</publisher>
+            <date>cop. 1994</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>De oma van Roodkapje was ziek. Roodkapje legde koekjes in een mand en vertrok naar haar zieke oma.</p>
+        <p>Moeder: Vooral niet treuzelen, Roodkapje. Recht naar oma toe!
+Roodkapje: Beloofd, mama.
+Moeder: Wens oma een spoedig herstel. Tot straks.</p>
+        <p>Roodkapje stapte flink door. Na een poosje kwam de wolf op haar pad.</p>
+        <p>Wolf: Dag, hoe heet je en waar ga je heen?
+Roodkapje: Ik heet Roodkapje en ik ga naar mijn zieke oma.
+Wolf: Pluk een bos bloemen voor haar. Ze zal blij zijn.</p>
+        <p>Moeder had gezegd niet te treuzelen, maar oma was dol op bloemen. Roodkapje plukte een hele bos.</p>
+        <p>Wolf: En waar woont je oma dan wel?
+Roodkapje: Je komt er zo als je het pad volgt.
+Wolf: Ik moet opstappen, Roodkapje. Het ga je goed. Daag!</p>
+        <p>De wolf rende naar het huis van de zieke oma. Een oma lustte hij wel en dat malse Roodkapje... Mmm, heerlijk.</p>
+        <p>Wolf: Oma, ik ben het, Roodkapje.
+Oma: Trek maar aan het touwtje. De deur gaat vanzelf open.
+Wolf: Ik kom eraan, lieve oma.</p>
+        <p>De wolf holde het huisje binnen, wipte op oma's bed en schrokte haar in een hap op.</p>
+        <p>Oma: Help! Help! Auw! Weg, vuil dier.
+Wolf: En nu nog een zalig toetje: Roodkapje.</p>
+        <p>Roodkapje: Oma, ben je daar?</p>
+        <p>De wolf trok vlug een nachtpon aan. Hij zette een mutsje op en wipte in oma's bed.</p>
+        <p>Roodkapje: Maar oma, wat zie jij er gek uit.
+Wolf: Ik ben ook ziek, schat. Kom dichterbij voor een zoen.
+Roodkapje: Maar jij bent mijn oma helemaal niet! Jij bent de wolf!</p>
+        <p>Roodkapje vluchtte weg. De wolf met zijn enorme buik zette de achtervolging in. Toen kwam de jager langs.</p>
+        <p>Roodkapje: Help, jager, help! De wolf heeft mijn oma opgegeten.
+Jager: Daar, lelijk dier. Een kogel voor je kop. Raak!
+Roodkapje: Vlug, oma zit nog in zijn buik.</p>
+        <p>De jager pakte zijn mes en sneed de buik van de wolf open. Oma was gelukkig ongedeerd.</p>
+        <p>Oma: Lieve jager, je hebt mijn leven gered.
+Roodkapje: Laten we dat vieren. Ik heb een mand vol lekkers mee.
+Jager: Goed idee, Roodkapje. Kom, we vieren binnen verder.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

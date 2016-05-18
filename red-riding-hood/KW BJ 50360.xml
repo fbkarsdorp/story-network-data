@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Okki winterboek</title>
+        <author>Marja Baeten</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0192</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Met Roodkapje en de wolf (spel)</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Okki winterboek</title>
+            <author>Marja Baeten</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Den Bosch Malmberg</publisher>
+            <date>cop. 1982</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje en de wolf</p>
+        <p>Een spelletje voor met z'n tweeën. Eén is Roodkapje en de ander is de wolf.
+Om de beurt met een dobbelsteen en evenveel hokjes vooruit gaan als je gooit.
+Roodkapje moet eerst naar het huisje van oma (rechts boven) en dan naar huis. Als ze daar is, heeft ze gewonnen.
+De wolf moet proberen om Roodkapje te vangen. Dat kan op 2 manieren: zo lang achter haar aanzitten, dat ze niet meer verder kan. Of zó gooien, dat ie op hetzelfde hokje komt als Roodkapje. Als dat lukt, heeft de wolf gewonnen.
+Je mag allebei vooruit of achteruit zetten. Maar Roodkapje mag nooit langs de wolf. Dan moet ze maar een andere weg pakken.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

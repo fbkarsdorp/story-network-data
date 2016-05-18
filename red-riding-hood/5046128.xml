@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Richard's Scarry's mooiste sprookjesboek</title>
+        <author>Richard Macclure Scarry; 1919-1994</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0073</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Vert. van Richard Scarry's animal nursery tales. - New York Golden Press, 1975</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Richard's Scarry's mooiste sprookjesboek</title>
+            <author>Richard Macclure Scarry; 1919-1994</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Aartselaar ; [Harderwijk] Deltas</publisher>
+            <date>cop. 1992</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Er was eens een klein meisje. Zij werd Roodkapje genoemd, omdat zij altijd een rood manteltje met een rood mutsje droeg. Roodkapje woonde met haar moeder in een klein huisje aan de rand van een groot, donker bos.</p>
+        <p>Op een dag zei haar moeder tegen haar : "Je grootmoeder voelt zich niet goed. Ik wil, dat je haar wat lekkers brengt." Zij gaf Roodkapje een mand met koekjes en taartjes en zei : "Blijf niet te lang treuzelen onderweg. Je moet voor donker weer thuis zijn." Roodkapje deed haar rode manteltje met het mutsje aan en ging op weg door het bos om haar grootmoeder te bezoeken.</p>
+        <p>Terwijl zij over het pad huppelde, stapte er plotseling een wolf achter een boom vandaan. Roodkapje was zo bang, dat ze bijna haar mandje liet vallen. Maar de wolf glimlachte en zei, terwijl hij zijn barse stem zo vriendelijk mogelijk liet klinken : "Waar ga je naar toe, juffertje?” "Ik ga iets lekkers naar mijn zieke grootmoeder brengen," antwoordde Roodkapje. "En waar woont je grootmoeder?” vroeg de wolf beleefd. "In een klein wit huisje midden in het bos," antwoordde Roodkapje. "O ja," zei de wolf, "ik ken dat huisje." "Ik hoop, dat je grootmoeder zich gauw weer beter voelt," riep hij nog, terwijl hij achter de bomen wegsloop. Roodkapje vervolgde haar weg.</p>
+        <p>Toen Roodkapje uit het gezicht verdwenen was, nam de sluwe wolf een kortere weg en rende zo snel hij kon naar grootmoeders huisje. Hij wilde er het eerst zijn. Buiten adem kwam hij bij grootmoeders huisje aan en klopte op de deur. "Wie is daar ?" riep grootmoeder. "Ik ben het, Roodkapje," zei de wolf, terwijl hij probeerde zijn harde stem zacht te laten klinken. "Doe de klink maar omhoog en kom binnen, liefje," zei grootmoeder. En de wolf kwam binnen ! Hij sprong op grootmoeder af en verslond haar met één hap ! Toen deed de slimmerd een nachtjapon aan en zette een slaapmuts op, en klom in bed om op Roodkapje te wachten. "Zij denkt natuurlijk, dat ik haar grootmoeder ben," grinnikte hij in zichzelf.</p>
+        <p>Een ogenblik later werd er op de deur geklopt. "Wie is daar ?" vroeg de wolf, terwijl hij de stem van grootmoeder probeerde na te doen. "Ik ben het, Roodkapje," antwoordde het kleine meisje. "Doe de klink maar omhoog en kom maar binnen, liefje," zei de wolf. Roodkapje kwam binnen en zette haar mandje neer. "Kom eens wat dichterbij, liefje," zei de wolf. “O grootmoeder, wat heeft u een grote oren !" zei Roodkapje. "Dan kan ik je beter horen, liefje," zei de wolf, terwijl hij zijn stem zoveel mogelijk op die van grootmoeder deed lijken. "En grootmoeder, wat heeft u een grote ogen !" zei het kleine meisje. "Dan kan ik je beter zien, liefje," zei de wolf. "En grootmoeder," zei Roodkapje, "wat heeft u een grote tanden !" "Dan kan ik je beter opeten, liefje!’ brulde de boze wolf. Toen sprong hij uit bed en probeerde Roodkapje te grijpen.</p>
+        <p>Maar Roodkapje was hem te snel af. Zij rende de deur uit en riep om hulp. Een sterke houthakker, die vlakbij was, rende achter de wolf aan en sloeg hem op zijn kop. De wolf viel dood neer. Toen zag de houthakker, dat er iets in de wolf bewoog. Hij sneed de wolf open en daar sprong grootmoeder eruit. Grootmoeder was ongedeerd, maar zij was wel een beetje overstuur door wat er gebeurd was. Gelukkig dat de wolf zo gulzig was geweest, dat hij haar in één hap verslonden had. De houthakker droeg grootmoeder weer terug naar bed. Toen namen zij allemaal iets lekkers uit het mandje van Roodkapje.</p>
+        <p>Grootmoeder bedankte de houthakker, omdat hij hun leven had gered en kuste Roodkapje vaarwel. Toen bracht de aardige houthakker Roodkapje thuis, net op tijd voor het avondeten.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

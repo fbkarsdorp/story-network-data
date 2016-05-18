@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Tante Marie</author>
+        <author>Charles Perrault; 1628-1703</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0322</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Op voorplat A-3 Zwarte illustraties en illustraties met steunkleur rose Ruimte voor reclame op achterplat Op de voorkant een afbeelding in vierkleurendruk van een meisje (zonder rood kapje) dat probeert een vlinder te vangen Datering oude spelling, jaartal geschat</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Tante Marie</author>
+            <author>Charles Perrault; 1628-1703</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l.] [ s.n. ]</publisher>
+            <date>[192-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Haar moeke had haar aangeraden: 
+"Kind, loop nu niet langs vreemde paden; 
+Speel niet, doch wandel steeds recht door, 
+En leen aan geen gepraat het oor".</p>
+        <p>Roodkapje bracht naar opoe eten,
+Dra was zij moeders raad vergeten;
+Toen, sprak een wolf haar listig aan:
+"Vertel eens, waar ga je heen wilt gaan"?</p>
+        <p>Van 't bloemen plukken, Vlinders vangen,
+Kreeg 't lieve kind hoogroode wangen.
+Haar voetjes tripten op het mos;
+Zoo bleef zij uren lang in 't bosch.</p>
+        <p>En haastig op zijn eigen houtje,
+Rende de wolf naar 't zieke vrouwtje;
+Hij dacht: "Ik ben er vóór Roodkapje;
+Allicht snap ik een lekker hapje".</p>
+        <p>Toen grootje driemaal hoorde kloppen,
+Dacht zij: "Roodkapje wil me foppen."
+"Trek aan het touwtje"! riep ze luid,
+"Dan gaat de deur wel open, guit"!</p>
+        <p>Toen heeft de wolf met sterke pooten,
+Opeens de huisdeur los gestooten.
+Snel, at hij 't arme vrouwtje op;
+En, zette heur nachtmuts op zijn kop.</p>
+        <p>Toen eindelijk het kind zich meldde,
+En zacht aan opoe's voordeur schelde,
+Riep luid de wolf met zwak geluid:
+"Kom binnen, 'k kan mijn bed niet uit!"</p>
+        <p>En met een vroolijk, lachend snuitje,
+Stapte naar binnen, 't aardig guitje.
+Ze schrikte, toen ze eensklaps zag,
+Het hoofd dat op de kussens lag.</p>
+        <p>Ze sprak: "Wat hebt U scherpe tanden!
+En klauwen in de plaats van handen"!
+De wolf sprong op, en, in één hapje
+Verzwolg hij eveneens Roodkapje.</p>
+        <p>Thans, zit het ondier lui en traag,
+Met de familie in zijn maag.
+Zoo gaat het, als een kind niet luistert,
+Wat moeke haar in 't oortje fluistert.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

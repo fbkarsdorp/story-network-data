@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0373</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Op de voorkant 956. Op de achterkant ruimte voor reclame. Lichtblauw kader op voor- en achterkant omslag Datering oude spelling, geschat</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l. s.n. ]</publisher>
+            <date>[191-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Er was een een allerliefst meisje, dat van haar Grootmoeder een rood mutsje had gekregen en daarom Roodkapje werd genoemd.</p>
+        <p>Eens zeide haar moeder tegen haar. Neem deze koek en wyn en breng het naar zieke Grootmoeder in het woud. Ik zal alles goed doen, zeide Roodkapje en wandelde vroolyk het dorp uit, daar ontmoette zy een groote wolf. Deze vroeg haar waar zy heen ging.</p>
+        <p>Toen hy hoorde, dat zy naar haar Grootmoeder ging, dacht hy, dat is een goed hapje voor my, en liep door.</p>
+        <p>Terwyl Roodkapje naar eenige bloemen voor Grootmoeder zocht, liep de wolf naar Grootmoeder en klopte aan. "Trek maar aan het touw" riep zy. "Ik ben ziek en kan niet opstaan".</p>
+        <p>De wolf ging naar binnen, ging naar het bed, en trok de gordynen dicht.</p>
+        <p>Nu kwam Roodkapje aan en verwonderde zich over Grootmoeders groote ogen en langen bek. Toen sprong de wolf uit bed bed at Roodkapje op en legde zich weer te bed. Het snurken werd echter door een voorbykomende jager gehoord, deze kwam naar binnen en zag de slapende wolf liggen. Nu wilde hy zyn geweer aanleggen, maar dacht misschien heeft hy Grootmoeder wel opgegeten, nam daarom zyn mes en sneed zyn buik open.</p>
+        <p>En zie daar sprongen Roodkapje en Grootmoeder gezond en vrolyk eruit.</p>
+        <p>Roodkapje haalde nu groote steenen. Daarmede vulde zy den buik van den wolf en toen hy weg wilde loopen, viel hy door al die steenen, op den grond. Toen kwamen zy alledrie vroolyk, de jager nam de huid van den wolf en Grootmoeder nam de koek. Roodkapje ging naar huis en dacht: "Ik zal niet weer van den weg het woud ingaan wanneer Moeder het verboden heeft.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

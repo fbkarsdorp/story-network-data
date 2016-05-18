@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De groote poppen vergadering te Utrecht</title>
+        <author>Fredericus Hendrikus van Leent; 1830-1912</author>
+        <author>Joseph Ludovic Scheidel; 1848-1895</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0191</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Litho's gedrukt bij Emrik &amp; Binger, Haarlem Bevat een gedrukte opdracht 'Opgedragen aan het Dames Comité der Poppententoonstelling en Fancy-fair te Utrecht, op 9, 10 en 11 april 1889 gehouden, ten voordeele van het Kinderziekenhuis aldaar door den uitgever' Op achterplat Poppen tentoonstelling april 1889, Finis J. Scheidel fit Titelpagina en voorplat bevatten reclame voor Van Houten's cacao De keerzijde der illustraties is onbedrukt</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>De groote poppen vergadering te Utrecht</title>
+            <author>Fredericus Hendrikus van Leent; 1830-1912</author>
+            <author>Joseph Ludovic Scheidel; 1848-1895</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Utrecht J.G. Broese</publisher>
+            <date>[1889]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje.</p>
+        <p>Het jonge Volkje, blij gestemd,
+Aanschouwen nimmer moê,
+Brengt nu een ander sprookjesbeeld
+Een groet en handkus toe.</p>
+        <p>Daar staat Roodkapje met de wolf,
+Zij, dartel, vriendlijk kind,
+Dat aan haar Grootmoê wafels bracht,
+En bloem en vlinders mint.</p>
+        <p>Zij, evenbeeld der reine jeugd,
+Dat kwaad noch onheil denkt;
+Maar onbezorgd haar plicht vergeet,
+Waar spel en vreugd haar wenkt.</p>
+        <p>Ook oudren wekt die kleene groep
+Een lang vervlogen tijd,
+Van levenslente en levensvreugd,
+Der onschuld toegewijd.</p>
+        <p>Toen zij ook aan de moederschoot,
+In bonte rij geschaard,
+De schoone sprookjes hooren mocht,
+Door 't moederhart bewaard.</p>
+        <p>Roodkapje, met uw golvend haar,
+O, lieflijk sprookjeskind!
+Gij leeft in jonge harten voort,
+Getroeteld en bemind.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

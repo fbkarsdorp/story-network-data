@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Mireille Vroege</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0046</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Mireille Vroege</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Chevron Hemma</publisher>
+            <date>[1999]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>- Wat ren je toch, lief kind! riep een vriendelijke wolf tegen een meisje met een rode muts op, dat iedereen altijd Roodkapje noemde.</p>
+        <p>- Ik ga naar mijn grootmoeder, antwoordde het meisje. Ze woont aan de andere kant van het bos. Ik ga haar wafels en een potje boter brengen.</p>
+        <p>De boze wolf wees Roodkapje een veel langere weg naar het huisje van haar grootmoeder, en nam toen zelf de kortere weg.</p>
+        <p>Toen hij bij het huisje aankwam, trok hij aan het touwtje waardoor de deur openging. Hij at grootmoeder met huid en haar op.</p>
+        <p>- Ik doe haar kleren aan en ga op Roodkapje liggen wachten. Zo sla ik twee vliegen in één klap! zei hij bij zichzelf.</p>
+        <p>- Dag, grootmoeder, zei Roodkapje toen ze het huisje binnenkwam. O, wat hebt u grote ogen!</p>
+        <p>- Dat is om je beter te kunnen zien, mijn kind, antwoordde de onechte grootmoeder.</p>
+        <p>- En wat u een grote oren!</p>
+        <p>- Dat is om je beter te kunnen horen, zei de wolf.</p>
+        <p>- En die grote tanden, waar zijn die dan voor?</p>
+        <p>- Dat is om je beter te kunnen opeten! riep de wolf en hij sprong op het meisje af.</p>
+        <p>Gelukkig wist Roodkapje nog net door de schoorsteen te ontsnappen... Roodkapje rende en rende, tot ze niet meer kon. De wolf had zijn buik vol van grootmoeder, dus die liep niet zo snel meer. Roodkapje kwam een jager tegen.</p>
+        <p>- Kom snel! Een boze wolf heeft mijn grootmoeder opgegeten!</p>
+        <p>De jager had het gemene beest al snel te pakken.</p>
+        <p>- Daar heb ik je, lelijkerd! zei hij. Hij pakte zijn mes en sneed de buik van de wolf open.</p>
+        <p>Grootmoeder kroop naar buiten. Ze was een beetje verkreukeld, maar verder mankeerde ze niets. De jager vulde de buik van de wolf met grote stenen. Het dier vluchtte het bos in. Niemand heeft hem ooit nog gezien.</p>
+        <p>- Neemt u toch een wafel, zei grootmoeder tegen de jager. Dat hebt u wel verdiend!</p>
+        <p>- Dat kan ik niet weigeren, mevrouwtje, zei de brave man. Een wolf opensnijden, daar krijg je honger van!</p>
+        <p>- En Jij, Roodkapje: volgende keer niet meer door het bos dwalen en nooit meer naar vreemden luisteren!</p>
+        <p>- Dat beloof ik, grootmoeder!</p>
+      </div>
+    </body>
+  </text>
+</TEI>

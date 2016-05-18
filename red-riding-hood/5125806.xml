@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje 3D boekje</title>
+        <author>Caroline Bijvoet</author>
+        <author>Marie-Aline Bawin; 1960-</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0082</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje 3D boekje</title>
+            <author>Caroline Bijvoet</author>
+            <author>Marie-Aline Bawin; 1960-</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Chevron Hemma</publisher>
+            <date>1998</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Kijk, daar loopt Roodkapje door het bos. Ze gaat haar zieke grootmoeder opzoeken.</p>
+        <p>- Waar ga jij naartoe? vraagt de wolf nieuwsgierig.
+- Dat kleine meisje lust ik wel, denkt hij likkebaardend. Als ik nu vertrek, ben ik eerder bij grootmoeder dan zij...</p>
+        <p>De wolf stormt zonder te kloppen naar binnen en... In één hap slokt hij grootmoeder op en gaat dan netjes in bed liggen. Nu komt Roodkapje er vast zó aan...</p>
+        <p>- Grootmoeder? roept Roodkapje 
+- Kom maar boven, ik lig in bed! 
+- O, wat ziet u er slecht uit!
+- Dat komt ...omdat ik zo'n honger heb! en opeens springt de wolf uit het ledikant…</p>
+        <p>En nu wegwezen! grinnikt hij voldaan. Maar op dat moment komt er een houthakker langs, die de dikke buik van de wolf opensnijdt en Roodkapje en grootmoeder bevrijdt!</p>
+        <p>Roodkapje en grootmoeder vallen elkaar in de armen van opluchting.</p>
+        <p>- Wilt u misschien een wafeltje? zegt grootmoeder, om de goede man te bedanken.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

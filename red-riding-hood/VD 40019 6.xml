@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mijn pop-op boek</title>
+        <author>Tadasu Izawa; 1909-</author>
+        <author>Shigemi Hijikata; 1915-</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0436</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Mijn pop-op boek</title>
+            <author>Tadasu Izawa; 1909-</author>
+            <author>Shigemi Hijikata; 1915-</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Antwerpen Zuid-Nederlandse Uitgeverij Harderwijk Centrale Uitgeverij</publisher>
+            <date>1974</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Er was eens een meisje dat altijd een rood manteltje met een rood kapje droeg. Daarom heette ze Roodkapje.</p>
+        <p>Op een dag zei haar moeder: “Breng dit mandje met fruit en koekjes even naar grootmoeder, want ze is ziek.” Roodkapje trok haar rood manteltje met het rood kapje aan en ging op weg.</p>
+        <p>Ze was net in het bos toen ze een grote wolf tegenkwam. “Goede morgen, lief meisje”, zei de wolf. “Waar ga jij met dat fruit en die koekjes naartoe.” “Ik ga naar grootmoeder, aan de andere kant van het bos,” antwoordde Roodkapje.</p>
+        <p>De wolf wist de weg naar het huisje van grootmoeder. Hij was er dan ook vlugger dan Roodkapje. Hij gluurde door het raam en zag grootmoeder zitten. Maar grootmoeder had de wolf gezien en ze verborg zich vlug in de kleerkast.</p>
+        <p>De wolf kwam binnen. Hij trok woest aan de deur van de kleerkast, maar hij kon ze niet open krijgen. Toen ging hij in grootmoeders bed liggen en zette haar slaapmuts op.</p>
+        <p>Even later kwam Roodkapje binnen en liep naar het bed, “Wat heb jij grote ogen, grootmoe!” riep ze. “Dat is om je beter te kunnen zien, liefje,” zei de wolf en hij bootste grootmoeders stem na. “En wat heb jij grote oren, grootmoe !” zei Roodkapje. “Dat is om je beter te horen, liefje,” zei de wolf. “En wat heb jij toch lange, scherpe tanden,” zei Roodkapje. Toen sprong de wolf uit het bed en riep: “Dat is om je lekker op te eten, liefje!”</p>
+        <p>Gelukkig kwam er toen net een jager langs die het bange geschreeuw van Roodkapje had gehoord. Hij duwde de deur open en kwam binnen. Toen de wolf het geweer zag, werd hij vreselijk bang. Schreeuwend liep hij het huis uit, terug naar het bos.</p>
+        <p>Grootmoeder kon nu wel uit de kleerkast komen. Ze omhelsde Roodkapje en bedankte de jager die hen had gered. Ze waren alle drie zo blij, dat ze feest vierden met een heerlijke taart, koekjes en snoepjes.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

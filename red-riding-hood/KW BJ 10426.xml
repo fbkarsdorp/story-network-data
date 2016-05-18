@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje en de wolf</title>
+        <author>Carlos Busquets</author>
+        <author>Christine Wensch-Van Sompel</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0177</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje en de wolf</title>
+            <author>Carlos Busquets</author>
+            <author>Christine Wensch-Van Sompel</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Chevron] Hemma</publisher>
+            <date>[1984]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Op een zonnige lentedag wandelt Roodkapje door het bos. "Waar ga jij zo vrolijk naar toe?" vraagt de boze wolf nieuwsgierig. "Ik ga naar grootmoeder," vertelt het meisje vriendelijk, "ik breng haar koekjes die mijn moeke heeft gebakken." "Wat ben jij een flink meisje," zegt de wolf vals en rent naar het huisje van grootmoeder.</p>
+        <p>"Tok, tok" "Wie is daar," vraagt grootmoeder, "ben jij het Roodkapje?" "Neen, ik ben het, de boze wolf. Ik zet je slaapmuts op en kruip in je bed," gromt de wolf gevaarlijk.</p>
+        <p>"Tok, tok" "Dag, grootmoeder," zegt Roodkapje opgewekt. "Maar grootmoe wat heb jij grote oren!" roept het meisje verschrikt. "Dat is om je beter te kunnen horen, Roodkapje." "Maar grootmoe wat heb jij grote tanden!" "Dat is om je beter te kunnen oppeuzelen..."</p>
+        <p>In een wip springt de wolf uit bed en wil Roodkapje grijpen. "Help, help!" roept ze luid. "Grgr, ik zal je wel krijgen," gromt de wolf. De jager is erg boos op de stoute wolf. "Nu is het genoeg geweest, wreed dier," zegt hij en hij schiet de wolf dood. "Wel bedankt, mijnheer de jager, dat was op het nippertje," hijgt Roodkapje.</p>
+        <p>"Maar waar is grootmoeder, zou de wolf haar opgegeten hebben?" Maar daar komt grootmoeder al aangelopen. Ze omhelzen elkaar en iedereen is blij.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

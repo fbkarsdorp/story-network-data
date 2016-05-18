@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Robyn Bryant</author>
+        <author>Éric Plouffe</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0024</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Robyn Bryant</author>
+            <author>Éric Plouffe</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Lisse R &amp; B</publisher>
+            <date>cop. 2001</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Er was eens een klein meisje dat altijd een rood hoedje droeg. Daarom werd zij Roodkapje genoemd.</p>
+        <p>Op een dag vroeg moeder aan Roodkapje om een mandje met lekkernijen naar grootmoeder, die ziek in bed lag, te brengen. "Ga rechtstreeks naar grootmoeders huis, Roodkapje!" zei moeder. "Ga niet van het pad af. De bossen zijn erg gevaarlijk. En praat niet met vreemden!" "Maak je geen zorgen," zei Roodkapje.</p>
+        <p>Op het bospad kwam Roodkapje een houthakker tegen. “Waar ga je naar toe, Roodkapje?" vroeg hij. “Ik breng wat lekkers naar grootmoeder omdat zij ziek is," zei Roodkapje. "Dat is erg lief van je," zei de houthakker. "Maar vergeet niet, de bossen kunnen gevaarlijk zijn. Ga niet van het pad af. En praat niet met vreemden!" “Maak je geen zorgen," zei Roodkapje.</p>
+        <p>Even later, kwam Roodkapje een grote grijze wolf tegen. "Waar ga je naartoe, Roodkapje?" vroeg hij. "Ik mag niet met vreemden praten," zei Roodkapje. "Zou ik je naam weten als ik een vreemde was?" zei de slimme wolf. "Ik denk het niet," zei Roodkapje. Zij wist namelijk niet dat de wolf haar had gehoord toen zij met de houthakker praatte. Dus vertelde zij aan de wolf waar zij naartoe ging.</p>
+        <p>De wolf rende naar het huisje van grootmoeder en sloot haar op in de kast. Daarna trok hij haar nachtpon en nachtmuts aan en ging in het bed liggen.</p>
+        <p>Kort daarna kwam Roodkapje aan bij het huisje. Zij vond grootmoeder er vreemd uitzien. "Wat heeft u grote ogen, grootmoeder!" zei ze. "Dat is om je beter te kunnen zien, meisje," antwoordde de sluwe wolf met een verdraaide stem. "En wat heeft u grote tanden," zei Roodkapje. "Dat is om je beter op te kunnen eten!" zei de wolf en sprong uit het bed. Arme Roodkapje! Zij hoorde de wolventanden knarsen, terwijl ze naar de deur rende ....</p>
+        <p>... en in de armen viel van haar vriend de houthakker. Hij kwam langs om te kijken of het met grootmoeder beter ging. De houthakker gooide de wolf de deur uit en bevrijdde grootmoeder uit de kast. En zo leerde Roodkapje het verschil tussen vrienden en vreemden.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

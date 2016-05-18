@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mijn eerste sprookjesboek</title>
+        <author>Heather Amery</author>
+        <author>Stephen Cartwright; 1947-2004</author>
+        <author>Marjan Doets</author>
+        <author>Marcelle Utama-Goppel</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0040</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Vert. van The Usborne first story book. - London Usborne, cop. 1988</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Mijn eerste sprookjesboek</title>
+            <author>Heather Amery</author>
+            <author>Stephen Cartwright; 1947-2004</author>
+            <author>Marjan Doets</author>
+            <author>Marcelle Utama-Goppel</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>['s-Hertogenbosch] Usborne</publisher>
+            <date>cop. 1995</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Er was eens een klein meisje dat met haar moeder aan de rand van een groot, donker bos woonde. Van haar oma had het meisje een vuurrode cape gekregen met een capuchon eraan. Die vond ze zo mooi dat ze hem altijd aandeed als ze naar buiten ging. Daarom noemde iedereen haar Roodkapje.</p>
+        <p>Op een dag riep haar moeder Roodkapje bij zich in de keuken. 'Je oma is ziek,' zei ze. 'Ik heb wat eten voor haar in een mand gedaan. Die mag jij naar haar toebrengen. Loop maar door het bos naar haar huisje, maar onderweg niet met vreemden praten hoor!'</p>
+        <p>Roodkapje zwaaide naar haar moeder en liep het bos in met de mand. Het was prachtig weer en ze zong een liedje terwijl ze over het pad huppelde. Ze zag niet dat er achter een boom een grote grijze wolf zat, die met zijn glinsterende ogen naar haar keek.</p>
+        <p>Plotseling sprong de wolf tevoorschijn. Roodkapje werd heel erg bang maar de wolf lachte naar haar. 'Waar ga je naar toe, meisje?' vroeg hij. 'Ik ga deze mand met eten naar mijn oma brengen. Die woont in een huisje in het bos,' zei ze.</p>
+        <p>De wolf likte zijn lippen af en glimlachte. 'Waarom pluk je niet wat bloemen voor haar?' zei hij. Roodkapje vond de wolf een beetje eng, maar ze wist dat haar oma de bloemen wel mooi zou vinden. 'Dat is een goed idee, meneer de wolf,' zei ze beleefd. Ze zette haar mand neer en ging een grote bos bloemen plukken. De wolf keek nog even naar haar en glimlachte weer, zodat je al zijn scherpe witte tanden kon zien. Toen rende hij stilletjes het pad af door het bos, op weg naar oma's huisje. Hij had heel erge honger.</p>
+        <p>De wolf kwam bij het huisje en keek door het raam. Oma zat in bed te lezen. Hij klopte hard op de voordeur. 'Kom maar binnen,' riep oma. De wolf deed de deur open en rende naar binnen. Bliksemsnel at hij haar op, met één grote hap. Toen klom hij heel voorzichtig in oma's bed. Hij zette haar slaapmuts en haar bril op. Hij trok de dekens op tot onder zijn kin, en ging lekker tegen de, kussens liggen. Roodkapje zal zo wel komen, zei hij bij zichzelf, en wachtte tot ze binnen zou komen.</p>
+        <p>Daar kwam Roodkapje aan met haar mand en de bos bloemen. Ze klopte op de deur van het huisje. 'Ik ben het, oma,' zei ze. 'Kom maar binnen, liefje,' riep de wolf met een hoog stemmetje. 'Ik ben in de slaapkamer.' Roodkapje deed de deur open. 'Dag oma,' zei ze. 'Ik heb wat eten voor u meegenomen, en bloemen.' Toen keek ze eens goed naar haar oma. 'Maar oma,' zei ze, 'wat hebt u grote ogen. 'Dan kan ik je beter zien,' zei de wolf. 'Maar oma,' zei Roodkapje, die een beetje bang werd, 'wat hebt u grote oren.' 'Dan kan ik je beter horen,' zei de wolf en glimlachte naar haar. 'Maar oma,' zei Roodkapje, die nu heel bang was, 'wat hebt u grote tanden.' 'Dan kan ik je beter opeten,' gromde de wolf, en hij sprong uit bed. Roodkapje gilde maar de wolf at haar met één grote hap op. Toen klom hij weer heel voorzichtig in het bed, trok de dekens op, gaapte en viel in slaap.</p>
+        <p>Een houthakker in het bos hoorde de gil. 'Wat zou dat zijn,' zei hij. 'Ik kan maar beter even gaan kijken of alles goed is met de oude mevrouw.' Hij rende zo snel hij kon naar het huisje, haastte zich naar binnen door de open deur en ging meteen naar de slaapkamer. Hij zag de wolf slapen in oma's bed en doodde hem met één flinke zwaai van zijn bijl. Toen sneed hij hem open met zijn mes. In de buik vond hij Roodkapje en haar oma. Ze waren een beetje verkreukeld maar springlevend, en heel blij dat ze gered waren. 'Dank u wel dat u ons van die gemene wolf hebt gered,' zei oma. 'Nu kan hij nooit meer iemand bang maken.' De houthakker sleepte de dode wolf naar buiten, en daarna gingen ze aan tafel zitten om te eten.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

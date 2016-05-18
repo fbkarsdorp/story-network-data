@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>In de sprookjes wereld</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0414</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Op achterkant 56/825 Bevat Roodkapje ; Aladdin en de wonderlamp ; Diep in de zee ; Robinson Croese ; Hans en Grietje ; De kleine zeemeermin ; Assepoester</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>In de sprookjes wereld</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam Firma Lito Bruxelles Lito-Belgium</publisher>
+            <date>cop. 1956</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje,</p>
+        <p>Er was eens een klein meisje, dat Roodkapje heette. Op een dag zei haar moeder: "Hoor, eens Roodkapje, hier heb je een paar heerlijke wafels en een grote fles bessensap. Breng die eens naar Grootmoeder, want ze is ziek en zwak en dit zal haar zeker goed doen en lekker smaken. Meer wees voorzichtig in het bos. Niet op de zijpaadjes lopen, maar rechtdoor naar Grootmoeder gaan, zul je het doen?" Toen zei Roodkapje: "Ik zei alles doen, wat U zegt moeder, ik beloof het U." Toen nam ze het mandje en vertrok.</p>
+        <p>Roodkapje was juist een eindje op weg, toen zij een wolf tegen kwam. Ze wist niet dat dit een gevaarlijk beest was. De wolf zei: "Goedemorgen Roodkapje", " Dag", zei Roodkapje op haar beurt, en ze vertelde, dat ze op weg was naar Grootmoeder, die zo ziek was. "Waar woont ze?" "In het huisje onder de drie eiken." Roodkapje zal vast lekkerder zijn dan die oude Grootmoeder, dacht de wolf, maar als ik handig ben, zal ik ze misschien allebei proeven! "Ga je geen mooie bloemetjes voor Grootmoeder plukken? Daar zal ze wel erg blij mee zijn, nu ze helemaal niet in het bos kan wandelen," zei de wolf. Roodkapje vond dit een goed idee, en plukte de mooie bloemen, die overal om haar heen stonden.
+Steeds zag ze nog mooiere en zo kwam ze een beetje van de weg af.</p>
+        <p>Toen de wolf zag, hoe lief Roodkapje bloemetjes plukte, holde hij naar het huisje onder de drie eiken, deed net alsof hij Roodkapje was en kwam bij Grootmoeder in de slaapkamer. Voordat Grootmoeder iets kon zeggen, had de wolf haar al opgegeten, trok vlug de kleren van Grootmoeder aan, en ging helemaal onder de dekens in Grootmoeder's bed liggen.</p>
+        <p>Even daarna kwam Roodkapje binnen. Ze liep regelrecht naar Grootmoeder's bed. "Maar Grootmoeder," zei ze, "Wat ziet U eruit, wat heeft U een grote ogen en oren". "Dat is om beter te zien en te horen", zei Grootmoeder. "Maar Grootmoeder, wat heeft U een grote mond"! "Dat is om je beter te kunnen ophappen!", zei de wolf en meteen at hij Roodkapje op.</p>
+        <p>Juist kwam er een jager voorbij, die het oude vrouwtje zo vreselijk hard hoorde snurken, dat hij eens even een kijkje ging nemen. Toen vond hij de wolf, sneed vlug zijn buik open, en daar kwamen Grootmoeder en Roodkapje te voorschijn.</p>
+        <p>De jager stopte grote stenen in de buik van de wolf en naaide hem weer dicht. Toen de wolf wakker werd, had hij vreselijke dorst. Hij sprong uit het bed en liep naar de vijver. Toen hij zich voorover boog, rolden alle stenen naar voren. Hij viel in de vijver en verdronk.</p>
+        <p>Wat waren Grootmoeder en Roodkopje blij, dat de jager hen verlost had.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

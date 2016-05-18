@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sprookjesletters een abc-boek</title>
+        <author>Annemarie Elisabeth van den Brink; 1967-</author>
+        <author>Caroline van Pelt</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0102</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Sprookjesletters een abc-boek</title>
+            <author>Annemarie Elisabeth van den Brink; 1967-</author>
+            <author>Caroline van Pelt</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Hasselt ; Amsterdam [etc.] Clavis</publisher>
+            <date>cop. 2010</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>W w de W van wolf</p>
+        <p>In een bos, stil en verlaten, lag een wolf achter een struik.
+Hij wachtte op een stevig maaltje voor zijn hongerige buik.</p>
+        <p>Er kwam een mollig meisje aan, zo te zien een heerlijk hapje.
+Ze zong over haar grootmoeder en droeg een mand en een rood kapje.</p>
+        <p>De wolf ging snel naar grootmoeder en vrat haar op met huid en haar.
+Niet lang daarna verscheen Roodkapje. Die schrok en zei: 'Wat kijkt u raar.</p>
+        <p>Wat is uw mond groot, lieve oma.' 'Kom,' zei de wolf, 'geef me een zoen.' Roodkapje liep op oma af, dat had ze dus niet moeten doen ...</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

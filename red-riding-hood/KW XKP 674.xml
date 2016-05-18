@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje een pop-up boek</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0304</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje een pop-up boek</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Sint-Niklaas Flash Promoties</publisher>
+            <date>2000</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Er was eens een meisje wiens Grootmoeder zielsveel van haar hield. Op een dag zei die Grootmoeder: "Kijk eens wat ik voor jou gemaakt heb." "Een rode kapmantel!" riep het meisje verrukt. “O, mag ik hem alsjeblief proberen?" Hij paste perfect en ze droeg hem zo graag dat ze hem haast niet meer uitdeed. "Jij bent mijn Roodkapje," glimlachte Grootmoeder. En iedereen begon haar ook zo te noemen.</p>
+        <p>Op een dag zei de moeder van Roodkapje: "Grootmoeder voelt zich niet zo lekker. Ik zou graag hebben dat je haar enkele van die gebakjes brengt die ik net gemaakt heb." Roodkapje deed haar rode kapmantel om en nam het mandje met gebakjes mee. "Blijf op de weg en spreek niet met vreemden," waarschuwde haar vader die houthakker was. "Ik zal eraan denken," beloofde Roodkapje toen ze tot ziens wuifde.</p>
+        <p>Maar onderweg in het bos, zag Roodkapje mooie bloemen staan. "Ik zal een mooi tuiltje plukken voor Grootmoeder," dacht ze. Plotseling kwam er een grote wolf tevoorschijn van achter een struik. “Goedendag, Roodkapje," zei hij gespeeld vriendelijk en hij kwispelde met zijn staart. "Wat heb jij daar in je mandje?" "Wat verse gebakjes voor mijn Grootmoeder die ziek is," antwoordde Roodkapje.</p>
+        <p>De wolf likkebaardde. Hij bedacht dat en gebakjes en Roodkapje wel erg lekker zouden smaken. "Het spijt me van je Grootmoeder. Ik zal haar ook eens een bezoekje brengen. Ik weet een binnenweg door het bos." Maar Roodkapje herinnerde zich dat ze had beloofd om niet van de weg af te gaan, waar het veilig was, dus ging de wolf alleen. Hij kwam als eerste aan bij het huisje van Grootmoeder en sloop binnen.</p>
+        <p>Dan kwam Roodkapje aan bij het huisje en ging naar boven om haar Grootmoeder te zien. Toen er een gordijn van voor het bed werd weggeschoven stamelde Roodkapje: "Maar Grootmoeder, wat heb jij grote ogen." "Dat is om jou beter te kunnen zien," was het antwoord. "En, Grootmoeder, wat heb jij grote oren," zei Roodkapje. "Dat is om jou beter te kunnen horen," klonk het. "En, Grootmoeder, wat heb jij grote tanden," zei Roodkapje.</p>
+        <p>"Dat, mijn liefste, is om je beter te kunnen OPETEN!" snauwde de wolf en hij sprong uit Grootmoeders bed. "Help!" krijste Roodkapje. Haar vader, die even verderop aan het werken was, hoorde haar roepen. Hij stormde het huisje binnen en velde de wolf met één houw van zijn bijl. Grootmoeder had zich kunnen verbergen voor de wolf. "Ik voel me al veel beter nu," zei ze. Laten we thee drinken en van die lekkere gebakjes eten die Roodkapje voor me heeft meegebracht!"</p>
+      </div>
+    </body>
+  </text>
+</TEI>

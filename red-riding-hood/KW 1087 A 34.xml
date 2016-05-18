@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uit de sprookjeswereld plaatjes om uit te knippen en op te zetten</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0163</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Op voorplat H.W.A. De uitgave bevat afbeeldingen uit boeken van uitgeverij Molling uit Hannover - Rotkäppchen. Schneeweißchen und Rosenrot; uit Aus dem Märchenlande; en uit Aschenbrödel</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Uit de sprookjeswereld plaatjes om uit te knippen en op te zetten</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[Almelo W. Hilarius Wzn. ]</publisher>
+            <date>[1909]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje.</p>
+        <p>Er was eens een lief klein meisje, met mooi blond haar. Zij droeg altijd een aardig mutsje waarom zij door iedereen Roodkapje werd genoemd. Op zekeren dag gaf Roodkapjes moeder haar een mandje, waarin koek en wijn, omdat naar haar zieke grootmoeder, die achter in 't bosch woonde, te brengen. "Roodkapje," sprak moeder, "wees toch vooral voorzichtig, houd je niet op onderweg en breng grootmoeder van ons allen de hartelijke groeten."</p>
+        <p>Toen Roodkapje een eind op weg was, kwam een wolf uit de struiken te voorschijn, die haar erg vriendelijk aansprak. Hij vroeg Roodkapje waar zij zoo vlug heenging en toen hij alles wist, wees hij haar een plaats waar prachtige bloemen bloeiden. "Daarvan moet je nu eens een mooie ruiker plukken voor je lieve grootmoeder, dat zal haar bepaald veel pleizier doen," zei hij.</p>
+        <p>Roodkapje volgde zijn raad in intusschen ging de wolf verder. Van de booze plannen, die hij smeedde, had Roodkapje niet 't geringste vermoeden.</p>
+        <p>Zoodra de wolf uit 't gezicht was, sloeg hij de richting van grootmoeders huis in en zette het op een loopen. Spoedig was hij daar en overviel de zieke vrouw in haar bed. Hongerig als hij was, slokte hij haar in eens naar binnen, Hij zocht een slaapmuts van grootmoeder en zette die op, trok een nachtpon van haar aan en ging toen in 't bed liggen. Hij zag er uit, als of 't de oude vrouw zelf was.</p>
+        <p>Kort daarna trad ons Roodkapje binnen. De wolf bezon zich niet lang, sprong op 't kind toe en verslond 't eveneens.</p>
+        <p>Daarop legde hij zich weer te slapen en snurkte na eenige oogenblikken op vreeselijke wijze. Dat hoorde een jager die toevallig voorbijging. Hij keek door 't venster en zag den slapenden wolf. Voorzichtig ging hij naar binnen, doodde de wolf, en sneed hem den buik open, waardoor hij Roodkapje en de Grootmoeder nog juist bijtijds redde. Den volgenden dag bracht de jager het onvoorzichtige Roodkapje weer naar haar moeder, die hem rijkelijk voor zijn moedige daad beloonde.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

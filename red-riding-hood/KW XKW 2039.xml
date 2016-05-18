@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Er was eens...</title>
+        <author>Toby Vos; 1918-</author>
+        <author>Sjoert Schwitters; 1912-1945</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0368</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Bevat Hans en Grietje ; Roodkapje ; Sneeuwwitje Datering volgens Stripkatalogus Matla, 8e ed. Beeldverhaal</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Er was eens...</title>
+            <author>Toby Vos; 1918-</author>
+            <author>Sjoert Schwitters; 1912-1945</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Amsterdam ; Den Haag ; Rotterdam Mag. De Bijenkorf</publisher>
+            <date>[1942]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje</p>
+        <p>Kom Roodkapje, breng jij nu eens dit mandje met eten naar grootmoeder, grootmoeder is ziek!</p>
+        <p>...En denk eraan, dat je niet van de paden in het bos afwijkt, want, dan kon je de wolf wel eens tegen komen......</p>
+        <p>Ik zal alles wel goed doen. Dag moeder!</p>
+        <p>Wat zal grootmoeder blij zijn met dit lekkere eten en drinken.</p>
+        <p>....Jammer, dat ik niet een paar bloempjes voor haar kan plukken...</p>
+        <p>Goedendag, Roodkapje, waar ga je naar toe? Ik ga grootmoeder, die ziek is, wat eten brengen....</p>
+        <p>... En neem je dan helemaal geen bloemetjes voor haar mee? Daar houden zieke grootmoeders anders zoveel van! Ik zal toch maar een paar bloempjes voor grootmoeder gaan plukken.</p>
+        <p>Daaaaag! Wel bedankt voor je goede raad!</p>
+        <p>Wie is daar? Ik ben 't, Roodkapje!</p>
+        <p>Trek maar aan 't touwtje, dan gaat de deur wel open!</p>
+        <p>Ziezo, dat heeft gesmaakt! Nu zal ik maar op Roodkapje gaan liggen wachten.</p>
+        <p>Als ze komt, dan zeg ik: trek maar aan 't touwtje en als ze dan binnenkomt.....</p>
+        <p>Zo heb ik een prachtige bos!</p>
+        <p>Wie is daar? Ik ben 't, Roodkapje!</p>
+        <p>Trek maar aan 't touwtje!!</p>
+        <p>Maar grootmoeder, wat heb je een grote oren! Dan kan ik je beter horen!
+Grootmoeder, wat heb je een grote ogen!! Dan kan ik je beter zien, Roodkapje!
+Maar grootmoeder, wat heb je een grote mond! Dan kan ik je beter... Oppeuzelen!!!!</p>
+        <p>Hèhè! Ik heb in tijden niet zoveel en zo lekker gegeten! Ik ben er slaperig van geworden....</p>
+        <p>Wat snurkt die oude grootmoeder! Zou ze zo erg ziek zijn? Ik zal toch eens gaan kijken!</p>
+        <p>Lieve deugd! Daar ligt die boze wolf in bed. Die heeft zeker de arme grootmoeder opgegeten, maar ik zal hem..!!</p>
+        <p>...Nee, laat ik niet schieten! Misschien kan ik de arme vrouw nog redden....</p>
+        <p>Wat zie ik daar? Dat is Roodkapje en ze is helemaal niet gewond!!</p>
+        <p>Brrrr! Wat was het benauwd in de buik van de wolf!!</p>
+        <p>Laten we stenen in zijn buik stoppen! Goed, Roodkapje, Ga maar gauw een paar zware zoeken!</p>
+        <p>Hèhè. Wat heb ik geslapen! En wat heb ik een dorst gekregen! Ik ga gauw naar de put om een slokje te drinken!!!</p>
+      </div>
+    </body>
+  </text>
+</TEI>

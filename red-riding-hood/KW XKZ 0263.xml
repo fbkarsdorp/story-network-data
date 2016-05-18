@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Televisie sprookjesboek</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0389</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Op achterplat No. 197/198 Verhalen in afbeeldingen die uitgeknipt kunnen worden en dan vertoond op een televisie die gemaakt kan worden van de uitvouwbare achterflap Datering spelling Marchant, schatting</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Televisie sprookjesboek</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l. s.n. ]</publisher>
+            <date>[195-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Roodkapje was een lief klein meisje, dat met haar ouders in een leuk huisje woonde.</p>
+        <p>Op een keer zei haar moeder: “Breng dit mandje maar naar grootmoeder, die ziek is. Gauw terug komen hoor!”</p>
+        <p>Roodkapje liep door het grote bos en opeens stond er een grote wolf voor haar. Hij lachte vriendelijk en vroeg waar zij wel heen ging. “Naar grootmoe,” zei Roodkapje, “die is ziek en nu breng ik haar een paar lekkere hapjes dan wordt ze weer gauw beter.”</p>
+        <p>De boze wolf rende langs de kortste weg naar het huis van grootmoe en klopte daar op de deur. “Wie is daar?" vroeg grootmoe. De wolf zei: “Ik ben het, Roodkapje. Ik breng U lekkere dingen.” “Kom dan maar binnen lief kind," antwoordde grootmoe. De wolf kwam binnen en at met een hap die arme grootje op. Toen zette hij haar muts op en kroop in bed.</p>
+        <p>Na een poosje kwam Roodkapje bij het huisje van grootmoe en toen zij aangeklopt had riep de wolf: “Kom maar binnen liefje!" Roodkapje schrok erg toen zij in het bed keek. “Grootmoe” zei ze, “wat hebt U een grote oren, een grote ogen en een grote mond." “Dat is om je beter te kunnen horen, te kunnen zien en te kunnen opeten", riep de wolf en hij at ook Roodkapje op.</p>
+        <p>Gelukkig kwam er een jager voorbij, die de wolf doodschoot. Toen hij zijn buik opensneed kwamen Roodkapje en haar grootmoe weer levend tevoorschijn. Natuurlijk was Roodkapje's moeder heel erg blij, toen ze haar dochtertje weer gezond en wel terug zag keren.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roodkapje</title>
+        <author>Eva Sýkorová-Pekárková</author>
+        <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+        <author>Wilhelm Carl Grimm; 1786-1859</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0042</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Bewerking naar het sprookje van de gebroeders Grimm Vert. van Červená karkulka. - Praha Brio, cop. 1996</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Roodkapje</title>
+            <author>Eva Sýkorová-Pekárková</author>
+            <author>Jacob Ludwig Carl Grimm; 1785-1863</author>
+            <author>Wilhelm Carl Grimm; 1786-1859</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Lisse R &amp; B</publisher>
+            <date>cop. 1996</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Er was eens een klein meisje dat iedereen lief vond. Maar haar moeder en grootmoeder hielden het meest van haar. Grootmoeder maakte een rood kapje voor het meisje. Daarna noemde iedereen haar Roodkapje.</p>
+        <p>Moeder: Roodkapje! We hebben grootmoeder al lang niet meer gezien. Ga er maar eens heen en vraag hoe het met haar gaat. Hier, neem iets lekker voor haar mee. Ga niet van de weg af!</p>
+        <p>Grootmoeder woonde in een huisje achter het donkere bos. Roodkapje wilde graag pootjebaden in de frisse beek. Ze liep van de weg af, hoewel dat niet mocht van haar moeder.</p>
+        <p>Wolf: Dag Roodkapje! Waar ga je heen?
+Roodkapje: Dag lieve hond. Ik breng koekjes naar grootmoeder. Wil je ze proeven?
+Wolf: Nee, Roodkapje, dankjewel. Ik eet liever worst!
+Wolf: Woont je grootmoeder ver weg? Wedden dat ik eerder bij haar ben?
+Roodkapje: Ach dommerik, je loopt de verkeerde kant op!
+Wolf: Snel, Roodkapje!
+Roodkapje: Zo zal hij nooit bij grootmoeder komen. En ik pluk mooie bloemen voor haar.</p>
+        <p>Wolf: Zo, nu vlug naar grootmoeder.
+Wolf: Klop, klop! 
+Wolf: Klop, klop!
+Grootmoeder: Wie is daar?
+Wolf: Roodkapje, grootmoeder.
+Grootmoeder: Kom maar binnen, de deur is open.
+Wolf: Hop. Aaah! Jammm... 
+Wolf: Kijk eens hoe goed dat nachthemd past.
+Wolf: En de slaapmuts...
+Wolf: ... nu kan het toetje komen.</p>
+        <p>Roodkapje: Klop klop klop
+Roodkapje: Ik ben het, Roodkapje.
+Wolf: Ik voel me niet lekker, ik lig in bed. Kom bij me Roodkapje.
+Roodkapje: Grootmoeder, wat hebt u een rare stem.
+Wolf: Ja kind, ik ben verkouden.</p>
+        <p>Roodkapje: Grootmoeder, wat hebt u grote oren!
+Wolf: Daar kan ik je beter mee horen.
+Roodkapje: Grootmoeder, wat hebt u grote ogen!
+Wolf: Daar kan ik je beter mee zien.
+Roodkapje: Grootmoeder, wat hebt u grote handen!
+Wolf: Daar kan ik je beter mee vasthouden.
+Roodkapje: Grootmoeder, wat hebt u grote tanden!
+Wolf: Daar kan ik je beter mee opeten!</p>
+        <p>Wolf: hap!!
+Wolf: zzzz zzzz grrrr grrrr</p>
+        <p>Toen kwam er een jager langs.
+grrrr grrrr grrrr grrrr
+Jager: Wat snurkt grootmoeder toch hard!
+Jager: Ik zal maar even gaan kijken. Hé!</p>
+        <p>Roodkapje &amp; Grootmoeder: Help! Help!
+Jager: Gelukkig kwam ik net op tijd om jullie te bevrijden!</p>
+        <p>Grootmoeder: Bedankt, beste jager.
+Jager: Graag gedaan.
+Roodkapje: Dat was vreselijk!
+Grootmoeder: Laten we de buik van de wolf met stenen vullen...
+Jager: ... en hem daarna weer netjes dichtnaaien.
+Roodkapje: Hier is nog een steen.
+Wolf: grrrr grrrr
+Roodkapje: Verstop je voor de wolf wakker wordt!!</p>
+        <p>Wolf: Au! Au! Mijn buik... ik heb zeker te veel gegeten. En ik heb ook zo'n dorst!</p>
+        <p>De stenen waren zo zwaar...
+... dat de wolf in de put viel toen hij wilde drinken.</p>
+        <p>Jager &amp; Grootmoeder: Wat een avontuur!</p>
+        <p>Jager: Roodkapje, volgende keer kijk je beter uit, hè?
+Roodkapje: Ja, voortaan zal ik moeder gehoorzamen!</p>
+        <p>Nu is het weer rustig in het bos.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sprookjes kindervreugd</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name>Folgert Karsdorp</name>
+          <name>Marten van der Meulen</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Folgert Karsdorp</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Meertens Institute / Radboud University</publisher>
+        <pubPlace>Amsterdam / Nijmegen</pubPlace>
+        <date>2016-04-14</date>
+        <idno>DRRH0305</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Omslagtitel Bevat de sprookjes Assepoester, De rattenvanger van Hamelen, Hans en Grietje, Roodkapje, Goudhaartje en de drie beren, Sneeuwwitje Datering spelling Marchant, schatting</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Sprookjes kindervreugd</title>
+            <author>Anonymous</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>[S.l. s.n. ]</publisher>
+            <date>[195-?]</date>
+          </publicationStmt>
+          <sourceDesc>
+            <p>No source: this is an original work</p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>ROODKAPJE ZOCHT HAAR ZIEKE GROOTJE OP</p>
+        <p>MAAR WIE LAG DAAR IN GROOTJES BED?</p>
+        <p>HET WAS DE BOZE WOLF UIT HET BOS!</p>
+        <p>MAAR DE JAGER HEEFT ROODKAPJE NOG GERED!</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>
